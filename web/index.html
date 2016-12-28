@@ -1,6 +1,110 @@
 <html>
-	<head>LA Metro Bike Share</head>
-	<body>
+	<head>
+		<title>LA Metro Bike Share</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<style>
+			body {
+				position: relative;
+			}
+			.jumbotron {
+				background-color: #f4511e; /* Orange */
+				color: #ffffff;
+				padding: 50px 25px;
+				margin-bottom: 0px;
+			}
+			.bg-grey {
+				background-color: #f6f6f6;
+				padding: 60px 50px;
+			}
+			.navbar {
+				margin-bottom: 0;
+				background-color: #f4511e;
+				z-index: 9999;
+				border: 0;
+				font-size: 12px !important;
+				line-height: 1.42857143 !important;
+				letter-spacing: 4px;
+				border-radius: 0;
+			}
 
+			.navbar li a, .navbar .navbar-brand {
+				color: #fff !important;
+			}
+
+			.navbar-nav li a:hover, .navbar-nav li.active a {
+				color: #f4511e !important;
+				background-color: #fff !important;
+			}
+
+			.navbar-default .navbar-toggle {
+				border-color: transparent;
+				color: #fff !important;
+			}
+			#about{
+				padding-top: 50px;
+			}
+			.txt_content h4{
+				line-height: 2.0;
+			}
+		</style>
+	</head>
+	<body data-spy="scroll" data-target=".navbar" data-offset="60">
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+			<div class="collapse navbar-collapse" id="myNavbar">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="#about">ABOUT</a></li>
+					<li><a href="#services">SERVICES</a></li>
+					<li><a href="#portfolio">PORTFOLIO</a></li>
+					<li><a href="#pricing">PRICING</a></li>
+					<li><a href="#contact">CONTACT</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div class="jumbotron">
+		<h1>LA Metro Bike Share</h1>
+		<p>Analysis & Visualization</p>
+	</div>
+	<div class="container-fluid">
+		<div id="about" class="row">
+			<div class="col-sm-6 txt_content">
+				<h2><b>ABOUT</b></h2>
+				<h4>Los Angeles just launched its Metro Bike Share system at the beginning of Q3, 2016. The system consisted of over 60 stations and 1,000 bicycles( find more information from <a href="https://bikeshare.metro.net/">the original website</a>). There are currently 3 pricing options for the service; Monthly Pass, Flex Pass, and Walk-up. It also released the <a href="https://bikeshare.metro.net/about/data/">system usage dataset</a> for the recent quarter(Jul - Sep, 2016). We are interested in exploring the usage statistics and the overall trend.</h4>
+			</div>
+			<div class="col-sm-6 txt_content">
+				<img src="img/pricing_options.png" width="99%">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-4">
+				<h2>About Company Page</h2>
+				<h4>Lorem ipsum..</h4>
+				<p>Lorem ipsum..</p>
+			</div>
+			<div class="col-sm-8">
+				<div class='tableauPlaceholder' id='viz1482885850183' style='position: relative'><noscript><a href='#'><img alt='DB_Map_by_weekday ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;43&#47;436BS3K3J&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='path' value='shared&#47;436BS3K3J' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;43&#47;436BS3K3J&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1482885850183');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='804px';vizElement.style.height='869px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-8">
+				<div class='tableauPlaceholder' id='viz1482886080652' style='position: relative'><noscript><a href='#'><img alt='DB_Summary_number_of_users_by_weekday ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Summary_number_of_users_by_weekday&#47;DB_Summary_number_of_users_by_weekday&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='LAMetroBikeSharek_DB_Summary_number_of_users_by_weekday&#47;DB_Summary_number_of_users_by_weekday' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Summary_number_of_users_by_weekday&#47;DB_Summary_number_of_users_by_weekday&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1482886080652');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='804px';vizElement.style.height='869px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+			</div>
+			<div class="col-sm-4">
+				<h2>About Company Page</h2>
+				<h4>Lorem ipsum..</h4>
+				<p>Lorem ipsum..</p>
+			</div>
+		</div>
+	</div>
 	</body>
 </html>
