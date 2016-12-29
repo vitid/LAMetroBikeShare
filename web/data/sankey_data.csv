@@ -1,0 +1,3236 @@
+start_station_id,start_station_name,end_station_id,end_station_name,counts
+3030,Main & 1st,3030,Main & 1st,0
+3069,Broadway & 3rd,3069,Broadway & 3rd,0
+3014,Union Station West Portal,3014,Union Station West Portal,0
+3005,Flower & 7th,3005,Flower & 7th,0
+3031,7th & Spring,3031,7th & Spring,0
+3064,Grand & 7th,3064,Grand & 7th,0
+3042,1st & Central,3042,1st & Central,0
+3067,Main & 6th,3067,Main & 6th,0
+3022,3rd & Santa Fe,3022,3rd & Santa Fe,0
+3035,Figueroa & 8th,3035,Figueroa & 8th,0
+3038,Main & 5th,3038,Main & 5th,0
+3034,Hope & 11th,3034,Hope & 11th,0
+3055,7th & Main,3055,7th & Main,0
+3049,2nd & Figueroa,3049,2nd & Figueroa,0
+3006,Olive & 8th,3006,Olive & 8th,0
+3021,,3021,,0
+3032,Hope & 6th,3032,Hope & 6th,0
+3063,Olive & 5th,3063,Olive & 5th,0
+3068,Grand & 3rd,3068,Grand & 3rd,0
+3048,5th & Hewitt,3048,5th & Hewitt,0
+3007,5th & Grand,3007,5th & Grand,0
+3074,Hope & Olympic,3074,Hope & Olympic,0
+3027,Spring & 3rd,3027,Spring & 3rd,0
+3052,7th & Bixel,3052,7th & Bixel,0
+3016,Los Angeles & Temple,3016,Los Angeles & Temple,0
+3024,Hope & 1st,3024,Hope & 1st,0
+3008,Figueroa & 9th,3008,Figueroa & 9th,0
+3075,Broadway & 9th,3075,Broadway & 9th,0
+3047,Pico & Flower,3047,Pico & Flower,0
+3019,12th & Hill,3019,12th & Hill,0
+3023,1st & Judge John Aiso,3023,1st & Judge John Aiso,0
+3076,9th & Los Angeles,3076,9th & Los Angeles,0
+3051,7th & Broadway,3051,7th & Broadway,0
+3082,Traction & Rose,3082,Traction & Rose,0
+3058,Industrial St & Mateo St,3058,Industrial St & Mateo St,0
+3062,3rd & San Pedro,3062,3rd & San Pedro,0
+3029,Main & 4th,3029,Main & 4th,0
+3026,Figueroa & Cesar Chavez,3026,Figueroa & Cesar Chavez,0
+3066,Spring & College,3066,Spring & College,0
+3046,2nd & Hill,3046,2nd & Hill,0
+3036,Willow St & Mateo St,3036,Willow St & Mateo St,0
+3018,Grand & Olympic,3018,Grand & Olympic,0
+3056,Grand & 14th,3056,Grand & 14th,0
+3040,Wilshire & Witmer,3040,Wilshire & Witmer,0
+3028,Grand & Temple,3028,Grand & Temple,0
+3037,Imperial & 7th,3037,Imperial & 7th,0
+3011,Figueroa & Pico,3011,Figueroa & Pico,0
+3065,New High & Ord,3065,New High & Ord,0
+3054,Factory Place & Alameda,3054,Factory Place & Alameda,0
+3077,8th & Wall,3077,8th & Wall,0
+3033,Main & 9th,3033,Main & 9th,0
+3079,Temple & Vignes,3079,Temple & Vignes,0
+3059,11th & Santee,3059,11th & Santee,0
+3078,Hill & College,3078,Hill & College,0
+3010,11th & Maple,3010,11th & Maple,0
+3025,Grand & Washington,3025,Grand & Washington,0
+3020,Hill & Washington,3020,Hill & Washington,0
+3060,Pico & Maple,3060,Pico & Maple,0
+3057,18th & Figueroa,3057,18th & Figueroa,0
+3081,Stanford & 12th,3081,Stanford & 12th,0
+3045,18th & San Pedro,3045,18th & San Pedro,0
+3080,San Julian & 12th,3080,San Julian & 12th,0
+3053,12th & Grand,3053,12th & Grand,0
+3005,Flower & 7th,3005,Flower & 7th,149
+3005,Flower & 7th,3006,Olive & 8th,52
+3005,Flower & 7th,3007,5th & Grand,5
+3005,Flower & 7th,3008,Figueroa & 9th,89
+3005,Flower & 7th,3010,11th & Maple,3
+3005,Flower & 7th,3011,Figueroa & Pico,17
+3005,Flower & 7th,3014,Union Station West Portal,19
+3005,Flower & 7th,3016,Los Angeles & Temple,9
+3005,Flower & 7th,3018,Grand & Olympic,19
+3005,Flower & 7th,3019,12th & Hill,24
+3005,Flower & 7th,3020,Hill & Washington,10
+3005,Flower & 7th,3021,,26
+3005,Flower & 7th,3022,3rd & Santa Fe,37
+3005,Flower & 7th,3023,1st & Judge John Aiso,13
+3005,Flower & 7th,3024,Hope & 1st,4
+3005,Flower & 7th,3025,Grand & Washington,7
+3005,Flower & 7th,3026,Figueroa & Cesar Chavez,15
+3005,Flower & 7th,3027,Spring & 3rd,14
+3005,Flower & 7th,3028,Grand & Temple,2
+3005,Flower & 7th,3029,Main & 4th,12
+3005,Flower & 7th,3030,Main & 1st,54
+3005,Flower & 7th,3031,7th & Spring,157
+3005,Flower & 7th,3032,Hope & 6th,22
+3005,Flower & 7th,3033,Main & 9th,8
+3005,Flower & 7th,3034,Hope & 11th,148
+3005,Flower & 7th,3035,Figueroa & 8th,35
+3005,Flower & 7th,3036,Willow St & Mateo St,4
+3005,Flower & 7th,3037,Imperial & 7th,25
+3005,Flower & 7th,3038,Main & 5th,47
+3005,Flower & 7th,3040,Wilshire & Witmer,36
+3005,Flower & 7th,3042,1st & Central,24
+3005,Flower & 7th,3045,18th & San Pedro,8
+3005,Flower & 7th,3046,2nd & Hill,5
+3005,Flower & 7th,3047,Pico & Flower,23
+3005,Flower & 7th,3048,5th & Hewitt,49
+3005,Flower & 7th,3049,2nd & Figueroa,48
+3005,Flower & 7th,3051,7th & Broadway,37
+3005,Flower & 7th,3052,7th & Bixel,40
+3005,Flower & 7th,3053,12th & Grand,1
+3005,Flower & 7th,3054,Factory Place & Alameda,6
+3005,Flower & 7th,3055,7th & Main,72
+3005,Flower & 7th,3056,Grand & 14th,11
+3005,Flower & 7th,3057,18th & Figueroa,16
+3005,Flower & 7th,3058,Industrial St & Mateo St,18
+3005,Flower & 7th,3059,11th & Santee,10
+3005,Flower & 7th,3060,Pico & Maple,3
+3005,Flower & 7th,3062,3rd & San Pedro,77
+3005,Flower & 7th,3063,Olive & 5th,37
+3005,Flower & 7th,3064,Grand & 7th,27
+3005,Flower & 7th,3065,New High & Ord,19
+3005,Flower & 7th,3066,Spring & College,12
+3005,Flower & 7th,3067,Main & 6th,63
+3005,Flower & 7th,3068,Grand & 3rd,12
+3005,Flower & 7th,3069,Broadway & 3rd,70
+3005,Flower & 7th,3074,Hope & Olympic,20
+3005,Flower & 7th,3075,Broadway & 9th,49
+3005,Flower & 7th,3076,9th & Los Angeles,33
+3005,Flower & 7th,3077,8th & Wall,14
+3005,Flower & 7th,3078,Hill & College,1
+3005,Flower & 7th,3079,Temple & Vignes,2
+3005,Flower & 7th,3080,San Julian & 12th,2
+3005,Flower & 7th,3082,Traction & Rose,33
+3006,Olive & 8th,3005,Flower & 7th,46
+3006,Olive & 8th,3006,Olive & 8th,89
+3006,Olive & 8th,3007,5th & Grand,11
+3006,Olive & 8th,3008,Figueroa & 9th,18
+3006,Olive & 8th,3010,11th & Maple,1
+3006,Olive & 8th,3011,Figueroa & Pico,9
+3006,Olive & 8th,3014,Union Station West Portal,27
+3006,Olive & 8th,3018,Grand & Olympic,19
+3006,Olive & 8th,3019,12th & Hill,35
+3006,Olive & 8th,3020,Hill & Washington,8
+3006,Olive & 8th,3021,,28
+3006,Olive & 8th,3022,3rd & Santa Fe,27
+3006,Olive & 8th,3023,1st & Judge John Aiso,11
+3006,Olive & 8th,3024,Hope & 1st,1
+3006,Olive & 8th,3025,Grand & Washington,8
+3006,Olive & 8th,3026,Figueroa & Cesar Chavez,8
+3006,Olive & 8th,3027,Spring & 3rd,11
+3006,Olive & 8th,3028,Grand & Temple,1
+3006,Olive & 8th,3029,Main & 4th,18
+3006,Olive & 8th,3030,Main & 1st,25
+3006,Olive & 8th,3031,7th & Spring,75
+3006,Olive & 8th,3032,Hope & 6th,49
+3006,Olive & 8th,3033,Main & 9th,9
+3006,Olive & 8th,3034,Hope & 11th,31
+3006,Olive & 8th,3035,Figueroa & 8th,44
+3006,Olive & 8th,3036,Willow St & Mateo St,6
+3006,Olive & 8th,3037,Imperial & 7th,9
+3006,Olive & 8th,3038,Main & 5th,66
+3006,Olive & 8th,3040,Wilshire & Witmer,7
+3006,Olive & 8th,3042,1st & Central,38
+3006,Olive & 8th,3045,18th & San Pedro,1
+3006,Olive & 8th,3046,2nd & Hill,24
+3006,Olive & 8th,3047,Pico & Flower,25
+3006,Olive & 8th,3048,5th & Hewitt,17
+3006,Olive & 8th,3049,2nd & Figueroa,11
+3006,Olive & 8th,3051,7th & Broadway,7
+3006,Olive & 8th,3052,7th & Bixel,19
+3006,Olive & 8th,3054,Factory Place & Alameda,7
+3006,Olive & 8th,3055,7th & Main,44
+3006,Olive & 8th,3056,Grand & 14th,9
+3006,Olive & 8th,3057,18th & Figueroa,7
+3006,Olive & 8th,3058,Industrial St & Mateo St,3
+3006,Olive & 8th,3059,11th & Santee,4
+3006,Olive & 8th,3060,Pico & Maple,4
+3006,Olive & 8th,3062,3rd & San Pedro,11
+3006,Olive & 8th,3063,Olive & 5th,52
+3006,Olive & 8th,3064,Grand & 7th,15
+3006,Olive & 8th,3065,New High & Ord,6
+3006,Olive & 8th,3066,Spring & College,4
+3006,Olive & 8th,3067,Main & 6th,79
+3006,Olive & 8th,3068,Grand & 3rd,3
+3006,Olive & 8th,3069,Broadway & 3rd,52
+3006,Olive & 8th,3074,Hope & Olympic,29
+3006,Olive & 8th,3075,Broadway & 9th,26
+3006,Olive & 8th,3076,9th & Los Angeles,64
+3006,Olive & 8th,3077,8th & Wall,19
+3006,Olive & 8th,3078,Hill & College,5
+3006,Olive & 8th,3080,San Julian & 12th,1
+3006,Olive & 8th,3081,Stanford & 12th,3
+3006,Olive & 8th,3082,Traction & Rose,30
+3007,5th & Grand,3005,Flower & 7th,27
+3007,5th & Grand,3006,Olive & 8th,22
+3007,5th & Grand,3007,5th & Grand,75
+3007,5th & Grand,3008,Figueroa & 9th,28
+3007,5th & Grand,3011,Figueroa & Pico,8
+3007,5th & Grand,3014,Union Station West Portal,29
+3007,5th & Grand,3018,Grand & Olympic,42
+3007,5th & Grand,3019,12th & Hill,23
+3007,5th & Grand,3021,,21
+3007,5th & Grand,3022,3rd & Santa Fe,28
+3007,5th & Grand,3023,1st & Judge John Aiso,5
+3007,5th & Grand,3024,Hope & 1st,5
+3007,5th & Grand,3025,Grand & Washington,7
+3007,5th & Grand,3026,Figueroa & Cesar Chavez,25
+3007,5th & Grand,3027,Spring & 3rd,21
+3007,5th & Grand,3028,Grand & Temple,4
+3007,5th & Grand,3029,Main & 4th,12
+3007,5th & Grand,3030,Main & 1st,20
+3007,5th & Grand,3031,7th & Spring,54
+3007,5th & Grand,3032,Hope & 6th,9
+3007,5th & Grand,3033,Main & 9th,2
+3007,5th & Grand,3034,Hope & 11th,48
+3007,5th & Grand,3035,Figueroa & 8th,31
+3007,5th & Grand,3036,Willow St & Mateo St,8
+3007,5th & Grand,3037,Imperial & 7th,7
+3007,5th & Grand,3038,Main & 5th,18
+3007,5th & Grand,3040,Wilshire & Witmer,11
+3007,5th & Grand,3042,1st & Central,30
+3007,5th & Grand,3045,18th & San Pedro,2
+3007,5th & Grand,3046,2nd & Hill,4
+3007,5th & Grand,3047,Pico & Flower,16
+3007,5th & Grand,3048,5th & Hewitt,16
+3007,5th & Grand,3049,2nd & Figueroa,27
+3007,5th & Grand,3051,7th & Broadway,18
+3007,5th & Grand,3052,7th & Bixel,35
+3007,5th & Grand,3054,Factory Place & Alameda,2
+3007,5th & Grand,3055,7th & Main,15
+3007,5th & Grand,3056,Grand & 14th,5
+3007,5th & Grand,3057,18th & Figueroa,2
+3007,5th & Grand,3058,Industrial St & Mateo St,9
+3007,5th & Grand,3060,Pico & Maple,2
+3007,5th & Grand,3062,3rd & San Pedro,6
+3007,5th & Grand,3063,Olive & 5th,22
+3007,5th & Grand,3064,Grand & 7th,82
+3007,5th & Grand,3065,New High & Ord,6
+3007,5th & Grand,3066,Spring & College,5
+3007,5th & Grand,3067,Main & 6th,46
+3007,5th & Grand,3068,Grand & 3rd,5
+3007,5th & Grand,3069,Broadway & 3rd,44
+3007,5th & Grand,3074,Hope & Olympic,23
+3007,5th & Grand,3075,Broadway & 9th,44
+3007,5th & Grand,3076,9th & Los Angeles,9
+3007,5th & Grand,3077,8th & Wall,3
+3007,5th & Grand,3078,Hill & College,5
+3007,5th & Grand,3079,Temple & Vignes,3
+3007,5th & Grand,3080,San Julian & 12th,2
+3007,5th & Grand,3081,Stanford & 12th,1
+3007,5th & Grand,3082,Traction & Rose,19
+3008,Figueroa & 9th,3005,Flower & 7th,41
+3008,Figueroa & 9th,3006,Olive & 8th,25
+3008,Figueroa & 9th,3007,5th & Grand,16
+3008,Figueroa & 9th,3008,Figueroa & 9th,90
+3008,Figueroa & 9th,3011,Figueroa & Pico,43
+3008,Figueroa & 9th,3014,Union Station West Portal,11
+3008,Figueroa & 9th,3016,Los Angeles & Temple,1
+3008,Figueroa & 9th,3018,Grand & Olympic,5
+3008,Figueroa & 9th,3019,12th & Hill,10
+3008,Figueroa & 9th,3020,Hill & Washington,3
+3008,Figueroa & 9th,3021,,10
+3008,Figueroa & 9th,3022,3rd & Santa Fe,13
+3008,Figueroa & 9th,3023,1st & Judge John Aiso,5
+3008,Figueroa & 9th,3024,Hope & 1st,10
+3008,Figueroa & 9th,3025,Grand & Washington,6
+3008,Figueroa & 9th,3026,Figueroa & Cesar Chavez,9
+3008,Figueroa & 9th,3027,Spring & 3rd,3
+3008,Figueroa & 9th,3028,Grand & Temple,11
+3008,Figueroa & 9th,3029,Main & 4th,5
+3008,Figueroa & 9th,3030,Main & 1st,6
+3008,Figueroa & 9th,3031,7th & Spring,75
+3008,Figueroa & 9th,3032,Hope & 6th,54
+3008,Figueroa & 9th,3033,Main & 9th,8
+3008,Figueroa & 9th,3034,Hope & 11th,5
+3008,Figueroa & 9th,3035,Figueroa & 8th,20
+3008,Figueroa & 9th,3036,Willow St & Mateo St,5
+3008,Figueroa & 9th,3037,Imperial & 7th,4
+3008,Figueroa & 9th,3038,Main & 5th,17
+3008,Figueroa & 9th,3040,Wilshire & Witmer,17
+3008,Figueroa & 9th,3042,1st & Central,7
+3008,Figueroa & 9th,3045,18th & San Pedro,1
+3008,Figueroa & 9th,3046,2nd & Hill,8
+3008,Figueroa & 9th,3047,Pico & Flower,13
+3008,Figueroa & 9th,3048,5th & Hewitt,2
+3008,Figueroa & 9th,3049,2nd & Figueroa,44
+3008,Figueroa & 9th,3051,7th & Broadway,14
+3008,Figueroa & 9th,3052,7th & Bixel,26
+3008,Figueroa & 9th,3054,Factory Place & Alameda,4
+3008,Figueroa & 9th,3055,7th & Main,11
+3008,Figueroa & 9th,3056,Grand & 14th,1
+3008,Figueroa & 9th,3057,18th & Figueroa,8
+3008,Figueroa & 9th,3058,Industrial St & Mateo St,2
+3008,Figueroa & 9th,3059,11th & Santee,1
+3008,Figueroa & 9th,3060,Pico & Maple,2
+3008,Figueroa & 9th,3062,3rd & San Pedro,4
+3008,Figueroa & 9th,3063,Olive & 5th,57
+3008,Figueroa & 9th,3064,Grand & 7th,31
+3008,Figueroa & 9th,3065,New High & Ord,4
+3008,Figueroa & 9th,3066,Spring & College,2
+3008,Figueroa & 9th,3067,Main & 6th,39
+3008,Figueroa & 9th,3068,Grand & 3rd,3
+3008,Figueroa & 9th,3069,Broadway & 3rd,45
+3008,Figueroa & 9th,3074,Hope & Olympic,6
+3008,Figueroa & 9th,3075,Broadway & 9th,17
+3008,Figueroa & 9th,3076,9th & Los Angeles,23
+3008,Figueroa & 9th,3077,8th & Wall,6
+3008,Figueroa & 9th,3078,Hill & College,5
+3008,Figueroa & 9th,3081,Stanford & 12th,2
+3008,Figueroa & 9th,3082,Traction & Rose,5
+3010,11th & Maple,3005,Flower & 7th,2
+3010,11th & Maple,3007,5th & Grand,4
+3010,11th & Maple,3008,Figueroa & 9th,3
+3010,11th & Maple,3010,11th & Maple,49
+3010,11th & Maple,3011,Figueroa & Pico,1
+3010,11th & Maple,3014,Union Station West Portal,51
+3010,11th & Maple,3019,12th & Hill,1
+3010,11th & Maple,3031,7th & Spring,1
+3010,11th & Maple,3032,Hope & 6th,3
+3010,11th & Maple,3033,Main & 9th,3
+3010,11th & Maple,3034,Hope & 11th,3
+3010,11th & Maple,3038,Main & 5th,2
+3010,11th & Maple,3040,Wilshire & Witmer,3
+3010,11th & Maple,3042,1st & Central,6
+3010,11th & Maple,3045,18th & San Pedro,1
+3010,11th & Maple,3047,Pico & Flower,24
+3010,11th & Maple,3051,7th & Broadway,2
+3010,11th & Maple,3052,7th & Bixel,2
+3010,11th & Maple,3055,7th & Main,3
+3010,11th & Maple,3056,Grand & 14th,2
+3010,11th & Maple,3057,18th & Figueroa,1
+3010,11th & Maple,3059,11th & Santee,10
+3010,11th & Maple,3060,Pico & Maple,2
+3010,11th & Maple,3062,3rd & San Pedro,1
+3010,11th & Maple,3063,Olive & 5th,7
+3010,11th & Maple,3064,Grand & 7th,6
+3010,11th & Maple,3067,Main & 6th,1
+3010,11th & Maple,3074,Hope & Olympic,16
+3010,11th & Maple,3075,Broadway & 9th,1
+3010,11th & Maple,3076,9th & Los Angeles,3
+3010,11th & Maple,3077,8th & Wall,2
+3010,11th & Maple,3080,San Julian & 12th,4
+3010,11th & Maple,3081,Stanford & 12th,3
+3011,Figueroa & Pico,3005,Flower & 7th,22
+3011,Figueroa & Pico,3006,Olive & 8th,8
+3011,Figueroa & Pico,3007,5th & Grand,16
+3011,Figueroa & Pico,3008,Figueroa & 9th,36
+3011,Figueroa & Pico,3011,Figueroa & Pico,105
+3011,Figueroa & Pico,3014,Union Station West Portal,5
+3011,Figueroa & Pico,3018,Grand & Olympic,7
+3011,Figueroa & Pico,3019,12th & Hill,24
+3011,Figueroa & Pico,3020,Hill & Washington,1
+3011,Figueroa & Pico,3021,,1
+3011,Figueroa & Pico,3023,1st & Judge John Aiso,1
+3011,Figueroa & Pico,3025,Grand & Washington,2
+3011,Figueroa & Pico,3026,Figueroa & Cesar Chavez,1
+3011,Figueroa & Pico,3027,Spring & 3rd,4
+3011,Figueroa & Pico,3028,Grand & Temple,1
+3011,Figueroa & Pico,3029,Main & 4th,1
+3011,Figueroa & Pico,3030,Main & 1st,7
+3011,Figueroa & Pico,3031,7th & Spring,24
+3011,Figueroa & Pico,3032,Hope & 6th,10
+3011,Figueroa & Pico,3034,Hope & 11th,7
+3011,Figueroa & Pico,3035,Figueroa & 8th,35
+3011,Figueroa & Pico,3040,Wilshire & Witmer,6
+3011,Figueroa & Pico,3042,1st & Central,5
+3011,Figueroa & Pico,3045,18th & San Pedro,9
+3011,Figueroa & Pico,3047,Pico & Flower,7
+3011,Figueroa & Pico,3048,5th & Hewitt,2
+3011,Figueroa & Pico,3049,2nd & Figueroa,11
+3011,Figueroa & Pico,3051,7th & Broadway,6
+3011,Figueroa & Pico,3052,7th & Bixel,5
+3011,Figueroa & Pico,3055,7th & Main,3
+3011,Figueroa & Pico,3056,Grand & 14th,8
+3011,Figueroa & Pico,3057,18th & Figueroa,8
+3011,Figueroa & Pico,3059,11th & Santee,1
+3011,Figueroa & Pico,3062,3rd & San Pedro,1
+3011,Figueroa & Pico,3063,Olive & 5th,12
+3011,Figueroa & Pico,3064,Grand & 7th,9
+3011,Figueroa & Pico,3065,New High & Ord,2
+3011,Figueroa & Pico,3066,Spring & College,1
+3011,Figueroa & Pico,3067,Main & 6th,6
+3011,Figueroa & Pico,3068,Grand & 3rd,3
+3011,Figueroa & Pico,3069,Broadway & 3rd,9
+3011,Figueroa & Pico,3074,Hope & Olympic,11
+3011,Figueroa & Pico,3075,Broadway & 9th,3
+3011,Figueroa & Pico,3076,9th & Los Angeles,3
+3011,Figueroa & Pico,3078,Hill & College,3
+3011,Figueroa & Pico,3080,San Julian & 12th,3
+3011,Figueroa & Pico,3082,Traction & Rose,1
+3014,Union Station West Portal,3005,Flower & 7th,39
+3014,Union Station West Portal,3006,Olive & 8th,38
+3014,Union Station West Portal,3007,5th & Grand,44
+3014,Union Station West Portal,3008,Figueroa & 9th,12
+3014,Union Station West Portal,3010,11th & Maple,27
+3014,Union Station West Portal,3011,Figueroa & Pico,6
+3014,Union Station West Portal,3014,Union Station West Portal,135
+3014,Union Station West Portal,3016,Los Angeles & Temple,201
+3014,Union Station West Portal,3018,Grand & Olympic,6
+3014,Union Station West Portal,3019,12th & Hill,33
+3014,Union Station West Portal,3020,Hill & Washington,8
+3014,Union Station West Portal,3021,,49
+3014,Union Station West Portal,3022,3rd & Santa Fe,87
+3014,Union Station West Portal,3023,1st & Judge John Aiso,42
+3014,Union Station West Portal,3024,Hope & 1st,15
+3014,Union Station West Portal,3026,Figueroa & Cesar Chavez,14
+3014,Union Station West Portal,3027,Spring & 3rd,79
+3014,Union Station West Portal,3028,Grand & Temple,15
+3014,Union Station West Portal,3029,Main & 4th,41
+3014,Union Station West Portal,3030,Main & 1st,285
+3014,Union Station West Portal,3031,7th & Spring,114
+3014,Union Station West Portal,3032,Hope & 6th,6
+3014,Union Station West Portal,3033,Main & 9th,14
+3014,Union Station West Portal,3034,Hope & 11th,7
+3014,Union Station West Portal,3035,Figueroa & 8th,16
+3014,Union Station West Portal,3036,Willow St & Mateo St,25
+3014,Union Station West Portal,3037,Imperial & 7th,23
+3014,Union Station West Portal,3038,Main & 5th,30
+3014,Union Station West Portal,3040,Wilshire & Witmer,2
+3014,Union Station West Portal,3042,1st & Central,24
+3014,Union Station West Portal,3046,2nd & Hill,10
+3014,Union Station West Portal,3047,Pico & Flower,2
+3014,Union Station West Portal,3048,5th & Hewitt,50
+3014,Union Station West Portal,3049,2nd & Figueroa,8
+3014,Union Station West Portal,3051,7th & Broadway,10
+3014,Union Station West Portal,3052,7th & Bixel,7
+3014,Union Station West Portal,3054,Factory Place & Alameda,14
+3014,Union Station West Portal,3055,7th & Main,4
+3014,Union Station West Portal,3056,Grand & 14th,1
+3014,Union Station West Portal,3057,18th & Figueroa,1
+3014,Union Station West Portal,3058,Industrial St & Mateo St,22
+3014,Union Station West Portal,3059,11th & Santee,6
+3014,Union Station West Portal,3062,3rd & San Pedro,32
+3014,Union Station West Portal,3063,Olive & 5th,34
+3014,Union Station West Portal,3064,Grand & 7th,18
+3014,Union Station West Portal,3065,New High & Ord,38
+3014,Union Station West Portal,3066,Spring & College,59
+3014,Union Station West Portal,3067,Main & 6th,48
+3014,Union Station West Portal,3068,Grand & 3rd,47
+3014,Union Station West Portal,3069,Broadway & 3rd,51
+3014,Union Station West Portal,3074,Hope & Olympic,15
+3014,Union Station West Portal,3075,Broadway & 9th,10
+3014,Union Station West Portal,3076,9th & Los Angeles,50
+3014,Union Station West Portal,3077,8th & Wall,3
+3014,Union Station West Portal,3078,Hill & College,27
+3014,Union Station West Portal,3079,Temple & Vignes,22
+3014,Union Station West Portal,3081,Stanford & 12th,3
+3014,Union Station West Portal,3082,Traction & Rose,26
+3016,Los Angeles & Temple,3005,Flower & 7th,18
+3016,Los Angeles & Temple,3006,Olive & 8th,5
+3016,Los Angeles & Temple,3007,5th & Grand,5
+3016,Los Angeles & Temple,3014,Union Station West Portal,147
+3016,Los Angeles & Temple,3016,Los Angeles & Temple,85
+3016,Los Angeles & Temple,3018,Grand & Olympic,5
+3016,Los Angeles & Temple,3019,12th & Hill,14
+3016,Los Angeles & Temple,3021,,44
+3016,Los Angeles & Temple,3022,3rd & Santa Fe,20
+3016,Los Angeles & Temple,3023,1st & Judge John Aiso,82
+3016,Los Angeles & Temple,3024,Hope & 1st,17
+3016,Los Angeles & Temple,3026,Figueroa & Cesar Chavez,2
+3016,Los Angeles & Temple,3027,Spring & 3rd,7
+3016,Los Angeles & Temple,3028,Grand & Temple,5
+3016,Los Angeles & Temple,3029,Main & 4th,32
+3016,Los Angeles & Temple,3030,Main & 1st,27
+3016,Los Angeles & Temple,3031,7th & Spring,87
+3016,Los Angeles & Temple,3032,Hope & 6th,4
+3016,Los Angeles & Temple,3033,Main & 9th,5
+3016,Los Angeles & Temple,3034,Hope & 11th,2
+3016,Los Angeles & Temple,3035,Figueroa & 8th,4
+3016,Los Angeles & Temple,3036,Willow St & Mateo St,12
+3016,Los Angeles & Temple,3037,Imperial & 7th,8
+3016,Los Angeles & Temple,3038,Main & 5th,7
+3016,Los Angeles & Temple,3040,Wilshire & Witmer,1
+3016,Los Angeles & Temple,3042,1st & Central,77
+3016,Los Angeles & Temple,3045,18th & San Pedro,8
+3016,Los Angeles & Temple,3047,Pico & Flower,6
+3016,Los Angeles & Temple,3048,5th & Hewitt,11
+3016,Los Angeles & Temple,3049,2nd & Figueroa,4
+3016,Los Angeles & Temple,3051,7th & Broadway,7
+3016,Los Angeles & Temple,3052,7th & Bixel,10
+3016,Los Angeles & Temple,3054,Factory Place & Alameda,1
+3016,Los Angeles & Temple,3055,7th & Main,7
+3016,Los Angeles & Temple,3058,Industrial St & Mateo St,2
+3016,Los Angeles & Temple,3059,11th & Santee,1
+3016,Los Angeles & Temple,3060,Pico & Maple,1
+3016,Los Angeles & Temple,3062,3rd & San Pedro,6
+3016,Los Angeles & Temple,3063,Olive & 5th,10
+3016,Los Angeles & Temple,3064,Grand & 7th,7
+3016,Los Angeles & Temple,3065,New High & Ord,11
+3016,Los Angeles & Temple,3066,Spring & College,14
+3016,Los Angeles & Temple,3067,Main & 6th,8
+3016,Los Angeles & Temple,3068,Grand & 3rd,4
+3016,Los Angeles & Temple,3069,Broadway & 3rd,21
+3016,Los Angeles & Temple,3074,Hope & Olympic,2
+3016,Los Angeles & Temple,3075,Broadway & 9th,2
+3016,Los Angeles & Temple,3076,9th & Los Angeles,5
+3016,Los Angeles & Temple,3077,8th & Wall,1
+3016,Los Angeles & Temple,3078,Hill & College,6
+3016,Los Angeles & Temple,3079,Temple & Vignes,57
+3016,Los Angeles & Temple,3081,Stanford & 12th,2
+3016,Los Angeles & Temple,3082,Traction & Rose,8
+3018,Grand & Olympic,3005,Flower & 7th,24
+3018,Grand & Olympic,3006,Olive & 8th,9
+3018,Grand & Olympic,3007,5th & Grand,5
+3018,Grand & Olympic,3008,Figueroa & 9th,8
+3018,Grand & Olympic,3011,Figueroa & Pico,7
+3018,Grand & Olympic,3014,Union Station West Portal,5
+3018,Grand & Olympic,3016,Los Angeles & Temple,2
+3018,Grand & Olympic,3018,Grand & Olympic,69
+3018,Grand & Olympic,3019,12th & Hill,9
+3018,Grand & Olympic,3020,Hill & Washington,4
+3018,Grand & Olympic,3021,,4
+3018,Grand & Olympic,3022,3rd & Santa Fe,7
+3018,Grand & Olympic,3023,1st & Judge John Aiso,5
+3018,Grand & Olympic,3024,Hope & 1st,1
+3018,Grand & Olympic,3025,Grand & Washington,6
+3018,Grand & Olympic,3026,Figueroa & Cesar Chavez,1
+3018,Grand & Olympic,3027,Spring & 3rd,4
+3018,Grand & Olympic,3029,Main & 4th,7
+3018,Grand & Olympic,3030,Main & 1st,7
+3018,Grand & Olympic,3031,7th & Spring,28
+3018,Grand & Olympic,3032,Hope & 6th,20
+3018,Grand & Olympic,3033,Main & 9th,3
+3018,Grand & Olympic,3034,Hope & 11th,11
+3018,Grand & Olympic,3035,Figueroa & 8th,16
+3018,Grand & Olympic,3036,Willow St & Mateo St,2
+3018,Grand & Olympic,3037,Imperial & 7th,4
+3018,Grand & Olympic,3038,Main & 5th,18
+3018,Grand & Olympic,3040,Wilshire & Witmer,1
+3018,Grand & Olympic,3042,1st & Central,6
+3018,Grand & Olympic,3045,18th & San Pedro,1
+3018,Grand & Olympic,3047,Pico & Flower,19
+3018,Grand & Olympic,3048,5th & Hewitt,1
+3018,Grand & Olympic,3049,2nd & Figueroa,4
+3018,Grand & Olympic,3051,7th & Broadway,4
+3018,Grand & Olympic,3052,7th & Bixel,5
+3018,Grand & Olympic,3053,12th & Grand,3
+3018,Grand & Olympic,3054,Factory Place & Alameda,1
+3018,Grand & Olympic,3055,7th & Main,14
+3018,Grand & Olympic,3056,Grand & 14th,28
+3018,Grand & Olympic,3057,18th & Figueroa,4
+3018,Grand & Olympic,3058,Industrial St & Mateo St,1
+3018,Grand & Olympic,3059,11th & Santee,1
+3018,Grand & Olympic,3060,Pico & Maple,4
+3018,Grand & Olympic,3062,3rd & San Pedro,5
+3018,Grand & Olympic,3063,Olive & 5th,19
+3018,Grand & Olympic,3064,Grand & 7th,33
+3018,Grand & Olympic,3065,New High & Ord,2
+3018,Grand & Olympic,3066,Spring & College,1
+3018,Grand & Olympic,3067,Main & 6th,13
+3018,Grand & Olympic,3068,Grand & 3rd,4
+3018,Grand & Olympic,3069,Broadway & 3rd,21
+3018,Grand & Olympic,3074,Hope & Olympic,23
+3018,Grand & Olympic,3075,Broadway & 9th,15
+3018,Grand & Olympic,3076,9th & Los Angeles,37
+3018,Grand & Olympic,3077,8th & Wall,6
+3018,Grand & Olympic,3078,Hill & College,2
+3018,Grand & Olympic,3080,San Julian & 12th,3
+3018,Grand & Olympic,3081,Stanford & 12th,2
+3018,Grand & Olympic,3082,Traction & Rose,2
+3019,12th & Hill,3005,Flower & 7th,32
+3019,12th & Hill,3006,Olive & 8th,47
+3019,12th & Hill,3007,5th & Grand,5
+3019,12th & Hill,3008,Figueroa & 9th,8
+3019,12th & Hill,3010,11th & Maple,8
+3019,12th & Hill,3011,Figueroa & Pico,9
+3019,12th & Hill,3014,Union Station West Portal,49
+3019,12th & Hill,3016,Los Angeles & Temple,9
+3019,12th & Hill,3018,Grand & Olympic,7
+3019,12th & Hill,3019,12th & Hill,78
+3019,12th & Hill,3020,Hill & Washington,4
+3019,12th & Hill,3021,,11
+3019,12th & Hill,3023,1st & Judge John Aiso,7
+3019,12th & Hill,3025,Grand & Washington,29
+3019,12th & Hill,3026,Figueroa & Cesar Chavez,2
+3019,12th & Hill,3027,Spring & 3rd,12
+3019,12th & Hill,3029,Main & 4th,6
+3019,12th & Hill,3030,Main & 1st,86
+3019,12th & Hill,3031,7th & Spring,7
+3019,12th & Hill,3032,Hope & 6th,19
+3019,12th & Hill,3033,Main & 9th,14
+3019,12th & Hill,3034,Hope & 11th,32
+3019,12th & Hill,3035,Figueroa & 8th,32
+3019,12th & Hill,3036,Willow St & Mateo St,1
+3019,12th & Hill,3038,Main & 5th,17
+3019,12th & Hill,3040,Wilshire & Witmer,1
+3019,12th & Hill,3042,1st & Central,40
+3019,12th & Hill,3045,18th & San Pedro,1
+3019,12th & Hill,3046,2nd & Hill,4
+3019,12th & Hill,3047,Pico & Flower,57
+3019,12th & Hill,3049,2nd & Figueroa,3
+3019,12th & Hill,3051,7th & Broadway,12
+3019,12th & Hill,3052,7th & Bixel,2
+3019,12th & Hill,3054,Factory Place & Alameda,6
+3019,12th & Hill,3055,7th & Main,6
+3019,12th & Hill,3056,Grand & 14th,21
+3019,12th & Hill,3057,18th & Figueroa,4
+3019,12th & Hill,3058,Industrial St & Mateo St,2
+3019,12th & Hill,3059,11th & Santee,5
+3019,12th & Hill,3060,Pico & Maple,8
+3019,12th & Hill,3062,3rd & San Pedro,4
+3019,12th & Hill,3063,Olive & 5th,49
+3019,12th & Hill,3064,Grand & 7th,15
+3019,12th & Hill,3066,Spring & College,7
+3019,12th & Hill,3067,Main & 6th,4
+3019,12th & Hill,3068,Grand & 3rd,2
+3019,12th & Hill,3069,Broadway & 3rd,18
+3019,12th & Hill,3074,Hope & Olympic,27
+3019,12th & Hill,3075,Broadway & 9th,6
+3019,12th & Hill,3076,9th & Los Angeles,9
+3019,12th & Hill,3077,8th & Wall,5
+3019,12th & Hill,3079,Temple & Vignes,2
+3019,12th & Hill,3080,San Julian & 12th,3
+3019,12th & Hill,3082,Traction & Rose,2
+3020,Hill & Washington,3005,Flower & 7th,9
+3020,Hill & Washington,3006,Olive & 8th,7
+3020,Hill & Washington,3007,5th & Grand,1
+3020,Hill & Washington,3008,Figueroa & 9th,1
+3020,Hill & Washington,3011,Figueroa & Pico,2
+3020,Hill & Washington,3014,Union Station West Portal,11
+3020,Hill & Washington,3018,Grand & Olympic,1
+3020,Hill & Washington,3019,12th & Hill,1
+3020,Hill & Washington,3020,Hill & Washington,33
+3020,Hill & Washington,3021,,1
+3020,Hill & Washington,3022,3rd & Santa Fe,1
+3020,Hill & Washington,3027,Spring & 3rd,2
+3020,Hill & Washington,3029,Main & 4th,3
+3020,Hill & Washington,3031,7th & Spring,6
+3020,Hill & Washington,3032,Hope & 6th,3
+3020,Hill & Washington,3033,Main & 9th,1
+3020,Hill & Washington,3034,Hope & 11th,3
+3020,Hill & Washington,3035,Figueroa & 8th,10
+3020,Hill & Washington,3038,Main & 5th,3
+3020,Hill & Washington,3040,Wilshire & Witmer,4
+3020,Hill & Washington,3045,18th & San Pedro,5
+3020,Hill & Washington,3046,2nd & Hill,1
+3020,Hill & Washington,3047,Pico & Flower,1
+3020,Hill & Washington,3051,7th & Broadway,2
+3020,Hill & Washington,3052,7th & Bixel,2
+3020,Hill & Washington,3055,7th & Main,5
+3020,Hill & Washington,3060,Pico & Maple,1
+3020,Hill & Washington,3063,Olive & 5th,3
+3020,Hill & Washington,3064,Grand & 7th,10
+3020,Hill & Washington,3067,Main & 6th,53
+3020,Hill & Washington,3069,Broadway & 3rd,1
+3020,Hill & Washington,3074,Hope & Olympic,9
+3020,Hill & Washington,3075,Broadway & 9th,11
+3020,Hill & Washington,3076,9th & Los Angeles,3
+3020,Hill & Washington,3077,8th & Wall,1
+3021,,3005,Flower & 7th,42
+3021,,3006,Olive & 8th,22
+3021,,3007,5th & Grand,10
+3021,,3008,Figueroa & 9th,6
+3021,,3010,11th & Maple,1
+3021,,3014,Union Station West Portal,69
+3021,,3016,Los Angeles & Temple,28
+3021,,3018,Grand & Olympic,8
+3021,,3019,12th & Hill,5
+3021,,3020,Hill & Washington,1
+3021,,3021,,166
+3021,,3022,3rd & Santa Fe,79
+3021,,3023,1st & Judge John Aiso,27
+3021,,3024,Hope & 1st,2
+3021,,3026,Figueroa & Cesar Chavez,4
+3021,,3027,Spring & 3rd,19
+3021,,3028,Grand & Temple,3
+3021,,3029,Main & 4th,18
+3021,,3030,Main & 1st,63
+3021,,3031,7th & Spring,56
+3021,,3032,Hope & 6th,4
+3021,,3033,Main & 9th,1
+3021,,3034,Hope & 11th,14
+3021,,3035,Figueroa & 8th,10
+3021,,3036,Willow St & Mateo St,18
+3021,,3037,Imperial & 7th,31
+3021,,3038,Main & 5th,38
+3021,,3040,Wilshire & Witmer,2
+3021,,3042,1st & Central,36
+3021,,3046,2nd & Hill,20
+3021,,3047,Pico & Flower,7
+3021,,3048,5th & Hewitt,37
+3021,,3049,2nd & Figueroa,6
+3021,,3051,7th & Broadway,9
+3021,,3052,7th & Bixel,4
+3021,,3054,Factory Place & Alameda,15
+3021,,3055,7th & Main,35
+3021,,3056,Grand & 14th,1
+3021,,3058,Industrial St & Mateo St,71
+3021,,3062,3rd & San Pedro,25
+3021,,3063,Olive & 5th,37
+3021,,3064,Grand & 7th,15
+3021,,3065,New High & Ord,2
+3021,,3067,Main & 6th,38
+3021,,3068,Grand & 3rd,16
+3021,,3069,Broadway & 3rd,61
+3021,,3074,Hope & Olympic,33
+3021,,3075,Broadway & 9th,8
+3021,,3076,9th & Los Angeles,13
+3021,,3077,8th & Wall,3
+3021,,3078,Hill & College,5
+3021,,3079,Temple & Vignes,8
+3021,,3081,Stanford & 12th,2
+3022,3rd & Santa Fe,3005,Flower & 7th,48
+3022,3rd & Santa Fe,3006,Olive & 8th,15
+3022,3rd & Santa Fe,3007,5th & Grand,30
+3022,3rd & Santa Fe,3008,Figueroa & 9th,13
+3022,3rd & Santa Fe,3010,11th & Maple,1
+3022,3rd & Santa Fe,3011,Figueroa & Pico,1
+3022,3rd & Santa Fe,3014,Union Station West Portal,66
+3022,3rd & Santa Fe,3016,Los Angeles & Temple,18
+3022,3rd & Santa Fe,3018,Grand & Olympic,1
+3022,3rd & Santa Fe,3019,12th & Hill,1
+3022,3rd & Santa Fe,3021,,110
+3022,3rd & Santa Fe,3022,3rd & Santa Fe,199
+3022,3rd & Santa Fe,3023,1st & Judge John Aiso,15
+3022,3rd & Santa Fe,3024,Hope & 1st,2
+3022,3rd & Santa Fe,3026,Figueroa & Cesar Chavez,30
+3022,3rd & Santa Fe,3027,Spring & 3rd,20
+3022,3rd & Santa Fe,3028,Grand & Temple,6
+3022,3rd & Santa Fe,3029,Main & 4th,28
+3022,3rd & Santa Fe,3030,Main & 1st,16
+3022,3rd & Santa Fe,3031,7th & Spring,58
+3022,3rd & Santa Fe,3032,Hope & 6th,10
+3022,3rd & Santa Fe,3033,Main & 9th,6
+3022,3rd & Santa Fe,3034,Hope & 11th,3
+3022,3rd & Santa Fe,3035,Figueroa & 8th,13
+3022,3rd & Santa Fe,3036,Willow St & Mateo St,69
+3022,3rd & Santa Fe,3037,Imperial & 7th,56
+3022,3rd & Santa Fe,3038,Main & 5th,61
+3022,3rd & Santa Fe,3042,1st & Central,79
+3022,3rd & Santa Fe,3046,2nd & Hill,28
+3022,3rd & Santa Fe,3048,5th & Hewitt,48
+3022,3rd & Santa Fe,3049,2nd & Figueroa,20
+3022,3rd & Santa Fe,3051,7th & Broadway,18
+3022,3rd & Santa Fe,3054,Factory Place & Alameda,28
+3022,3rd & Santa Fe,3055,7th & Main,31
+3022,3rd & Santa Fe,3057,18th & Figueroa,1
+3022,3rd & Santa Fe,3058,Industrial St & Mateo St,102
+3022,3rd & Santa Fe,3059,11th & Santee,4
+3022,3rd & Santa Fe,3062,3rd & San Pedro,41
+3022,3rd & Santa Fe,3063,Olive & 5th,22
+3022,3rd & Santa Fe,3064,Grand & 7th,21
+3022,3rd & Santa Fe,3065,New High & Ord,6
+3022,3rd & Santa Fe,3066,Spring & College,8
+3022,3rd & Santa Fe,3067,Main & 6th,37
+3022,3rd & Santa Fe,3068,Grand & 3rd,4
+3022,3rd & Santa Fe,3069,Broadway & 3rd,56
+3022,3rd & Santa Fe,3074,Hope & Olympic,5
+3022,3rd & Santa Fe,3075,Broadway & 9th,20
+3022,3rd & Santa Fe,3076,9th & Los Angeles,7
+3022,3rd & Santa Fe,3077,8th & Wall,8
+3022,3rd & Santa Fe,3078,Hill & College,5
+3022,3rd & Santa Fe,3079,Temple & Vignes,3
+3022,3rd & Santa Fe,3081,Stanford & 12th,5
+3022,3rd & Santa Fe,3082,Traction & Rose,22
+3023,1st & Judge John Aiso,3005,Flower & 7th,11
+3023,1st & Judge John Aiso,3006,Olive & 8th,18
+3023,1st & Judge John Aiso,3007,5th & Grand,3
+3023,1st & Judge John Aiso,3008,Figueroa & 9th,8
+3023,1st & Judge John Aiso,3010,11th & Maple,1
+3023,1st & Judge John Aiso,3011,Figueroa & Pico,6
+3023,1st & Judge John Aiso,3014,Union Station West Portal,64
+3023,1st & Judge John Aiso,3016,Los Angeles & Temple,67
+3023,1st & Judge John Aiso,3018,Grand & Olympic,7
+3023,1st & Judge John Aiso,3019,12th & Hill,5
+3023,1st & Judge John Aiso,3021,,27
+3023,1st & Judge John Aiso,3022,3rd & Santa Fe,14
+3023,1st & Judge John Aiso,3023,1st & Judge John Aiso,144
+3023,1st & Judge John Aiso,3024,Hope & 1st,5
+3023,1st & Judge John Aiso,3026,Figueroa & Cesar Chavez,8
+3023,1st & Judge John Aiso,3027,Spring & 3rd,13
+3023,1st & Judge John Aiso,3028,Grand & Temple,11
+3023,1st & Judge John Aiso,3029,Main & 4th,6
+3023,1st & Judge John Aiso,3030,Main & 1st,38
+3023,1st & Judge John Aiso,3031,7th & Spring,35
+3023,1st & Judge John Aiso,3032,Hope & 6th,6
+3023,1st & Judge John Aiso,3033,Main & 9th,4
+3023,1st & Judge John Aiso,3034,Hope & 11th,5
+3023,1st & Judge John Aiso,3035,Figueroa & 8th,1
+3023,1st & Judge John Aiso,3036,Willow St & Mateo St,7
+3023,1st & Judge John Aiso,3037,Imperial & 7th,1
+3023,1st & Judge John Aiso,3038,Main & 5th,23
+3023,1st & Judge John Aiso,3040,Wilshire & Witmer,9
+3023,1st & Judge John Aiso,3042,1st & Central,51
+3023,1st & Judge John Aiso,3045,18th & San Pedro,3
+3023,1st & Judge John Aiso,3046,2nd & Hill,5
+3023,1st & Judge John Aiso,3047,Pico & Flower,1
+3023,1st & Judge John Aiso,3048,5th & Hewitt,17
+3023,1st & Judge John Aiso,3049,2nd & Figueroa,25
+3023,1st & Judge John Aiso,3051,7th & Broadway,7
+3023,1st & Judge John Aiso,3052,7th & Bixel,7
+3023,1st & Judge John Aiso,3054,Factory Place & Alameda,2
+3023,1st & Judge John Aiso,3055,7th & Main,4
+3023,1st & Judge John Aiso,3056,Grand & 14th,2
+3023,1st & Judge John Aiso,3058,Industrial St & Mateo St,4
+3023,1st & Judge John Aiso,3062,3rd & San Pedro,3
+3023,1st & Judge John Aiso,3063,Olive & 5th,12
+3023,1st & Judge John Aiso,3064,Grand & 7th,24
+3023,1st & Judge John Aiso,3065,New High & Ord,6
+3023,1st & Judge John Aiso,3066,Spring & College,6
+3023,1st & Judge John Aiso,3067,Main & 6th,13
+3023,1st & Judge John Aiso,3068,Grand & 3rd,9
+3023,1st & Judge John Aiso,3069,Broadway & 3rd,24
+3023,1st & Judge John Aiso,3074,Hope & Olympic,7
+3023,1st & Judge John Aiso,3075,Broadway & 9th,1
+3023,1st & Judge John Aiso,3076,9th & Los Angeles,7
+3023,1st & Judge John Aiso,3077,8th & Wall,1
+3023,1st & Judge John Aiso,3078,Hill & College,12
+3023,1st & Judge John Aiso,3079,Temple & Vignes,4
+3023,1st & Judge John Aiso,3080,San Julian & 12th,1
+3023,1st & Judge John Aiso,3082,Traction & Rose,22
+3024,Hope & 1st,3005,Flower & 7th,29
+3024,Hope & 1st,3006,Olive & 8th,7
+3024,Hope & 1st,3007,5th & Grand,18
+3024,Hope & 1st,3008,Figueroa & 9th,6
+3024,Hope & 1st,3011,Figueroa & Pico,10
+3024,Hope & 1st,3014,Union Station West Portal,26
+3024,Hope & 1st,3016,Los Angeles & Temple,40
+3024,Hope & 1st,3018,Grand & Olympic,5
+3024,Hope & 1st,3019,12th & Hill,2
+3024,Hope & 1st,3021,,13
+3024,Hope & 1st,3022,3rd & Santa Fe,16
+3024,Hope & 1st,3023,1st & Judge John Aiso,32
+3024,Hope & 1st,3024,Hope & 1st,169
+3024,Hope & 1st,3026,Figueroa & Cesar Chavez,21
+3024,Hope & 1st,3027,Spring & 3rd,8
+3024,Hope & 1st,3028,Grand & Temple,6
+3024,Hope & 1st,3029,Main & 4th,4
+3024,Hope & 1st,3030,Main & 1st,39
+3024,Hope & 1st,3031,7th & Spring,13
+3024,Hope & 1st,3032,Hope & 6th,10
+3024,Hope & 1st,3033,Main & 9th,1
+3024,Hope & 1st,3034,Hope & 11th,4
+3024,Hope & 1st,3035,Figueroa & 8th,19
+3024,Hope & 1st,3036,Willow St & Mateo St,4
+3024,Hope & 1st,3037,Imperial & 7th,2
+3024,Hope & 1st,3038,Main & 5th,24
+3024,Hope & 1st,3040,Wilshire & Witmer,1
+3024,Hope & 1st,3042,1st & Central,111
+3024,Hope & 1st,3046,2nd & Hill,9
+3024,Hope & 1st,3047,Pico & Flower,6
+3024,Hope & 1st,3048,5th & Hewitt,34
+3024,Hope & 1st,3049,2nd & Figueroa,5
+3024,Hope & 1st,3051,7th & Broadway,12
+3024,Hope & 1st,3052,7th & Bixel,18
+3024,Hope & 1st,3055,7th & Main,6
+3024,Hope & 1st,3056,Grand & 14th,2
+3024,Hope & 1st,3057,18th & Figueroa,1
+3024,Hope & 1st,3058,Industrial St & Mateo St,2
+3024,Hope & 1st,3062,3rd & San Pedro,29
+3024,Hope & 1st,3063,Olive & 5th,24
+3024,Hope & 1st,3064,Grand & 7th,34
+3024,Hope & 1st,3065,New High & Ord,8
+3024,Hope & 1st,3066,Spring & College,10
+3024,Hope & 1st,3067,Main & 6th,6
+3024,Hope & 1st,3068,Grand & 3rd,26
+3024,Hope & 1st,3069,Broadway & 3rd,48
+3024,Hope & 1st,3074,Hope & Olympic,2
+3024,Hope & 1st,3075,Broadway & 9th,4
+3024,Hope & 1st,3076,9th & Los Angeles,1
+3024,Hope & 1st,3078,Hill & College,4
+3024,Hope & 1st,3079,Temple & Vignes,4
+3024,Hope & 1st,3082,Traction & Rose,8
+3025,Grand & Washington,3005,Flower & 7th,11
+3025,Grand & Washington,3006,Olive & 8th,13
+3025,Grand & Washington,3008,Figueroa & 9th,2
+3025,Grand & Washington,3011,Figueroa & Pico,4
+3025,Grand & Washington,3014,Union Station West Portal,6
+3025,Grand & Washington,3018,Grand & Olympic,2
+3025,Grand & Washington,3019,12th & Hill,19
+3025,Grand & Washington,3020,Hill & Washington,6
+3025,Grand & Washington,3025,Grand & Washington,21
+3025,Grand & Washington,3026,Figueroa & Cesar Chavez,2
+3025,Grand & Washington,3029,Main & 4th,1
+3025,Grand & Washington,3031,7th & Spring,5
+3025,Grand & Washington,3032,Hope & 6th,7
+3025,Grand & Washington,3033,Main & 9th,3
+3025,Grand & Washington,3034,Hope & 11th,3
+3025,Grand & Washington,3035,Figueroa & 8th,8
+3025,Grand & Washington,3038,Main & 5th,2
+3025,Grand & Washington,3045,18th & San Pedro,1
+3025,Grand & Washington,3047,Pico & Flower,5
+3025,Grand & Washington,3051,7th & Broadway,1
+3025,Grand & Washington,3052,7th & Bixel,2
+3025,Grand & Washington,3055,7th & Main,1
+3025,Grand & Washington,3056,Grand & 14th,46
+3025,Grand & Washington,3057,18th & Figueroa,1
+3025,Grand & Washington,3058,Industrial St & Mateo St,1
+3025,Grand & Washington,3059,11th & Santee,3
+3025,Grand & Washington,3062,3rd & San Pedro,2
+3025,Grand & Washington,3063,Olive & 5th,9
+3025,Grand & Washington,3064,Grand & 7th,2
+3025,Grand & Washington,3066,Spring & College,2
+3025,Grand & Washington,3067,Main & 6th,2
+3025,Grand & Washington,3069,Broadway & 3rd,1
+3025,Grand & Washington,3074,Hope & Olympic,7
+3025,Grand & Washington,3075,Broadway & 9th,13
+3025,Grand & Washington,3076,9th & Los Angeles,2
+3025,Grand & Washington,3077,8th & Wall,3
+3025,Grand & Washington,3080,San Julian & 12th,1
+3025,Grand & Washington,3081,Stanford & 12th,1
+3026,Figueroa & Cesar Chavez,3005,Flower & 7th,31
+3026,Figueroa & Cesar Chavez,3006,Olive & 8th,10
+3026,Figueroa & Cesar Chavez,3007,5th & Grand,25
+3026,Figueroa & Cesar Chavez,3008,Figueroa & 9th,7
+3026,Figueroa & Cesar Chavez,3011,Figueroa & Pico,2
+3026,Figueroa & Cesar Chavez,3014,Union Station West Portal,41
+3026,Figueroa & Cesar Chavez,3016,Los Angeles & Temple,1
+3026,Figueroa & Cesar Chavez,3018,Grand & Olympic,2
+3026,Figueroa & Cesar Chavez,3019,12th & Hill,3
+3026,Figueroa & Cesar Chavez,3021,,5
+3026,Figueroa & Cesar Chavez,3022,3rd & Santa Fe,43
+3026,Figueroa & Cesar Chavez,3023,1st & Judge John Aiso,4
+3026,Figueroa & Cesar Chavez,3024,Hope & 1st,11
+3026,Figueroa & Cesar Chavez,3026,Figueroa & Cesar Chavez,76
+3026,Figueroa & Cesar Chavez,3027,Spring & 3rd,6
+3026,Figueroa & Cesar Chavez,3028,Grand & Temple,5
+3026,Figueroa & Cesar Chavez,3029,Main & 4th,1
+3026,Figueroa & Cesar Chavez,3030,Main & 1st,27
+3026,Figueroa & Cesar Chavez,3031,7th & Spring,12
+3026,Figueroa & Cesar Chavez,3032,Hope & 6th,5
+3026,Figueroa & Cesar Chavez,3033,Main & 9th,2
+3026,Figueroa & Cesar Chavez,3034,Hope & 11th,14
+3026,Figueroa & Cesar Chavez,3035,Figueroa & 8th,29
+3026,Figueroa & Cesar Chavez,3037,Imperial & 7th,5
+3026,Figueroa & Cesar Chavez,3038,Main & 5th,5
+3026,Figueroa & Cesar Chavez,3040,Wilshire & Witmer,2
+3026,Figueroa & Cesar Chavez,3042,1st & Central,19
+3026,Figueroa & Cesar Chavez,3046,2nd & Hill,8
+3026,Figueroa & Cesar Chavez,3047,Pico & Flower,1
+3026,Figueroa & Cesar Chavez,3048,5th & Hewitt,8
+3026,Figueroa & Cesar Chavez,3049,2nd & Figueroa,25
+3026,Figueroa & Cesar Chavez,3051,7th & Broadway,44
+3026,Figueroa & Cesar Chavez,3052,7th & Bixel,3
+3026,Figueroa & Cesar Chavez,3053,12th & Grand,1
+3026,Figueroa & Cesar Chavez,3055,7th & Main,3
+3026,Figueroa & Cesar Chavez,3056,Grand & 14th,1
+3026,Figueroa & Cesar Chavez,3058,Industrial St & Mateo St,2
+3026,Figueroa & Cesar Chavez,3062,3rd & San Pedro,5
+3026,Figueroa & Cesar Chavez,3063,Olive & 5th,25
+3026,Figueroa & Cesar Chavez,3064,Grand & 7th,13
+3026,Figueroa & Cesar Chavez,3065,New High & Ord,7
+3026,Figueroa & Cesar Chavez,3066,Spring & College,2
+3026,Figueroa & Cesar Chavez,3067,Main & 6th,16
+3026,Figueroa & Cesar Chavez,3068,Grand & 3rd,18
+3026,Figueroa & Cesar Chavez,3069,Broadway & 3rd,29
+3026,Figueroa & Cesar Chavez,3074,Hope & Olympic,2
+3026,Figueroa & Cesar Chavez,3075,Broadway & 9th,6
+3026,Figueroa & Cesar Chavez,3078,Hill & College,5
+3026,Figueroa & Cesar Chavez,3082,Traction & Rose,3
+3027,Spring & 3rd,3005,Flower & 7th,44
+3027,Spring & 3rd,3006,Olive & 8th,23
+3027,Spring & 3rd,3007,5th & Grand,22
+3027,Spring & 3rd,3008,Figueroa & 9th,10
+3027,Spring & 3rd,3010,11th & Maple,1
+3027,Spring & 3rd,3011,Figueroa & Pico,2
+3027,Spring & 3rd,3014,Union Station West Portal,119
+3027,Spring & 3rd,3016,Los Angeles & Temple,12
+3027,Spring & 3rd,3018,Grand & Olympic,5
+3027,Spring & 3rd,3019,12th & Hill,23
+3027,Spring & 3rd,3020,Hill & Washington,4
+3027,Spring & 3rd,3021,,17
+3027,Spring & 3rd,3022,3rd & Santa Fe,37
+3027,Spring & 3rd,3023,1st & Judge John Aiso,14
+3027,Spring & 3rd,3024,Hope & 1st,2
+3027,Spring & 3rd,3025,Grand & Washington,4
+3027,Spring & 3rd,3026,Figueroa & Cesar Chavez,1
+3027,Spring & 3rd,3027,Spring & 3rd,74
+3027,Spring & 3rd,3028,Grand & Temple,4
+3027,Spring & 3rd,3029,Main & 4th,10
+3027,Spring & 3rd,3030,Main & 1st,25
+3027,Spring & 3rd,3031,7th & Spring,67
+3027,Spring & 3rd,3032,Hope & 6th,11
+3027,Spring & 3rd,3033,Main & 9th,3
+3027,Spring & 3rd,3034,Hope & 11th,12
+3027,Spring & 3rd,3035,Figueroa & 8th,21
+3027,Spring & 3rd,3036,Willow St & Mateo St,4
+3027,Spring & 3rd,3037,Imperial & 7th,9
+3027,Spring & 3rd,3038,Main & 5th,10
+3027,Spring & 3rd,3040,Wilshire & Witmer,1
+3027,Spring & 3rd,3042,1st & Central,99
+3027,Spring & 3rd,3047,Pico & Flower,5
+3027,Spring & 3rd,3048,5th & Hewitt,12
+3027,Spring & 3rd,3049,2nd & Figueroa,7
+3027,Spring & 3rd,3051,7th & Broadway,12
+3027,Spring & 3rd,3052,7th & Bixel,11
+3027,Spring & 3rd,3055,7th & Main,26
+3027,Spring & 3rd,3056,Grand & 14th,4
+3027,Spring & 3rd,3057,18th & Figueroa,10
+3027,Spring & 3rd,3058,Industrial St & Mateo St,6
+3027,Spring & 3rd,3059,11th & Santee,2
+3027,Spring & 3rd,3060,Pico & Maple,9
+3027,Spring & 3rd,3062,3rd & San Pedro,7
+3027,Spring & 3rd,3063,Olive & 5th,18
+3027,Spring & 3rd,3064,Grand & 7th,27
+3027,Spring & 3rd,3065,New High & Ord,13
+3027,Spring & 3rd,3066,Spring & College,18
+3027,Spring & 3rd,3067,Main & 6th,26
+3027,Spring & 3rd,3068,Grand & 3rd,1
+3027,Spring & 3rd,3069,Broadway & 3rd,15
+3027,Spring & 3rd,3074,Hope & Olympic,12
+3027,Spring & 3rd,3075,Broadway & 9th,19
+3027,Spring & 3rd,3076,9th & Los Angeles,13
+3027,Spring & 3rd,3077,8th & Wall,1
+3027,Spring & 3rd,3078,Hill & College,6
+3027,Spring & 3rd,3081,Stanford & 12th,12
+3027,Spring & 3rd,3082,Traction & Rose,17
+3028,Grand & Temple,3005,Flower & 7th,20
+3028,Grand & Temple,3006,Olive & 8th,5
+3028,Grand & Temple,3007,5th & Grand,5
+3028,Grand & Temple,3008,Figueroa & 9th,6
+3028,Grand & Temple,3011,Figueroa & Pico,2
+3028,Grand & Temple,3014,Union Station West Portal,37
+3028,Grand & Temple,3016,Los Angeles & Temple,4
+3028,Grand & Temple,3018,Grand & Olympic,4
+3028,Grand & Temple,3019,12th & Hill,1
+3028,Grand & Temple,3021,,17
+3028,Grand & Temple,3022,3rd & Santa Fe,6
+3028,Grand & Temple,3023,1st & Judge John Aiso,10
+3028,Grand & Temple,3024,Hope & 1st,9
+3028,Grand & Temple,3025,Grand & Washington,1
+3028,Grand & Temple,3026,Figueroa & Cesar Chavez,24
+3028,Grand & Temple,3027,Spring & 3rd,1
+3028,Grand & Temple,3028,Grand & Temple,45
+3028,Grand & Temple,3029,Main & 4th,1
+3028,Grand & Temple,3030,Main & 1st,16
+3028,Grand & Temple,3031,7th & Spring,33
+3028,Grand & Temple,3032,Hope & 6th,6
+3028,Grand & Temple,3035,Figueroa & 8th,21
+3028,Grand & Temple,3037,Imperial & 7th,5
+3028,Grand & Temple,3038,Main & 5th,6
+3028,Grand & Temple,3040,Wilshire & Witmer,6
+3028,Grand & Temple,3042,1st & Central,19
+3028,Grand & Temple,3046,2nd & Hill,2
+3028,Grand & Temple,3047,Pico & Flower,2
+3028,Grand & Temple,3048,5th & Hewitt,4
+3028,Grand & Temple,3049,2nd & Figueroa,6
+3028,Grand & Temple,3051,7th & Broadway,3
+3028,Grand & Temple,3052,7th & Bixel,2
+3028,Grand & Temple,3054,Factory Place & Alameda,5
+3028,Grand & Temple,3055,7th & Main,6
+3028,Grand & Temple,3056,Grand & 14th,14
+3028,Grand & Temple,3062,3rd & San Pedro,8
+3028,Grand & Temple,3063,Olive & 5th,7
+3028,Grand & Temple,3064,Grand & 7th,22
+3028,Grand & Temple,3065,New High & Ord,12
+3028,Grand & Temple,3066,Spring & College,8
+3028,Grand & Temple,3067,Main & 6th,5
+3028,Grand & Temple,3068,Grand & 3rd,22
+3028,Grand & Temple,3069,Broadway & 3rd,12
+3028,Grand & Temple,3074,Hope & Olympic,12
+3028,Grand & Temple,3075,Broadway & 9th,1
+3028,Grand & Temple,3076,9th & Los Angeles,2
+3028,Grand & Temple,3078,Hill & College,8
+3028,Grand & Temple,3079,Temple & Vignes,2
+3028,Grand & Temple,3082,Traction & Rose,14
+3029,Main & 4th,3005,Flower & 7th,18
+3029,Main & 4th,3006,Olive & 8th,15
+3029,Main & 4th,3007,5th & Grand,3
+3029,Main & 4th,3008,Figueroa & 9th,7
+3029,Main & 4th,3014,Union Station West Portal,62
+3029,Main & 4th,3016,Los Angeles & Temple,6
+3029,Main & 4th,3018,Grand & Olympic,9
+3029,Main & 4th,3020,Hill & Washington,1
+3029,Main & 4th,3021,,42
+3029,Main & 4th,3022,3rd & Santa Fe,44
+3029,Main & 4th,3023,1st & Judge John Aiso,8
+3029,Main & 4th,3026,Figueroa & Cesar Chavez,3
+3029,Main & 4th,3027,Spring & 3rd,11
+3029,Main & 4th,3029,Main & 4th,45
+3029,Main & 4th,3030,Main & 1st,89
+3029,Main & 4th,3031,7th & Spring,32
+3029,Main & 4th,3032,Hope & 6th,3
+3029,Main & 4th,3033,Main & 9th,2
+3029,Main & 4th,3034,Hope & 11th,9
+3029,Main & 4th,3035,Figueroa & 8th,7
+3029,Main & 4th,3036,Willow St & Mateo St,9
+3029,Main & 4th,3037,Imperial & 7th,4
+3029,Main & 4th,3038,Main & 5th,14
+3029,Main & 4th,3042,1st & Central,59
+3029,Main & 4th,3048,5th & Hewitt,25
+3029,Main & 4th,3049,2nd & Figueroa,12
+3029,Main & 4th,3051,7th & Broadway,5
+3029,Main & 4th,3052,7th & Bixel,3
+3029,Main & 4th,3053,12th & Grand,1
+3029,Main & 4th,3054,Factory Place & Alameda,6
+3029,Main & 4th,3055,7th & Main,18
+3029,Main & 4th,3056,Grand & 14th,2
+3029,Main & 4th,3058,Industrial St & Mateo St,11
+3029,Main & 4th,3059,11th & Santee,1
+3029,Main & 4th,3062,3rd & San Pedro,12
+3029,Main & 4th,3063,Olive & 5th,11
+3029,Main & 4th,3064,Grand & 7th,10
+3029,Main & 4th,3065,New High & Ord,15
+3029,Main & 4th,3066,Spring & College,10
+3029,Main & 4th,3067,Main & 6th,12
+3029,Main & 4th,3068,Grand & 3rd,6
+3029,Main & 4th,3069,Broadway & 3rd,9
+3029,Main & 4th,3074,Hope & Olympic,6
+3029,Main & 4th,3075,Broadway & 9th,4
+3029,Main & 4th,3076,9th & Los Angeles,5
+3029,Main & 4th,3077,8th & Wall,1
+3029,Main & 4th,3078,Hill & College,5
+3029,Main & 4th,3079,Temple & Vignes,3
+3029,Main & 4th,3080,San Julian & 12th,1
+3029,Main & 4th,3082,Traction & Rose,18
+3030,Main & 1st,3005,Flower & 7th,70
+3030,Main & 1st,3006,Olive & 8th,46
+3030,Main & 1st,3007,5th & Grand,14
+3030,Main & 1st,3008,Figueroa & 9th,11
+3030,Main & 1st,3011,Figueroa & Pico,9
+3030,Main & 1st,3014,Union Station West Portal,381
+3030,Main & 1st,3016,Los Angeles & Temple,33
+3030,Main & 1st,3018,Grand & Olympic,9
+3030,Main & 1st,3019,12th & Hill,112
+3030,Main & 1st,3021,,79
+3030,Main & 1st,3022,3rd & Santa Fe,34
+3030,Main & 1st,3023,1st & Judge John Aiso,74
+3030,Main & 1st,3024,Hope & 1st,21
+3030,Main & 1st,3026,Figueroa & Cesar Chavez,13
+3030,Main & 1st,3027,Spring & 3rd,20
+3030,Main & 1st,3028,Grand & Temple,9
+3030,Main & 1st,3029,Main & 4th,30
+3030,Main & 1st,3030,Main & 1st,137
+3030,Main & 1st,3031,7th & Spring,76
+3030,Main & 1st,3032,Hope & 6th,24
+3030,Main & 1st,3033,Main & 9th,5
+3030,Main & 1st,3034,Hope & 11th,20
+3030,Main & 1st,3035,Figueroa & 8th,20
+3030,Main & 1st,3036,Willow St & Mateo St,30
+3030,Main & 1st,3037,Imperial & 7th,10
+3030,Main & 1st,3038,Main & 5th,39
+3030,Main & 1st,3040,Wilshire & Witmer,3
+3030,Main & 1st,3042,1st & Central,230
+3030,Main & 1st,3045,18th & San Pedro,1
+3030,Main & 1st,3046,2nd & Hill,9
+3030,Main & 1st,3047,Pico & Flower,15
+3030,Main & 1st,3048,5th & Hewitt,35
+3030,Main & 1st,3049,2nd & Figueroa,42
+3030,Main & 1st,3051,7th & Broadway,24
+3030,Main & 1st,3052,7th & Bixel,4
+3030,Main & 1st,3054,Factory Place & Alameda,11
+3030,Main & 1st,3055,7th & Main,20
+3030,Main & 1st,3056,Grand & 14th,4
+3030,Main & 1st,3057,18th & Figueroa,3
+3030,Main & 1st,3058,Industrial St & Mateo St,16
+3030,Main & 1st,3059,11th & Santee,1
+3030,Main & 1st,3062,3rd & San Pedro,7
+3030,Main & 1st,3063,Olive & 5th,45
+3030,Main & 1st,3064,Grand & 7th,49
+3030,Main & 1st,3065,New High & Ord,32
+3030,Main & 1st,3066,Spring & College,16
+3030,Main & 1st,3067,Main & 6th,41
+3030,Main & 1st,3068,Grand & 3rd,20
+3030,Main & 1st,3069,Broadway & 3rd,84
+3030,Main & 1st,3074,Hope & Olympic,16
+3030,Main & 1st,3075,Broadway & 9th,11
+3030,Main & 1st,3076,9th & Los Angeles,15
+3030,Main & 1st,3077,8th & Wall,4
+3030,Main & 1st,3078,Hill & College,8
+3030,Main & 1st,3079,Temple & Vignes,26
+3030,Main & 1st,3081,Stanford & 12th,21
+3030,Main & 1st,3082,Traction & Rose,58
+3031,7th & Spring,3005,Flower & 7th,201
+3031,7th & Spring,3006,Olive & 8th,64
+3031,7th & Spring,3007,5th & Grand,27
+3031,7th & Spring,3008,Figueroa & 9th,56
+3031,7th & Spring,3010,11th & Maple,1
+3031,7th & Spring,3011,Figueroa & Pico,30
+3031,7th & Spring,3014,Union Station West Portal,32
+3031,7th & Spring,3016,Los Angeles & Temple,52
+3031,7th & Spring,3018,Grand & Olympic,35
+3031,7th & Spring,3019,12th & Hill,13
+3031,7th & Spring,3020,Hill & Washington,16
+3031,7th & Spring,3021,,39
+3031,7th & Spring,3022,3rd & Santa Fe,36
+3031,7th & Spring,3023,1st & Judge John Aiso,8
+3031,7th & Spring,3024,Hope & 1st,4
+3031,7th & Spring,3025,Grand & Washington,7
+3031,7th & Spring,3026,Figueroa & Cesar Chavez,1
+3031,7th & Spring,3027,Spring & 3rd,14
+3031,7th & Spring,3028,Grand & Temple,11
+3031,7th & Spring,3029,Main & 4th,7
+3031,7th & Spring,3030,Main & 1st,33
+3031,7th & Spring,3031,7th & Spring,143
+3031,7th & Spring,3032,Hope & 6th,105
+3031,7th & Spring,3033,Main & 9th,5
+3031,7th & Spring,3034,Hope & 11th,72
+3031,7th & Spring,3035,Figueroa & 8th,102
+3031,7th & Spring,3036,Willow St & Mateo St,17
+3031,7th & Spring,3037,Imperial & 7th,18
+3031,7th & Spring,3038,Main & 5th,40
+3031,7th & Spring,3040,Wilshire & Witmer,9
+3031,7th & Spring,3042,1st & Central,30
+3031,7th & Spring,3045,18th & San Pedro,20
+3031,7th & Spring,3046,2nd & Hill,8
+3031,7th & Spring,3047,Pico & Flower,44
+3031,7th & Spring,3048,5th & Hewitt,24
+3031,7th & Spring,3049,2nd & Figueroa,27
+3031,7th & Spring,3051,7th & Broadway,17
+3031,7th & Spring,3052,7th & Bixel,34
+3031,7th & Spring,3054,Factory Place & Alameda,8
+3031,7th & Spring,3055,7th & Main,19
+3031,7th & Spring,3056,Grand & 14th,7
+3031,7th & Spring,3057,18th & Figueroa,3
+3031,7th & Spring,3058,Industrial St & Mateo St,20
+3031,7th & Spring,3059,11th & Santee,2
+3031,7th & Spring,3062,3rd & San Pedro,19
+3031,7th & Spring,3063,Olive & 5th,30
+3031,7th & Spring,3064,Grand & 7th,91
+3031,7th & Spring,3065,New High & Ord,5
+3031,7th & Spring,3066,Spring & College,7
+3031,7th & Spring,3067,Main & 6th,27
+3031,7th & Spring,3068,Grand & 3rd,7
+3031,7th & Spring,3069,Broadway & 3rd,35
+3031,7th & Spring,3074,Hope & Olympic,72
+3031,7th & Spring,3075,Broadway & 9th,38
+3031,7th & Spring,3076,9th & Los Angeles,20
+3031,7th & Spring,3077,8th & Wall,19
+3031,7th & Spring,3078,Hill & College,9
+3031,7th & Spring,3079,Temple & Vignes,7
+3031,7th & Spring,3081,Stanford & 12th,6
+3031,7th & Spring,3082,Traction & Rose,35
+3032,Hope & 6th,3005,Flower & 7th,12
+3032,Hope & 6th,3006,Olive & 8th,17
+3032,Hope & 6th,3007,5th & Grand,12
+3032,Hope & 6th,3008,Figueroa & 9th,35
+3032,Hope & 6th,3010,11th & Maple,4
+3032,Hope & 6th,3011,Figueroa & Pico,7
+3032,Hope & 6th,3014,Union Station West Portal,17
+3032,Hope & 6th,3016,Los Angeles & Temple,3
+3032,Hope & 6th,3018,Grand & Olympic,17
+3032,Hope & 6th,3019,12th & Hill,39
+3032,Hope & 6th,3020,Hill & Washington,2
+3032,Hope & 6th,3021,,7
+3032,Hope & 6th,3022,3rd & Santa Fe,11
+3032,Hope & 6th,3023,1st & Judge John Aiso,14
+3032,Hope & 6th,3024,Hope & 1st,6
+3032,Hope & 6th,3025,Grand & Washington,1
+3032,Hope & 6th,3026,Figueroa & Cesar Chavez,2
+3032,Hope & 6th,3027,Spring & 3rd,3
+3032,Hope & 6th,3028,Grand & Temple,7
+3032,Hope & 6th,3029,Main & 4th,7
+3032,Hope & 6th,3030,Main & 1st,25
+3032,Hope & 6th,3031,7th & Spring,67
+3032,Hope & 6th,3032,Hope & 6th,77
+3032,Hope & 6th,3033,Main & 9th,7
+3032,Hope & 6th,3034,Hope & 11th,117
+3032,Hope & 6th,3035,Figueroa & 8th,24
+3032,Hope & 6th,3036,Willow St & Mateo St,4
+3032,Hope & 6th,3037,Imperial & 7th,22
+3032,Hope & 6th,3038,Main & 5th,13
+3032,Hope & 6th,3040,Wilshire & Witmer,11
+3032,Hope & 6th,3042,1st & Central,49
+3032,Hope & 6th,3045,18th & San Pedro,1
+3032,Hope & 6th,3046,2nd & Hill,4
+3032,Hope & 6th,3047,Pico & Flower,20
+3032,Hope & 6th,3048,5th & Hewitt,5
+3032,Hope & 6th,3049,2nd & Figueroa,45
+3032,Hope & 6th,3051,7th & Broadway,17
+3032,Hope & 6th,3052,7th & Bixel,21
+3032,Hope & 6th,3054,Factory Place & Alameda,4
+3032,Hope & 6th,3055,7th & Main,16
+3032,Hope & 6th,3056,Grand & 14th,10
+3032,Hope & 6th,3057,18th & Figueroa,2
+3032,Hope & 6th,3058,Industrial St & Mateo St,21
+3032,Hope & 6th,3059,11th & Santee,1
+3032,Hope & 6th,3062,3rd & San Pedro,15
+3032,Hope & 6th,3063,Olive & 5th,8
+3032,Hope & 6th,3064,Grand & 7th,56
+3032,Hope & 6th,3065,New High & Ord,2
+3032,Hope & 6th,3066,Spring & College,1
+3032,Hope & 6th,3067,Main & 6th,100
+3032,Hope & 6th,3068,Grand & 3rd,8
+3032,Hope & 6th,3069,Broadway & 3rd,39
+3032,Hope & 6th,3074,Hope & Olympic,75
+3032,Hope & 6th,3075,Broadway & 9th,34
+3032,Hope & 6th,3076,9th & Los Angeles,14
+3032,Hope & 6th,3077,8th & Wall,6
+3032,Hope & 6th,3078,Hill & College,4
+3032,Hope & 6th,3079,Temple & Vignes,23
+3032,Hope & 6th,3082,Traction & Rose,3
+3033,Main & 9th,3005,Flower & 7th,7
+3033,Main & 9th,3006,Olive & 8th,17
+3033,Main & 9th,3007,5th & Grand,8
+3033,Main & 9th,3008,Figueroa & 9th,1
+3033,Main & 9th,3011,Figueroa & Pico,4
+3033,Main & 9th,3014,Union Station West Portal,14
+3033,Main & 9th,3018,Grand & Olympic,1
+3033,Main & 9th,3019,12th & Hill,12
+3033,Main & 9th,3020,Hill & Washington,6
+3033,Main & 9th,3021,,6
+3033,Main & 9th,3022,3rd & Santa Fe,3
+3033,Main & 9th,3023,1st & Judge John Aiso,8
+3033,Main & 9th,3025,Grand & Washington,1
+3033,Main & 9th,3027,Spring & 3rd,2
+3033,Main & 9th,3029,Main & 4th,5
+3033,Main & 9th,3030,Main & 1st,8
+3033,Main & 9th,3031,7th & Spring,8
+3033,Main & 9th,3033,Main & 9th,23
+3033,Main & 9th,3034,Hope & 11th,9
+3033,Main & 9th,3036,Willow St & Mateo St,6
+3033,Main & 9th,3037,Imperial & 7th,5
+3033,Main & 9th,3038,Main & 5th,16
+3033,Main & 9th,3042,1st & Central,5
+3033,Main & 9th,3045,18th & San Pedro,6
+3033,Main & 9th,3046,2nd & Hill,1
+3033,Main & 9th,3047,Pico & Flower,6
+3033,Main & 9th,3048,5th & Hewitt,4
+3033,Main & 9th,3049,2nd & Figueroa,3
+3033,Main & 9th,3051,7th & Broadway,5
+3033,Main & 9th,3052,7th & Bixel,1
+3033,Main & 9th,3054,Factory Place & Alameda,4
+3033,Main & 9th,3055,7th & Main,8
+3033,Main & 9th,3056,Grand & 14th,2
+3033,Main & 9th,3058,Industrial St & Mateo St,2
+3033,Main & 9th,3059,11th & Santee,6
+3033,Main & 9th,3060,Pico & Maple,3
+3033,Main & 9th,3062,3rd & San Pedro,7
+3033,Main & 9th,3063,Olive & 5th,3
+3033,Main & 9th,3064,Grand & 7th,15
+3033,Main & 9th,3066,Spring & College,3
+3033,Main & 9th,3067,Main & 6th,14
+3033,Main & 9th,3068,Grand & 3rd,3
+3033,Main & 9th,3069,Broadway & 3rd,15
+3033,Main & 9th,3074,Hope & Olympic,4
+3033,Main & 9th,3075,Broadway & 9th,1
+3033,Main & 9th,3076,9th & Los Angeles,6
+3033,Main & 9th,3077,8th & Wall,1
+3033,Main & 9th,3078,Hill & College,2
+3033,Main & 9th,3079,Temple & Vignes,1
+3033,Main & 9th,3080,San Julian & 12th,1
+3033,Main & 9th,3082,Traction & Rose,2
+3034,Hope & 11th,3005,Flower & 7th,153
+3034,Hope & 11th,3006,Olive & 8th,52
+3034,Hope & 11th,3007,5th & Grand,61
+3034,Hope & 11th,3008,Figueroa & 9th,5
+3034,Hope & 11th,3010,11th & Maple,1
+3034,Hope & 11th,3011,Figueroa & Pico,9
+3034,Hope & 11th,3014,Union Station West Portal,5
+3034,Hope & 11th,3016,Los Angeles & Temple,3
+3034,Hope & 11th,3018,Grand & Olympic,3
+3034,Hope & 11th,3019,12th & Hill,51
+3034,Hope & 11th,3020,Hill & Washington,10
+3034,Hope & 11th,3021,,12
+3034,Hope & 11th,3022,3rd & Santa Fe,2
+3034,Hope & 11th,3023,1st & Judge John Aiso,11
+3034,Hope & 11th,3024,Hope & 1st,1
+3034,Hope & 11th,3025,Grand & Washington,13
+3034,Hope & 11th,3026,Figueroa & Cesar Chavez,7
+3034,Hope & 11th,3027,Spring & 3rd,2
+3034,Hope & 11th,3028,Grand & Temple,1
+3034,Hope & 11th,3029,Main & 4th,6
+3034,Hope & 11th,3030,Main & 1st,29
+3034,Hope & 11th,3031,7th & Spring,47
+3034,Hope & 11th,3032,Hope & 6th,115
+3034,Hope & 11th,3033,Main & 9th,15
+3034,Hope & 11th,3034,Hope & 11th,140
+3034,Hope & 11th,3035,Figueroa & 8th,90
+3034,Hope & 11th,3036,Willow St & Mateo St,3
+3034,Hope & 11th,3037,Imperial & 7th,1
+3034,Hope & 11th,3038,Main & 5th,26
+3034,Hope & 11th,3040,Wilshire & Witmer,3
+3034,Hope & 11th,3042,1st & Central,14
+3034,Hope & 11th,3046,2nd & Hill,3
+3034,Hope & 11th,3047,Pico & Flower,33
+3034,Hope & 11th,3048,5th & Hewitt,13
+3034,Hope & 11th,3049,2nd & Figueroa,13
+3034,Hope & 11th,3051,7th & Broadway,17
+3034,Hope & 11th,3052,7th & Bixel,8
+3034,Hope & 11th,3053,12th & Grand,2
+3034,Hope & 11th,3054,Factory Place & Alameda,1
+3034,Hope & 11th,3055,7th & Main,21
+3034,Hope & 11th,3056,Grand & 14th,44
+3034,Hope & 11th,3057,18th & Figueroa,5
+3034,Hope & 11th,3058,Industrial St & Mateo St,1
+3034,Hope & 11th,3059,11th & Santee,7
+3034,Hope & 11th,3060,Pico & Maple,5
+3034,Hope & 11th,3062,3rd & San Pedro,4
+3034,Hope & 11th,3063,Olive & 5th,36
+3034,Hope & 11th,3064,Grand & 7th,108
+3034,Hope & 11th,3065,New High & Ord,7
+3034,Hope & 11th,3066,Spring & College,2
+3034,Hope & 11th,3067,Main & 6th,32
+3034,Hope & 11th,3068,Grand & 3rd,4
+3034,Hope & 11th,3069,Broadway & 3rd,43
+3034,Hope & 11th,3074,Hope & Olympic,33
+3034,Hope & 11th,3075,Broadway & 9th,36
+3034,Hope & 11th,3076,9th & Los Angeles,14
+3034,Hope & 11th,3077,8th & Wall,10
+3034,Hope & 11th,3078,Hill & College,1
+3034,Hope & 11th,3082,Traction & Rose,8
+3035,Figueroa & 8th,3005,Flower & 7th,32
+3035,Figueroa & 8th,3006,Olive & 8th,37
+3035,Figueroa & 8th,3007,5th & Grand,16
+3035,Figueroa & 8th,3008,Figueroa & 9th,33
+3035,Figueroa & 8th,3010,11th & Maple,1
+3035,Figueroa & 8th,3011,Figueroa & Pico,51
+3035,Figueroa & 8th,3014,Union Station West Portal,22
+3035,Figueroa & 8th,3016,Los Angeles & Temple,7
+3035,Figueroa & 8th,3018,Grand & Olympic,13
+3035,Figueroa & 8th,3019,12th & Hill,35
+3035,Figueroa & 8th,3020,Hill & Washington,4
+3035,Figueroa & 8th,3021,,27
+3035,Figueroa & 8th,3022,3rd & Santa Fe,13
+3035,Figueroa & 8th,3023,1st & Judge John Aiso,6
+3035,Figueroa & 8th,3024,Hope & 1st,2
+3035,Figueroa & 8th,3025,Grand & Washington,8
+3035,Figueroa & 8th,3026,Figueroa & Cesar Chavez,10
+3035,Figueroa & 8th,3027,Spring & 3rd,4
+3035,Figueroa & 8th,3028,Grand & Temple,12
+3035,Figueroa & 8th,3029,Main & 4th,6
+3035,Figueroa & 8th,3030,Main & 1st,13
+3035,Figueroa & 8th,3031,7th & Spring,97
+3035,Figueroa & 8th,3032,Hope & 6th,15
+3035,Figueroa & 8th,3033,Main & 9th,3
+3035,Figueroa & 8th,3034,Hope & 11th,100
+3035,Figueroa & 8th,3035,Figueroa & 8th,116
+3035,Figueroa & 8th,3036,Willow St & Mateo St,2
+3035,Figueroa & 8th,3037,Imperial & 7th,16
+3035,Figueroa & 8th,3038,Main & 5th,52
+3035,Figueroa & 8th,3040,Wilshire & Witmer,24
+3035,Figueroa & 8th,3042,1st & Central,13
+3035,Figueroa & 8th,3045,18th & San Pedro,7
+3035,Figueroa & 8th,3046,2nd & Hill,8
+3035,Figueroa & 8th,3047,Pico & Flower,29
+3035,Figueroa & 8th,3048,5th & Hewitt,6
+3035,Figueroa & 8th,3049,2nd & Figueroa,77
+3035,Figueroa & 8th,3051,7th & Broadway,49
+3035,Figueroa & 8th,3052,7th & Bixel,64
+3035,Figueroa & 8th,3055,7th & Main,58
+3035,Figueroa & 8th,3056,Grand & 14th,21
+3035,Figueroa & 8th,3057,18th & Figueroa,12
+3035,Figueroa & 8th,3058,Industrial St & Mateo St,1
+3035,Figueroa & 8th,3059,11th & Santee,2
+3035,Figueroa & 8th,3060,Pico & Maple,1
+3035,Figueroa & 8th,3062,3rd & San Pedro,11
+3035,Figueroa & 8th,3063,Olive & 5th,33
+3035,Figueroa & 8th,3064,Grand & 7th,41
+3035,Figueroa & 8th,3065,New High & Ord,5
+3035,Figueroa & 8th,3066,Spring & College,45
+3035,Figueroa & 8th,3067,Main & 6th,64
+3035,Figueroa & 8th,3068,Grand & 3rd,15
+3035,Figueroa & 8th,3069,Broadway & 3rd,42
+3035,Figueroa & 8th,3074,Hope & Olympic,27
+3035,Figueroa & 8th,3075,Broadway & 9th,27
+3035,Figueroa & 8th,3076,9th & Los Angeles,25
+3035,Figueroa & 8th,3077,8th & Wall,11
+3035,Figueroa & 8th,3078,Hill & College,4
+3035,Figueroa & 8th,3082,Traction & Rose,8
+3036,Willow St & Mateo St,3005,Flower & 7th,9
+3036,Willow St & Mateo St,3006,Olive & 8th,4
+3036,Willow St & Mateo St,3007,5th & Grand,1
+3036,Willow St & Mateo St,3011,Figueroa & Pico,4
+3036,Willow St & Mateo St,3014,Union Station West Portal,29
+3036,Willow St & Mateo St,3016,Los Angeles & Temple,7
+3036,Willow St & Mateo St,3018,Grand & Olympic,1
+3036,Willow St & Mateo St,3020,Hill & Washington,1
+3036,Willow St & Mateo St,3021,,31
+3036,Willow St & Mateo St,3022,3rd & Santa Fe,77
+3036,Willow St & Mateo St,3023,1st & Judge John Aiso,7
+3036,Willow St & Mateo St,3024,Hope & 1st,1
+3036,Willow St & Mateo St,3027,Spring & 3rd,5
+3036,Willow St & Mateo St,3028,Grand & Temple,2
+3036,Willow St & Mateo St,3029,Main & 4th,4
+3036,Willow St & Mateo St,3030,Main & 1st,16
+3036,Willow St & Mateo St,3031,7th & Spring,8
+3036,Willow St & Mateo St,3032,Hope & 6th,2
+3036,Willow St & Mateo St,3033,Main & 9th,1
+3036,Willow St & Mateo St,3034,Hope & 11th,3
+3036,Willow St & Mateo St,3035,Figueroa & 8th,5
+3036,Willow St & Mateo St,3036,Willow St & Mateo St,83
+3036,Willow St & Mateo St,3037,Imperial & 7th,9
+3036,Willow St & Mateo St,3038,Main & 5th,8
+3036,Willow St & Mateo St,3040,Wilshire & Witmer,3
+3036,Willow St & Mateo St,3042,1st & Central,43
+3036,Willow St & Mateo St,3045,18th & San Pedro,2
+3036,Willow St & Mateo St,3047,Pico & Flower,2
+3036,Willow St & Mateo St,3048,5th & Hewitt,43
+3036,Willow St & Mateo St,3049,2nd & Figueroa,6
+3036,Willow St & Mateo St,3051,7th & Broadway,6
+3036,Willow St & Mateo St,3054,Factory Place & Alameda,1
+3036,Willow St & Mateo St,3055,7th & Main,12
+3036,Willow St & Mateo St,3056,Grand & 14th,2
+3036,Willow St & Mateo St,3058,Industrial St & Mateo St,27
+3036,Willow St & Mateo St,3059,11th & Santee,1
+3036,Willow St & Mateo St,3062,3rd & San Pedro,5
+3036,Willow St & Mateo St,3063,Olive & 5th,9
+3036,Willow St & Mateo St,3064,Grand & 7th,6
+3036,Willow St & Mateo St,3065,New High & Ord,2
+3036,Willow St & Mateo St,3066,Spring & College,3
+3036,Willow St & Mateo St,3067,Main & 6th,15
+3036,Willow St & Mateo St,3069,Broadway & 3rd,12
+3036,Willow St & Mateo St,3074,Hope & Olympic,4
+3036,Willow St & Mateo St,3075,Broadway & 9th,3
+3036,Willow St & Mateo St,3076,9th & Los Angeles,5
+3036,Willow St & Mateo St,3077,8th & Wall,3
+3036,Willow St & Mateo St,3078,Hill & College,5
+3036,Willow St & Mateo St,3079,Temple & Vignes,13
+3036,Willow St & Mateo St,3082,Traction & Rose,22
+3037,Imperial & 7th,3005,Flower & 7th,8
+3037,Imperial & 7th,3006,Olive & 8th,9
+3037,Imperial & 7th,3014,Union Station West Portal,17
+3037,Imperial & 7th,3018,Grand & Olympic,2
+3037,Imperial & 7th,3021,,29
+3037,Imperial & 7th,3022,3rd & Santa Fe,40
+3037,Imperial & 7th,3023,1st & Judge John Aiso,3
+3037,Imperial & 7th,3026,Figueroa & Cesar Chavez,3
+3037,Imperial & 7th,3027,Spring & 3rd,5
+3037,Imperial & 7th,3028,Grand & Temple,2
+3037,Imperial & 7th,3029,Main & 4th,9
+3037,Imperial & 7th,3030,Main & 1st,16
+3037,Imperial & 7th,3031,7th & Spring,16
+3037,Imperial & 7th,3032,Hope & 6th,7
+3037,Imperial & 7th,3034,Hope & 11th,1
+3037,Imperial & 7th,3035,Figueroa & 8th,14
+3037,Imperial & 7th,3036,Willow St & Mateo St,11
+3037,Imperial & 7th,3037,Imperial & 7th,34
+3037,Imperial & 7th,3038,Main & 5th,9
+3037,Imperial & 7th,3040,Wilshire & Witmer,1
+3037,Imperial & 7th,3042,1st & Central,16
+3037,Imperial & 7th,3045,18th & San Pedro,2
+3037,Imperial & 7th,3046,2nd & Hill,2
+3037,Imperial & 7th,3048,5th & Hewitt,57
+3037,Imperial & 7th,3049,2nd & Figueroa,4
+3037,Imperial & 7th,3051,7th & Broadway,3
+3037,Imperial & 7th,3054,Factory Place & Alameda,11
+3037,Imperial & 7th,3055,7th & Main,20
+3037,Imperial & 7th,3058,Industrial St & Mateo St,5
+3037,Imperial & 7th,3062,3rd & San Pedro,7
+3037,Imperial & 7th,3063,Olive & 5th,6
+3037,Imperial & 7th,3064,Grand & 7th,3
+3037,Imperial & 7th,3065,New High & Ord,1
+3037,Imperial & 7th,3066,Spring & College,4
+3037,Imperial & 7th,3067,Main & 6th,10
+3037,Imperial & 7th,3068,Grand & 3rd,6
+3037,Imperial & 7th,3069,Broadway & 3rd,8
+3037,Imperial & 7th,3075,Broadway & 9th,10
+3037,Imperial & 7th,3076,9th & Los Angeles,4
+3037,Imperial & 7th,3077,8th & Wall,4
+3037,Imperial & 7th,3081,Stanford & 12th,20
+3037,Imperial & 7th,3082,Traction & Rose,27
+3038,Main & 5th,3005,Flower & 7th,71
+3038,Main & 5th,3006,Olive & 8th,40
+3038,Main & 5th,3007,5th & Grand,16
+3038,Main & 5th,3008,Figueroa & 9th,19
+3038,Main & 5th,3010,11th & Maple,2
+3038,Main & 5th,3011,Figueroa & Pico,2
+3038,Main & 5th,3014,Union Station West Portal,62
+3038,Main & 5th,3016,Los Angeles & Temple,4
+3038,Main & 5th,3018,Grand & Olympic,4
+3038,Main & 5th,3019,12th & Hill,15
+3038,Main & 5th,3020,Hill & Washington,6
+3038,Main & 5th,3021,,58
+3038,Main & 5th,3022,3rd & Santa Fe,73
+3038,Main & 5th,3023,1st & Judge John Aiso,52
+3038,Main & 5th,3024,Hope & 1st,16
+3038,Main & 5th,3025,Grand & Washington,2
+3038,Main & 5th,3026,Figueroa & Cesar Chavez,3
+3038,Main & 5th,3027,Spring & 3rd,17
+3038,Main & 5th,3028,Grand & Temple,5
+3038,Main & 5th,3029,Main & 4th,29
+3038,Main & 5th,3030,Main & 1st,61
+3038,Main & 5th,3031,7th & Spring,39
+3038,Main & 5th,3032,Hope & 6th,13
+3038,Main & 5th,3033,Main & 9th,9
+3038,Main & 5th,3034,Hope & 11th,14
+3038,Main & 5th,3035,Figueroa & 8th,40
+3038,Main & 5th,3036,Willow St & Mateo St,21
+3038,Main & 5th,3037,Imperial & 7th,20
+3038,Main & 5th,3038,Main & 5th,117
+3038,Main & 5th,3040,Wilshire & Witmer,5
+3038,Main & 5th,3042,1st & Central,96
+3038,Main & 5th,3045,18th & San Pedro,1
+3038,Main & 5th,3046,2nd & Hill,11
+3038,Main & 5th,3047,Pico & Flower,10
+3038,Main & 5th,3048,5th & Hewitt,26
+3038,Main & 5th,3049,2nd & Figueroa,14
+3038,Main & 5th,3051,7th & Broadway,22
+3038,Main & 5th,3052,7th & Bixel,3
+3038,Main & 5th,3054,Factory Place & Alameda,6
+3038,Main & 5th,3055,7th & Main,13
+3038,Main & 5th,3057,18th & Figueroa,2
+3038,Main & 5th,3058,Industrial St & Mateo St,19
+3038,Main & 5th,3059,11th & Santee,18
+3038,Main & 5th,3060,Pico & Maple,3
+3038,Main & 5th,3062,3rd & San Pedro,17
+3038,Main & 5th,3063,Olive & 5th,21
+3038,Main & 5th,3064,Grand & 7th,53
+3038,Main & 5th,3065,New High & Ord,59
+3038,Main & 5th,3066,Spring & College,40
+3038,Main & 5th,3067,Main & 6th,19
+3038,Main & 5th,3069,Broadway & 3rd,14
+3038,Main & 5th,3074,Hope & Olympic,29
+3038,Main & 5th,3075,Broadway & 9th,35
+3038,Main & 5th,3076,9th & Los Angeles,31
+3038,Main & 5th,3077,8th & Wall,6
+3038,Main & 5th,3078,Hill & College,14
+3038,Main & 5th,3079,Temple & Vignes,6
+3038,Main & 5th,3081,Stanford & 12th,1
+3038,Main & 5th,3082,Traction & Rose,58
+3040,Wilshire & Witmer,3005,Flower & 7th,49
+3040,Wilshire & Witmer,3006,Olive & 8th,14
+3040,Wilshire & Witmer,3007,5th & Grand,5
+3040,Wilshire & Witmer,3008,Figueroa & 9th,25
+3040,Wilshire & Witmer,3011,Figueroa & Pico,10
+3040,Wilshire & Witmer,3014,Union Station West Portal,5
+3040,Wilshire & Witmer,3018,Grand & Olympic,2
+3040,Wilshire & Witmer,3021,,4
+3040,Wilshire & Witmer,3022,3rd & Santa Fe,2
+3040,Wilshire & Witmer,3023,1st & Judge John Aiso,4
+3040,Wilshire & Witmer,3024,Hope & 1st,4
+3040,Wilshire & Witmer,3025,Grand & Washington,4
+3040,Wilshire & Witmer,3026,Figueroa & Cesar Chavez,2
+3040,Wilshire & Witmer,3027,Spring & 3rd,1
+3040,Wilshire & Witmer,3028,Grand & Temple,3
+3040,Wilshire & Witmer,3029,Main & 4th,1
+3040,Wilshire & Witmer,3030,Main & 1st,6
+3040,Wilshire & Witmer,3031,7th & Spring,15
+3040,Wilshire & Witmer,3032,Hope & 6th,14
+3040,Wilshire & Witmer,3033,Main & 9th,1
+3040,Wilshire & Witmer,3034,Hope & 11th,6
+3040,Wilshire & Witmer,3035,Figueroa & 8th,40
+3040,Wilshire & Witmer,3036,Willow St & Mateo St,2
+3040,Wilshire & Witmer,3037,Imperial & 7th,1
+3040,Wilshire & Witmer,3038,Main & 5th,6
+3040,Wilshire & Witmer,3040,Wilshire & Witmer,125
+3040,Wilshire & Witmer,3042,1st & Central,6
+3040,Wilshire & Witmer,3045,18th & San Pedro,1
+3040,Wilshire & Witmer,3046,2nd & Hill,2
+3040,Wilshire & Witmer,3047,Pico & Flower,3
+3040,Wilshire & Witmer,3048,5th & Hewitt,3
+3040,Wilshire & Witmer,3049,2nd & Figueroa,3
+3040,Wilshire & Witmer,3051,7th & Broadway,9
+3040,Wilshire & Witmer,3052,7th & Bixel,17
+3040,Wilshire & Witmer,3054,Factory Place & Alameda,2
+3040,Wilshire & Witmer,3055,7th & Main,4
+3040,Wilshire & Witmer,3056,Grand & 14th,31
+3040,Wilshire & Witmer,3057,18th & Figueroa,2
+3040,Wilshire & Witmer,3058,Industrial St & Mateo St,3
+3040,Wilshire & Witmer,3060,Pico & Maple,7
+3040,Wilshire & Witmer,3062,3rd & San Pedro,3
+3040,Wilshire & Witmer,3063,Olive & 5th,4
+3040,Wilshire & Witmer,3064,Grand & 7th,16
+3040,Wilshire & Witmer,3065,New High & Ord,1
+3040,Wilshire & Witmer,3067,Main & 6th,13
+3040,Wilshire & Witmer,3069,Broadway & 3rd,11
+3040,Wilshire & Witmer,3074,Hope & Olympic,6
+3040,Wilshire & Witmer,3075,Broadway & 9th,1
+3040,Wilshire & Witmer,3077,8th & Wall,1
+3040,Wilshire & Witmer,3079,Temple & Vignes,1
+3040,Wilshire & Witmer,3082,Traction & Rose,2
+3042,1st & Central,3005,Flower & 7th,19
+3042,1st & Central,3006,Olive & 8th,44
+3042,1st & Central,3007,5th & Grand,29
+3042,1st & Central,3008,Figueroa & 9th,17
+3042,1st & Central,3010,11th & Maple,1
+3042,1st & Central,3011,Figueroa & Pico,3
+3042,1st & Central,3014,Union Station West Portal,78
+3042,1st & Central,3016,Los Angeles & Temple,91
+3042,1st & Central,3018,Grand & Olympic,3
+3042,1st & Central,3019,12th & Hill,45
+3042,1st & Central,3020,Hill & Washington,1
+3042,1st & Central,3021,,31
+3042,1st & Central,3022,3rd & Santa Fe,57
+3042,1st & Central,3023,1st & Judge John Aiso,88
+3042,1st & Central,3024,Hope & 1st,20
+3042,1st & Central,3025,Grand & Washington,2
+3042,1st & Central,3026,Figueroa & Cesar Chavez,12
+3042,1st & Central,3027,Spring & 3rd,101
+3042,1st & Central,3028,Grand & Temple,13
+3042,1st & Central,3029,Main & 4th,42
+3042,1st & Central,3030,Main & 1st,114
+3042,1st & Central,3031,7th & Spring,89
+3042,1st & Central,3032,Hope & 6th,14
+3042,1st & Central,3033,Main & 9th,11
+3042,1st & Central,3034,Hope & 11th,8
+3042,1st & Central,3035,Figueroa & 8th,22
+3042,1st & Central,3036,Willow St & Mateo St,44
+3042,1st & Central,3037,Imperial & 7th,25
+3042,1st & Central,3038,Main & 5th,30
+3042,1st & Central,3040,Wilshire & Witmer,2
+3042,1st & Central,3042,1st & Central,167
+3042,1st & Central,3046,2nd & Hill,11
+3042,1st & Central,3047,Pico & Flower,5
+3042,1st & Central,3048,5th & Hewitt,39
+3042,1st & Central,3049,2nd & Figueroa,49
+3042,1st & Central,3051,7th & Broadway,25
+3042,1st & Central,3052,7th & Bixel,10
+3042,1st & Central,3054,Factory Place & Alameda,30
+3042,1st & Central,3055,7th & Main,18
+3042,1st & Central,3056,Grand & 14th,1
+3042,1st & Central,3058,Industrial St & Mateo St,26
+3042,1st & Central,3060,Pico & Maple,6
+3042,1st & Central,3062,3rd & San Pedro,13
+3042,1st & Central,3063,Olive & 5th,41
+3042,1st & Central,3064,Grand & 7th,28
+3042,1st & Central,3065,New High & Ord,19
+3042,1st & Central,3066,Spring & College,15
+3042,1st & Central,3067,Main & 6th,46
+3042,1st & Central,3068,Grand & 3rd,12
+3042,1st & Central,3069,Broadway & 3rd,78
+3042,1st & Central,3074,Hope & Olympic,14
+3042,1st & Central,3075,Broadway & 9th,6
+3042,1st & Central,3076,9th & Los Angeles,17
+3042,1st & Central,3077,8th & Wall,4
+3042,1st & Central,3078,Hill & College,14
+3042,1st & Central,3079,Temple & Vignes,29
+3042,1st & Central,3081,Stanford & 12th,2
+3042,1st & Central,3082,Traction & Rose,25
+3045,18th & San Pedro,3005,Flower & 7th,1
+3045,18th & San Pedro,3006,Olive & 8th,1
+3045,18th & San Pedro,3008,Figueroa & 9th,1
+3045,18th & San Pedro,3010,11th & Maple,1
+3045,18th & San Pedro,3011,Figueroa & Pico,1
+3045,18th & San Pedro,3014,Union Station West Portal,4
+3045,18th & San Pedro,3016,Los Angeles & Temple,9
+3045,18th & San Pedro,3019,12th & Hill,1
+3045,18th & San Pedro,3020,Hill & Washington,1
+3045,18th & San Pedro,3022,3rd & Santa Fe,1
+3045,18th & San Pedro,3023,1st & Judge John Aiso,5
+3045,18th & San Pedro,3025,Grand & Washington,1
+3045,18th & San Pedro,3031,7th & Spring,12
+3045,18th & San Pedro,3033,Main & 9th,4
+3045,18th & San Pedro,3035,Figueroa & 8th,1
+3045,18th & San Pedro,3036,Willow St & Mateo St,3
+3045,18th & San Pedro,3038,Main & 5th,1
+3045,18th & San Pedro,3042,1st & Central,1
+3045,18th & San Pedro,3045,18th & San Pedro,16
+3045,18th & San Pedro,3047,Pico & Flower,1
+3045,18th & San Pedro,3049,2nd & Figueroa,2
+3045,18th & San Pedro,3051,7th & Broadway,2
+3045,18th & San Pedro,3054,Factory Place & Alameda,1
+3045,18th & San Pedro,3055,7th & Main,1
+3045,18th & San Pedro,3056,Grand & 14th,1
+3045,18th & San Pedro,3058,Industrial St & Mateo St,1
+3045,18th & San Pedro,3063,Olive & 5th,1
+3045,18th & San Pedro,3064,Grand & 7th,1
+3045,18th & San Pedro,3074,Hope & Olympic,2
+3045,18th & San Pedro,3077,8th & Wall,3
+3045,18th & San Pedro,3080,San Julian & 12th,7
+3045,18th & San Pedro,3081,Stanford & 12th,5
+3046,2nd & Hill,3005,Flower & 7th,12
+3046,2nd & Hill,3006,Olive & 8th,11
+3046,2nd & Hill,3007,5th & Grand,3
+3046,2nd & Hill,3008,Figueroa & 9th,4
+3046,2nd & Hill,3011,Figueroa & Pico,9
+3046,2nd & Hill,3014,Union Station West Portal,7
+3046,2nd & Hill,3016,Los Angeles & Temple,3
+3046,2nd & Hill,3019,12th & Hill,4
+3046,2nd & Hill,3021,,33
+3046,2nd & Hill,3022,3rd & Santa Fe,37
+3046,2nd & Hill,3023,1st & Judge John Aiso,17
+3046,2nd & Hill,3024,Hope & 1st,8
+3046,2nd & Hill,3025,Grand & Washington,1
+3046,2nd & Hill,3026,Figueroa & Cesar Chavez,12
+3046,2nd & Hill,3027,Spring & 3rd,7
+3046,2nd & Hill,3029,Main & 4th,4
+3046,2nd & Hill,3030,Main & 1st,6
+3046,2nd & Hill,3031,7th & Spring,8
+3046,2nd & Hill,3032,Hope & 6th,3
+3046,2nd & Hill,3034,Hope & 11th,3
+3046,2nd & Hill,3035,Figueroa & 8th,8
+3046,2nd & Hill,3036,Willow St & Mateo St,12
+3046,2nd & Hill,3037,Imperial & 7th,2
+3046,2nd & Hill,3038,Main & 5th,12
+3046,2nd & Hill,3040,Wilshire & Witmer,1
+3046,2nd & Hill,3042,1st & Central,21
+3046,2nd & Hill,3046,2nd & Hill,98
+3046,2nd & Hill,3047,Pico & Flower,1
+3046,2nd & Hill,3048,5th & Hewitt,24
+3046,2nd & Hill,3049,2nd & Figueroa,54
+3046,2nd & Hill,3051,7th & Broadway,6
+3046,2nd & Hill,3052,7th & Bixel,2
+3046,2nd & Hill,3054,Factory Place & Alameda,1
+3046,2nd & Hill,3055,7th & Main,2
+3046,2nd & Hill,3057,18th & Figueroa,2
+3046,2nd & Hill,3058,Industrial St & Mateo St,1
+3046,2nd & Hill,3059,11th & Santee,1
+3046,2nd & Hill,3062,3rd & San Pedro,14
+3046,2nd & Hill,3063,Olive & 5th,15
+3046,2nd & Hill,3064,Grand & 7th,17
+3046,2nd & Hill,3065,New High & Ord,4
+3046,2nd & Hill,3066,Spring & College,2
+3046,2nd & Hill,3067,Main & 6th,23
+3046,2nd & Hill,3068,Grand & 3rd,2
+3046,2nd & Hill,3069,Broadway & 3rd,15
+3046,2nd & Hill,3074,Hope & Olympic,18
+3046,2nd & Hill,3075,Broadway & 9th,6
+3046,2nd & Hill,3076,9th & Los Angeles,6
+3046,2nd & Hill,3077,8th & Wall,2
+3046,2nd & Hill,3078,Hill & College,11
+3046,2nd & Hill,3079,Temple & Vignes,2
+3046,2nd & Hill,3082,Traction & Rose,24
+3047,Pico & Flower,3005,Flower & 7th,49
+3047,Pico & Flower,3006,Olive & 8th,17
+3047,Pico & Flower,3007,5th & Grand,11
+3047,Pico & Flower,3008,Figueroa & 9th,51
+3047,Pico & Flower,3010,11th & Maple,42
+3047,Pico & Flower,3011,Figueroa & Pico,9
+3047,Pico & Flower,3014,Union Station West Portal,1
+3047,Pico & Flower,3018,Grand & Olympic,13
+3047,Pico & Flower,3019,12th & Hill,105
+3047,Pico & Flower,3020,Hill & Washington,2
+3047,Pico & Flower,3021,,1
+3047,Pico & Flower,3022,3rd & Santa Fe,1
+3047,Pico & Flower,3023,1st & Judge John Aiso,5
+3047,Pico & Flower,3025,Grand & Washington,8
+3047,Pico & Flower,3027,Spring & 3rd,1
+3047,Pico & Flower,3029,Main & 4th,1
+3047,Pico & Flower,3030,Main & 1st,2
+3047,Pico & Flower,3031,7th & Spring,12
+3047,Pico & Flower,3032,Hope & 6th,18
+3047,Pico & Flower,3033,Main & 9th,6
+3047,Pico & Flower,3034,Hope & 11th,58
+3047,Pico & Flower,3035,Figueroa & 8th,32
+3047,Pico & Flower,3036,Willow St & Mateo St,5
+3047,Pico & Flower,3037,Imperial & 7th,2
+3047,Pico & Flower,3038,Main & 5th,9
+3047,Pico & Flower,3040,Wilshire & Witmer,3
+3047,Pico & Flower,3042,1st & Central,11
+3047,Pico & Flower,3045,18th & San Pedro,3
+3047,Pico & Flower,3046,2nd & Hill,1
+3047,Pico & Flower,3047,Pico & Flower,92
+3047,Pico & Flower,3048,5th & Hewitt,3
+3047,Pico & Flower,3049,2nd & Figueroa,6
+3047,Pico & Flower,3051,7th & Broadway,4
+3047,Pico & Flower,3052,7th & Bixel,5
+3047,Pico & Flower,3055,7th & Main,6
+3047,Pico & Flower,3056,Grand & 14th,60
+3047,Pico & Flower,3057,18th & Figueroa,1
+3047,Pico & Flower,3058,Industrial St & Mateo St,1
+3047,Pico & Flower,3059,11th & Santee,23
+3047,Pico & Flower,3060,Pico & Maple,9
+3047,Pico & Flower,3062,3rd & San Pedro,3
+3047,Pico & Flower,3063,Olive & 5th,6
+3047,Pico & Flower,3064,Grand & 7th,73
+3047,Pico & Flower,3066,Spring & College,3
+3047,Pico & Flower,3067,Main & 6th,19
+3047,Pico & Flower,3068,Grand & 3rd,2
+3047,Pico & Flower,3069,Broadway & 3rd,14
+3047,Pico & Flower,3074,Hope & Olympic,21
+3047,Pico & Flower,3075,Broadway & 9th,11
+3047,Pico & Flower,3076,9th & Los Angeles,9
+3047,Pico & Flower,3077,8th & Wall,2
+3047,Pico & Flower,3079,Temple & Vignes,1
+3047,Pico & Flower,3081,Stanford & 12th,4
+3047,Pico & Flower,3082,Traction & Rose,2
+3048,5th & Hewitt,3005,Flower & 7th,43
+3048,5th & Hewitt,3006,Olive & 8th,14
+3048,5th & Hewitt,3007,5th & Grand,28
+3048,5th & Hewitt,3008,Figueroa & 9th,3
+3048,5th & Hewitt,3011,Figueroa & Pico,4
+3048,5th & Hewitt,3014,Union Station West Portal,57
+3048,5th & Hewitt,3016,Los Angeles & Temple,13
+3048,5th & Hewitt,3021,,30
+3048,5th & Hewitt,3022,3rd & Santa Fe,65
+3048,5th & Hewitt,3023,1st & Judge John Aiso,23
+3048,5th & Hewitt,3024,Hope & 1st,32
+3048,5th & Hewitt,3027,Spring & 3rd,16
+3048,5th & Hewitt,3028,Grand & Temple,1
+3048,5th & Hewitt,3029,Main & 4th,16
+3048,5th & Hewitt,3030,Main & 1st,20
+3048,5th & Hewitt,3031,7th & Spring,24
+3048,5th & Hewitt,3032,Hope & 6th,3
+3048,5th & Hewitt,3033,Main & 9th,12
+3048,5th & Hewitt,3034,Hope & 11th,11
+3048,5th & Hewitt,3035,Figueroa & 8th,2
+3048,5th & Hewitt,3036,Willow St & Mateo St,29
+3048,5th & Hewitt,3037,Imperial & 7th,29
+3048,5th & Hewitt,3038,Main & 5th,18
+3048,5th & Hewitt,3040,Wilshire & Witmer,2
+3048,5th & Hewitt,3042,1st & Central,42
+3048,5th & Hewitt,3046,2nd & Hill,14
+3048,5th & Hewitt,3047,Pico & Flower,6
+3048,5th & Hewitt,3048,5th & Hewitt,264
+3048,5th & Hewitt,3049,2nd & Figueroa,7
+3048,5th & Hewitt,3051,7th & Broadway,3
+3048,5th & Hewitt,3052,7th & Bixel,9
+3048,5th & Hewitt,3054,Factory Place & Alameda,9
+3048,5th & Hewitt,3055,7th & Main,17
+3048,5th & Hewitt,3058,Industrial St & Mateo St,65
+3048,5th & Hewitt,3062,3rd & San Pedro,26
+3048,5th & Hewitt,3063,Olive & 5th,20
+3048,5th & Hewitt,3064,Grand & 7th,8
+3048,5th & Hewitt,3065,New High & Ord,7
+3048,5th & Hewitt,3066,Spring & College,10
+3048,5th & Hewitt,3067,Main & 6th,10
+3048,5th & Hewitt,3068,Grand & 3rd,8
+3048,5th & Hewitt,3069,Broadway & 3rd,60
+3048,5th & Hewitt,3074,Hope & Olympic,5
+3048,5th & Hewitt,3075,Broadway & 9th,14
+3048,5th & Hewitt,3076,9th & Los Angeles,7
+3048,5th & Hewitt,3077,8th & Wall,6
+3048,5th & Hewitt,3078,Hill & College,8
+3048,5th & Hewitt,3079,Temple & Vignes,2
+3048,5th & Hewitt,3080,San Julian & 12th,6
+3048,5th & Hewitt,3081,Stanford & 12th,5
+3048,5th & Hewitt,3082,Traction & Rose,17
+3049,2nd & Figueroa,3005,Flower & 7th,126
+3049,2nd & Figueroa,3006,Olive & 8th,16
+3049,2nd & Figueroa,3007,5th & Grand,25
+3049,2nd & Figueroa,3008,Figueroa & 9th,22
+3049,2nd & Figueroa,3010,11th & Maple,1
+3049,2nd & Figueroa,3011,Figueroa & Pico,13
+3049,2nd & Figueroa,3014,Union Station West Portal,16
+3049,2nd & Figueroa,3016,Los Angeles & Temple,25
+3049,2nd & Figueroa,3018,Grand & Olympic,11
+3049,2nd & Figueroa,3019,12th & Hill,9
+3049,2nd & Figueroa,3021,,22
+3049,2nd & Figueroa,3022,3rd & Santa Fe,18
+3049,2nd & Figueroa,3023,1st & Judge John Aiso,25
+3049,2nd & Figueroa,3024,Hope & 1st,7
+3049,2nd & Figueroa,3026,Figueroa & Cesar Chavez,34
+3049,2nd & Figueroa,3027,Spring & 3rd,8
+3049,2nd & Figueroa,3028,Grand & Temple,5
+3049,2nd & Figueroa,3029,Main & 4th,6
+3049,2nd & Figueroa,3030,Main & 1st,73
+3049,2nd & Figueroa,3031,7th & Spring,53
+3049,2nd & Figueroa,3032,Hope & 6th,37
+3049,2nd & Figueroa,3033,Main & 9th,1
+3049,2nd & Figueroa,3034,Hope & 11th,17
+3049,2nd & Figueroa,3035,Figueroa & 8th,69
+3049,2nd & Figueroa,3036,Willow St & Mateo St,8
+3049,2nd & Figueroa,3038,Main & 5th,16
+3049,2nd & Figueroa,3042,1st & Central,70
+3049,2nd & Figueroa,3046,2nd & Hill,39
+3049,2nd & Figueroa,3047,Pico & Flower,1
+3049,2nd & Figueroa,3048,5th & Hewitt,8
+3049,2nd & Figueroa,3049,2nd & Figueroa,122
+3049,2nd & Figueroa,3051,7th & Broadway,20
+3049,2nd & Figueroa,3052,7th & Bixel,43
+3049,2nd & Figueroa,3054,Factory Place & Alameda,8
+3049,2nd & Figueroa,3055,7th & Main,11
+3049,2nd & Figueroa,3058,Industrial St & Mateo St,5
+3049,2nd & Figueroa,3062,3rd & San Pedro,5
+3049,2nd & Figueroa,3063,Olive & 5th,31
+3049,2nd & Figueroa,3064,Grand & 7th,33
+3049,2nd & Figueroa,3065,New High & Ord,5
+3049,2nd & Figueroa,3066,Spring & College,1
+3049,2nd & Figueroa,3067,Main & 6th,78
+3049,2nd & Figueroa,3068,Grand & 3rd,3
+3049,2nd & Figueroa,3069,Broadway & 3rd,92
+3049,2nd & Figueroa,3074,Hope & Olympic,13
+3049,2nd & Figueroa,3075,Broadway & 9th,25
+3049,2nd & Figueroa,3076,9th & Los Angeles,14
+3049,2nd & Figueroa,3077,8th & Wall,3
+3049,2nd & Figueroa,3078,Hill & College,4
+3049,2nd & Figueroa,3081,Stanford & 12th,13
+3049,2nd & Figueroa,3082,Traction & Rose,8
+3051,7th & Broadway,3005,Flower & 7th,65
+3051,7th & Broadway,3006,Olive & 8th,19
+3051,7th & Broadway,3007,5th & Grand,6
+3051,7th & Broadway,3008,Figueroa & 9th,20
+3051,7th & Broadway,3011,Figueroa & Pico,4
+3051,7th & Broadway,3014,Union Station West Portal,14
+3051,7th & Broadway,3016,Los Angeles & Temple,7
+3051,7th & Broadway,3018,Grand & Olympic,13
+3051,7th & Broadway,3019,12th & Hill,11
+3051,7th & Broadway,3020,Hill & Washington,2
+3051,7th & Broadway,3021,,23
+3051,7th & Broadway,3022,3rd & Santa Fe,15
+3051,7th & Broadway,3023,1st & Judge John Aiso,5
+3051,7th & Broadway,3024,Hope & 1st,5
+3051,7th & Broadway,3025,Grand & Washington,7
+3051,7th & Broadway,3026,Figueroa & Cesar Chavez,40
+3051,7th & Broadway,3027,Spring & 3rd,7
+3051,7th & Broadway,3028,Grand & Temple,3
+3051,7th & Broadway,3029,Main & 4th,11
+3051,7th & Broadway,3030,Main & 1st,14
+3051,7th & Broadway,3031,7th & Spring,14
+3051,7th & Broadway,3032,Hope & 6th,33
+3051,7th & Broadway,3033,Main & 9th,1
+3051,7th & Broadway,3034,Hope & 11th,8
+3051,7th & Broadway,3035,Figueroa & 8th,38
+3051,7th & Broadway,3036,Willow St & Mateo St,2
+3051,7th & Broadway,3037,Imperial & 7th,15
+3051,7th & Broadway,3038,Main & 5th,41
+3051,7th & Broadway,3040,Wilshire & Witmer,3
+3051,7th & Broadway,3042,1st & Central,21
+3051,7th & Broadway,3046,2nd & Hill,5
+3051,7th & Broadway,3047,Pico & Flower,10
+3051,7th & Broadway,3048,5th & Hewitt,14
+3051,7th & Broadway,3049,2nd & Figueroa,20
+3051,7th & Broadway,3051,7th & Broadway,46
+3051,7th & Broadway,3052,7th & Bixel,18
+3051,7th & Broadway,3053,12th & Grand,1
+3051,7th & Broadway,3054,Factory Place & Alameda,1
+3051,7th & Broadway,3055,7th & Main,4
+3051,7th & Broadway,3058,Industrial St & Mateo St,10
+3051,7th & Broadway,3059,11th & Santee,4
+3051,7th & Broadway,3060,Pico & Maple,3
+3051,7th & Broadway,3062,3rd & San Pedro,14
+3051,7th & Broadway,3063,Olive & 5th,14
+3051,7th & Broadway,3064,Grand & 7th,29
+3051,7th & Broadway,3065,New High & Ord,2
+3051,7th & Broadway,3066,Spring & College,3
+3051,7th & Broadway,3067,Main & 6th,16
+3051,7th & Broadway,3068,Grand & 3rd,5
+3051,7th & Broadway,3069,Broadway & 3rd,37
+3051,7th & Broadway,3074,Hope & Olympic,23
+3051,7th & Broadway,3075,Broadway & 9th,24
+3051,7th & Broadway,3076,9th & Los Angeles,7
+3051,7th & Broadway,3077,8th & Wall,3
+3051,7th & Broadway,3078,Hill & College,10
+3051,7th & Broadway,3081,Stanford & 12th,1
+3051,7th & Broadway,3082,Traction & Rose,13
+3052,7th & Bixel,3005,Flower & 7th,87
+3052,7th & Bixel,3006,Olive & 8th,46
+3052,7th & Bixel,3007,5th & Grand,20
+3052,7th & Bixel,3008,Figueroa & 9th,73
+3052,7th & Bixel,3010,11th & Maple,2
+3052,7th & Bixel,3011,Figueroa & Pico,10
+3052,7th & Bixel,3014,Union Station West Portal,10
+3052,7th & Bixel,3016,Los Angeles & Temple,5
+3052,7th & Bixel,3018,Grand & Olympic,11
+3052,7th & Bixel,3019,12th & Hill,7
+3052,7th & Bixel,3020,Hill & Washington,11
+3052,7th & Bixel,3021,,6
+3052,7th & Bixel,3023,1st & Judge John Aiso,26
+3052,7th & Bixel,3024,Hope & 1st,5
+3052,7th & Bixel,3025,Grand & Washington,2
+3052,7th & Bixel,3026,Figueroa & Cesar Chavez,2
+3052,7th & Bixel,3028,Grand & Temple,1
+3052,7th & Bixel,3029,Main & 4th,6
+3052,7th & Bixel,3030,Main & 1st,12
+3052,7th & Bixel,3031,7th & Spring,50
+3052,7th & Bixel,3032,Hope & 6th,22
+3052,7th & Bixel,3034,Hope & 11th,8
+3052,7th & Bixel,3035,Figueroa & 8th,53
+3052,7th & Bixel,3036,Willow St & Mateo St,3
+3052,7th & Bixel,3037,Imperial & 7th,3
+3052,7th & Bixel,3038,Main & 5th,6
+3052,7th & Bixel,3040,Wilshire & Witmer,18
+3052,7th & Bixel,3042,1st & Central,8
+3052,7th & Bixel,3047,Pico & Flower,14
+3052,7th & Bixel,3048,5th & Hewitt,16
+3052,7th & Bixel,3049,2nd & Figueroa,38
+3052,7th & Bixel,3051,7th & Broadway,22
+3052,7th & Bixel,3052,7th & Bixel,103
+3052,7th & Bixel,3054,Factory Place & Alameda,1
+3052,7th & Bixel,3055,7th & Main,10
+3052,7th & Bixel,3056,Grand & 14th,4
+3052,7th & Bixel,3057,18th & Figueroa,3
+3052,7th & Bixel,3058,Industrial St & Mateo St,10
+3052,7th & Bixel,3059,11th & Santee,5
+3052,7th & Bixel,3060,Pico & Maple,2
+3052,7th & Bixel,3062,3rd & San Pedro,13
+3052,7th & Bixel,3063,Olive & 5th,31
+3052,7th & Bixel,3064,Grand & 7th,101
+3052,7th & Bixel,3067,Main & 6th,3
+3052,7th & Bixel,3068,Grand & 3rd,5
+3052,7th & Bixel,3069,Broadway & 3rd,32
+3052,7th & Bixel,3074,Hope & Olympic,14
+3052,7th & Bixel,3075,Broadway & 9th,2
+3052,7th & Bixel,3076,9th & Los Angeles,2
+3052,7th & Bixel,3077,8th & Wall,6
+3052,7th & Bixel,3078,Hill & College,1
+3052,7th & Bixel,3081,Stanford & 12th,2
+3052,7th & Bixel,3082,Traction & Rose,5
+3053,12th & Grand,3005,Flower & 7th,1
+3053,12th & Grand,3006,Olive & 8th,2
+3053,12th & Grand,3032,Hope & 6th,2
+3053,12th & Grand,3038,Main & 5th,1
+3053,12th & Grand,3051,7th & Broadway,1
+3053,12th & Grand,3056,Grand & 14th,1
+3053,12th & Grand,3060,Pico & Maple,2
+3053,12th & Grand,3062,3rd & San Pedro,1
+3053,12th & Grand,3063,Olive & 5th,1
+3053,12th & Grand,3078,Hill & College,1
+3054,Factory Place & Alameda,3005,Flower & 7th,11
+3054,Factory Place & Alameda,3006,Olive & 8th,5
+3054,Factory Place & Alameda,3007,5th & Grand,1
+3054,Factory Place & Alameda,3014,Union Station West Portal,14
+3054,Factory Place & Alameda,3019,12th & Hill,4
+3054,Factory Place & Alameda,3020,Hill & Washington,1
+3054,Factory Place & Alameda,3021,,24
+3054,Factory Place & Alameda,3022,3rd & Santa Fe,34
+3054,Factory Place & Alameda,3023,1st & Judge John Aiso,4
+3054,Factory Place & Alameda,3024,Hope & 1st,1
+3054,Factory Place & Alameda,3027,Spring & 3rd,4
+3054,Factory Place & Alameda,3030,Main & 1st,13
+3054,Factory Place & Alameda,3031,7th & Spring,9
+3054,Factory Place & Alameda,3032,Hope & 6th,4
+3054,Factory Place & Alameda,3034,Hope & 11th,1
+3054,Factory Place & Alameda,3035,Figueroa & 8th,1
+3054,Factory Place & Alameda,3036,Willow St & Mateo St,7
+3054,Factory Place & Alameda,3037,Imperial & 7th,14
+3054,Factory Place & Alameda,3038,Main & 5th,4
+3054,Factory Place & Alameda,3042,1st & Central,46
+3054,Factory Place & Alameda,3045,18th & San Pedro,2
+3054,Factory Place & Alameda,3046,2nd & Hill,1
+3054,Factory Place & Alameda,3047,Pico & Flower,1
+3054,Factory Place & Alameda,3048,5th & Hewitt,15
+3054,Factory Place & Alameda,3049,2nd & Figueroa,3
+3054,Factory Place & Alameda,3051,7th & Broadway,2
+3054,Factory Place & Alameda,3052,7th & Bixel,3
+3054,Factory Place & Alameda,3054,Factory Place & Alameda,52
+3054,Factory Place & Alameda,3055,7th & Main,6
+3054,Factory Place & Alameda,3058,Industrial St & Mateo St,9
+3054,Factory Place & Alameda,3062,3rd & San Pedro,8
+3054,Factory Place & Alameda,3063,Olive & 5th,7
+3054,Factory Place & Alameda,3064,Grand & 7th,3
+3054,Factory Place & Alameda,3065,New High & Ord,1
+3054,Factory Place & Alameda,3067,Main & 6th,12
+3054,Factory Place & Alameda,3069,Broadway & 3rd,13
+3054,Factory Place & Alameda,3074,Hope & Olympic,1
+3054,Factory Place & Alameda,3076,9th & Los Angeles,8
+3054,Factory Place & Alameda,3079,Temple & Vignes,1
+3054,Factory Place & Alameda,3081,Stanford & 12th,7
+3054,Factory Place & Alameda,3082,Traction & Rose,19
+3055,7th & Main,3005,Flower & 7th,122
+3055,7th & Main,3006,Olive & 8th,38
+3055,7th & Main,3007,5th & Grand,18
+3055,7th & Main,3008,Figueroa & 9th,12
+3055,7th & Main,3011,Figueroa & Pico,9
+3055,7th & Main,3014,Union Station West Portal,74
+3055,7th & Main,3016,Los Angeles & Temple,34
+3055,7th & Main,3018,Grand & Olympic,18
+3055,7th & Main,3020,Hill & Washington,4
+3055,7th & Main,3021,,24
+3055,7th & Main,3022,3rd & Santa Fe,56
+3055,7th & Main,3023,1st & Judge John Aiso,8
+3055,7th & Main,3024,Hope & 1st,3
+3055,7th & Main,3025,Grand & Washington,1
+3055,7th & Main,3026,Figueroa & Cesar Chavez,5
+3055,7th & Main,3027,Spring & 3rd,12
+3055,7th & Main,3028,Grand & Temple,4
+3055,7th & Main,3029,Main & 4th,26
+3055,7th & Main,3030,Main & 1st,41
+3055,7th & Main,3031,7th & Spring,23
+3055,7th & Main,3032,Hope & 6th,22
+3055,7th & Main,3033,Main & 9th,6
+3055,7th & Main,3034,Hope & 11th,15
+3055,7th & Main,3035,Figueroa & 8th,54
+3055,7th & Main,3036,Willow St & Mateo St,22
+3055,7th & Main,3037,Imperial & 7th,25
+3055,7th & Main,3038,Main & 5th,29
+3055,7th & Main,3040,Wilshire & Witmer,2
+3055,7th & Main,3042,1st & Central,57
+3055,7th & Main,3045,18th & San Pedro,1
+3055,7th & Main,3046,2nd & Hill,2
+3055,7th & Main,3047,Pico & Flower,3
+3055,7th & Main,3048,5th & Hewitt,25
+3055,7th & Main,3049,2nd & Figueroa,12
+3055,7th & Main,3051,7th & Broadway,10
+3055,7th & Main,3052,7th & Bixel,5
+3055,7th & Main,3054,Factory Place & Alameda,9
+3055,7th & Main,3055,7th & Main,86
+3055,7th & Main,3057,18th & Figueroa,9
+3055,7th & Main,3058,Industrial St & Mateo St,54
+3055,7th & Main,3059,11th & Santee,3
+3055,7th & Main,3060,Pico & Maple,1
+3055,7th & Main,3062,3rd & San Pedro,10
+3055,7th & Main,3063,Olive & 5th,83
+3055,7th & Main,3064,Grand & 7th,73
+3055,7th & Main,3065,New High & Ord,12
+3055,7th & Main,3066,Spring & College,5
+3055,7th & Main,3067,Main & 6th,8
+3055,7th & Main,3068,Grand & 3rd,9
+3055,7th & Main,3069,Broadway & 3rd,39
+3055,7th & Main,3074,Hope & Olympic,21
+3055,7th & Main,3075,Broadway & 9th,12
+3055,7th & Main,3076,9th & Los Angeles,9
+3055,7th & Main,3077,8th & Wall,11
+3055,7th & Main,3078,Hill & College,2
+3055,7th & Main,3079,Temple & Vignes,30
+3055,7th & Main,3080,San Julian & 12th,1
+3055,7th & Main,3081,Stanford & 12th,12
+3055,7th & Main,3082,Traction & Rose,21
+3056,Grand & 14th,3005,Flower & 7th,4
+3056,Grand & 14th,3006,Olive & 8th,15
+3056,Grand & 14th,3007,5th & Grand,3
+3056,Grand & 14th,3008,Figueroa & 9th,6
+3056,Grand & 14th,3010,11th & Maple,2
+3056,Grand & 14th,3011,Figueroa & Pico,13
+3056,Grand & 14th,3014,Union Station West Portal,4
+3056,Grand & 14th,3018,Grand & Olympic,7
+3056,Grand & 14th,3019,12th & Hill,21
+3056,Grand & 14th,3021,,1
+3056,Grand & 14th,3023,1st & Judge John Aiso,2
+3056,Grand & 14th,3025,Grand & Washington,37
+3056,Grand & 14th,3027,Spring & 3rd,1
+3056,Grand & 14th,3030,Main & 1st,4
+3056,Grand & 14th,3031,7th & Spring,4
+3056,Grand & 14th,3032,Hope & 6th,33
+3056,Grand & 14th,3033,Main & 9th,9
+3056,Grand & 14th,3034,Hope & 11th,56
+3056,Grand & 14th,3035,Figueroa & 8th,8
+3056,Grand & 14th,3036,Willow St & Mateo St,4
+3056,Grand & 14th,3037,Imperial & 7th,1
+3056,Grand & 14th,3038,Main & 5th,4
+3056,Grand & 14th,3040,Wilshire & Witmer,9
+3056,Grand & 14th,3042,1st & Central,6
+3056,Grand & 14th,3046,2nd & Hill,20
+3056,Grand & 14th,3047,Pico & Flower,66
+3056,Grand & 14th,3051,7th & Broadway,3
+3056,Grand & 14th,3052,7th & Bixel,3
+3056,Grand & 14th,3054,Factory Place & Alameda,2
+3056,Grand & 14th,3055,7th & Main,2
+3056,Grand & 14th,3056,Grand & 14th,66
+3056,Grand & 14th,3057,18th & Figueroa,3
+3056,Grand & 14th,3059,11th & Santee,22
+3056,Grand & 14th,3060,Pico & Maple,42
+3056,Grand & 14th,3063,Olive & 5th,5
+3056,Grand & 14th,3064,Grand & 7th,13
+3056,Grand & 14th,3066,Spring & College,2
+3056,Grand & 14th,3067,Main & 6th,3
+3056,Grand & 14th,3069,Broadway & 3rd,4
+3056,Grand & 14th,3074,Hope & Olympic,24
+3056,Grand & 14th,3075,Broadway & 9th,12
+3056,Grand & 14th,3076,9th & Los Angeles,6
+3056,Grand & 14th,3078,Hill & College,1
+3056,Grand & 14th,3081,Stanford & 12th,11
+3056,Grand & 14th,3082,Traction & Rose,1
+3057,18th & Figueroa,3005,Flower & 7th,1
+3057,18th & Figueroa,3006,Olive & 8th,2
+3057,18th & Figueroa,3007,5th & Grand,3
+3057,18th & Figueroa,3008,Figueroa & 9th,9
+3057,18th & Figueroa,3011,Figueroa & Pico,6
+3057,18th & Figueroa,3014,Union Station West Portal,1
+3057,18th & Figueroa,3016,Los Angeles & Temple,2
+3057,18th & Figueroa,3018,Grand & Olympic,4
+3057,18th & Figueroa,3019,12th & Hill,2
+3057,18th & Figueroa,3022,3rd & Santa Fe,1
+3057,18th & Figueroa,3025,Grand & Washington,4
+3057,18th & Figueroa,3026,Figueroa & Cesar Chavez,1
+3057,18th & Figueroa,3027,Spring & 3rd,10
+3057,18th & Figueroa,3029,Main & 4th,1
+3057,18th & Figueroa,3030,Main & 1st,2
+3057,18th & Figueroa,3031,7th & Spring,1
+3057,18th & Figueroa,3032,Hope & 6th,2
+3057,18th & Figueroa,3034,Hope & 11th,6
+3057,18th & Figueroa,3035,Figueroa & 8th,8
+3057,18th & Figueroa,3036,Willow St & Mateo St,1
+3057,18th & Figueroa,3037,Imperial & 7th,4
+3057,18th & Figueroa,3042,1st & Central,1
+3057,18th & Figueroa,3045,18th & San Pedro,2
+3057,18th & Figueroa,3047,Pico & Flower,6
+3057,18th & Figueroa,3049,2nd & Figueroa,3
+3057,18th & Figueroa,3052,7th & Bixel,5
+3057,18th & Figueroa,3053,12th & Grand,1
+3057,18th & Figueroa,3054,Factory Place & Alameda,1
+3057,18th & Figueroa,3055,7th & Main,4
+3057,18th & Figueroa,3056,Grand & 14th,13
+3057,18th & Figueroa,3057,18th & Figueroa,25
+3057,18th & Figueroa,3063,Olive & 5th,3
+3057,18th & Figueroa,3064,Grand & 7th,2
+3057,18th & Figueroa,3066,Spring & College,2
+3057,18th & Figueroa,3067,Main & 6th,1
+3057,18th & Figueroa,3069,Broadway & 3rd,2
+3057,18th & Figueroa,3074,Hope & Olympic,11
+3057,18th & Figueroa,3075,Broadway & 9th,5
+3057,18th & Figueroa,3076,9th & Los Angeles,3
+3057,18th & Figueroa,3080,San Julian & 12th,1
+3058,Industrial St & Mateo St,3005,Flower & 7th,18
+3058,Industrial St & Mateo St,3007,5th & Grand,1
+3058,Industrial St & Mateo St,3008,Figueroa & 9th,1
+3058,Industrial St & Mateo St,3014,Union Station West Portal,33
+3058,Industrial St & Mateo St,3016,Los Angeles & Temple,4
+3058,Industrial St & Mateo St,3018,Grand & Olympic,4
+3058,Industrial St & Mateo St,3020,Hill & Washington,1
+3058,Industrial St & Mateo St,3021,,74
+3058,Industrial St & Mateo St,3022,3rd & Santa Fe,121
+3058,Industrial St & Mateo St,3023,1st & Judge John Aiso,3
+3058,Industrial St & Mateo St,3027,Spring & 3rd,10
+3058,Industrial St & Mateo St,3028,Grand & Temple,3
+3058,Industrial St & Mateo St,3029,Main & 4th,1
+3058,Industrial St & Mateo St,3030,Main & 1st,9
+3058,Industrial St & Mateo St,3031,7th & Spring,10
+3058,Industrial St & Mateo St,3032,Hope & 6th,5
+3058,Industrial St & Mateo St,3033,Main & 9th,1
+3058,Industrial St & Mateo St,3034,Hope & 11th,3
+3058,Industrial St & Mateo St,3035,Figueroa & 8th,1
+3058,Industrial St & Mateo St,3036,Willow St & Mateo St,43
+3058,Industrial St & Mateo St,3037,Imperial & 7th,8
+3058,Industrial St & Mateo St,3038,Main & 5th,10
+3058,Industrial St & Mateo St,3040,Wilshire & Witmer,2
+3058,Industrial St & Mateo St,3042,1st & Central,25
+3058,Industrial St & Mateo St,3045,18th & San Pedro,1
+3058,Industrial St & Mateo St,3046,2nd & Hill,1
+3058,Industrial St & Mateo St,3047,Pico & Flower,1
+3058,Industrial St & Mateo St,3048,5th & Hewitt,67
+3058,Industrial St & Mateo St,3049,2nd & Figueroa,4
+3058,Industrial St & Mateo St,3051,7th & Broadway,4
+3058,Industrial St & Mateo St,3052,7th & Bixel,3
+3058,Industrial St & Mateo St,3054,Factory Place & Alameda,4
+3058,Industrial St & Mateo St,3055,7th & Main,54
+3058,Industrial St & Mateo St,3056,Grand & 14th,2
+3058,Industrial St & Mateo St,3058,Industrial St & Mateo St,99
+3058,Industrial St & Mateo St,3062,3rd & San Pedro,20
+3058,Industrial St & Mateo St,3063,Olive & 5th,12
+3058,Industrial St & Mateo St,3064,Grand & 7th,15
+3058,Industrial St & Mateo St,3066,Spring & College,3
+3058,Industrial St & Mateo St,3067,Main & 6th,10
+3058,Industrial St & Mateo St,3068,Grand & 3rd,4
+3058,Industrial St & Mateo St,3069,Broadway & 3rd,16
+3058,Industrial St & Mateo St,3074,Hope & Olympic,2
+3058,Industrial St & Mateo St,3075,Broadway & 9th,6
+3058,Industrial St & Mateo St,3076,9th & Los Angeles,2
+3058,Industrial St & Mateo St,3077,8th & Wall,5
+3058,Industrial St & Mateo St,3078,Hill & College,4
+3058,Industrial St & Mateo St,3081,Stanford & 12th,5
+3058,Industrial St & Mateo St,3082,Traction & Rose,43
+3059,11th & Santee,3005,Flower & 7th,3
+3059,11th & Santee,3006,Olive & 8th,5
+3059,11th & Santee,3007,5th & Grand,1
+3059,11th & Santee,3008,Figueroa & 9th,4
+3059,11th & Santee,3010,11th & Maple,4
+3059,11th & Santee,3011,Figueroa & Pico,2
+3059,11th & Santee,3014,Union Station West Portal,3
+3059,11th & Santee,3018,Grand & Olympic,3
+3059,11th & Santee,3019,12th & Hill,9
+3059,11th & Santee,3021,,2
+3059,11th & Santee,3022,3rd & Santa Fe,1
+3059,11th & Santee,3023,1st & Judge John Aiso,2
+3059,11th & Santee,3025,Grand & Washington,17
+3059,11th & Santee,3031,7th & Spring,10
+3059,11th & Santee,3032,Hope & 6th,1
+3059,11th & Santee,3033,Main & 9th,3
+3059,11th & Santee,3034,Hope & 11th,3
+3059,11th & Santee,3035,Figueroa & 8th,4
+3059,11th & Santee,3038,Main & 5th,28
+3059,11th & Santee,3042,1st & Central,4
+3059,11th & Santee,3045,18th & San Pedro,1
+3059,11th & Santee,3047,Pico & Flower,23
+3059,11th & Santee,3049,2nd & Figueroa,2
+3059,11th & Santee,3051,7th & Broadway,11
+3059,11th & Santee,3052,7th & Bixel,4
+3059,11th & Santee,3054,Factory Place & Alameda,1
+3059,11th & Santee,3055,7th & Main,4
+3059,11th & Santee,3056,Grand & 14th,4
+3059,11th & Santee,3057,18th & Figueroa,5
+3059,11th & Santee,3059,11th & Santee,54
+3059,11th & Santee,3060,Pico & Maple,1
+3059,11th & Santee,3062,3rd & San Pedro,14
+3059,11th & Santee,3063,Olive & 5th,18
+3059,11th & Santee,3064,Grand & 7th,11
+3059,11th & Santee,3067,Main & 6th,8
+3059,11th & Santee,3074,Hope & Olympic,8
+3059,11th & Santee,3075,Broadway & 9th,3
+3059,11th & Santee,3076,9th & Los Angeles,4
+3059,11th & Santee,3077,8th & Wall,6
+3059,11th & Santee,3078,Hill & College,1
+3059,11th & Santee,3080,San Julian & 12th,3
+3059,11th & Santee,3081,Stanford & 12th,3
+3060,Pico & Maple,3005,Flower & 7th,1
+3060,Pico & Maple,3006,Olive & 8th,4
+3060,Pico & Maple,3008,Figueroa & 9th,1
+3060,Pico & Maple,3010,11th & Maple,10
+3060,Pico & Maple,3011,Figueroa & Pico,1
+3060,Pico & Maple,3014,Union Station West Portal,2
+3060,Pico & Maple,3018,Grand & Olympic,1
+3060,Pico & Maple,3019,12th & Hill,1
+3060,Pico & Maple,3021,,1
+3060,Pico & Maple,3025,Grand & Washington,1
+3060,Pico & Maple,3027,Spring & 3rd,2
+3060,Pico & Maple,3031,7th & Spring,2
+3060,Pico & Maple,3034,Hope & 11th,9
+3060,Pico & Maple,3035,Figueroa & 8th,1
+3060,Pico & Maple,3042,1st & Central,11
+3060,Pico & Maple,3045,18th & San Pedro,1
+3060,Pico & Maple,3047,Pico & Flower,7
+3060,Pico & Maple,3051,7th & Broadway,3
+3060,Pico & Maple,3052,7th & Bixel,1
+3060,Pico & Maple,3055,7th & Main,2
+3060,Pico & Maple,3056,Grand & 14th,46
+3060,Pico & Maple,3057,18th & Figueroa,3
+3060,Pico & Maple,3059,11th & Santee,3
+3060,Pico & Maple,3060,Pico & Maple,32
+3060,Pico & Maple,3062,3rd & San Pedro,2
+3060,Pico & Maple,3063,Olive & 5th,2
+3060,Pico & Maple,3064,Grand & 7th,2
+3060,Pico & Maple,3066,Spring & College,1
+3060,Pico & Maple,3067,Main & 6th,2
+3060,Pico & Maple,3068,Grand & 3rd,3
+3060,Pico & Maple,3069,Broadway & 3rd,3
+3060,Pico & Maple,3074,Hope & Olympic,3
+3060,Pico & Maple,3075,Broadway & 9th,2
+3060,Pico & Maple,3076,9th & Los Angeles,5
+3060,Pico & Maple,3077,8th & Wall,1
+3060,Pico & Maple,3080,San Julian & 12th,4
+3060,Pico & Maple,3081,Stanford & 12th,1
+3060,Pico & Maple,3082,Traction & Rose,1
+3062,3rd & San Pedro,3005,Flower & 7th,102
+3062,3rd & San Pedro,3006,Olive & 8th,15
+3062,3rd & San Pedro,3007,5th & Grand,8
+3062,3rd & San Pedro,3008,Figueroa & 9th,2
+3062,3rd & San Pedro,3011,Figueroa & Pico,2
+3062,3rd & San Pedro,3014,Union Station West Portal,43
+3062,3rd & San Pedro,3016,Los Angeles & Temple,1
+3062,3rd & San Pedro,3018,Grand & Olympic,5
+3062,3rd & San Pedro,3019,12th & Hill,5
+3062,3rd & San Pedro,3021,,17
+3062,3rd & San Pedro,3022,3rd & Santa Fe,26
+3062,3rd & San Pedro,3023,1st & Judge John Aiso,3
+3062,3rd & San Pedro,3024,Hope & 1st,19
+3062,3rd & San Pedro,3025,Grand & Washington,2
+3062,3rd & San Pedro,3026,Figueroa & Cesar Chavez,3
+3062,3rd & San Pedro,3027,Spring & 3rd,12
+3062,3rd & San Pedro,3028,Grand & Temple,6
+3062,3rd & San Pedro,3029,Main & 4th,7
+3062,3rd & San Pedro,3030,Main & 1st,9
+3062,3rd & San Pedro,3031,7th & Spring,33
+3062,3rd & San Pedro,3032,Hope & 6th,4
+3062,3rd & San Pedro,3033,Main & 9th,9
+3062,3rd & San Pedro,3034,Hope & 11th,15
+3062,3rd & San Pedro,3035,Figueroa & 8th,12
+3062,3rd & San Pedro,3036,Willow St & Mateo St,9
+3062,3rd & San Pedro,3037,Imperial & 7th,7
+3062,3rd & San Pedro,3038,Main & 5th,21
+3062,3rd & San Pedro,3040,Wilshire & Witmer,1
+3062,3rd & San Pedro,3042,1st & Central,20
+3062,3rd & San Pedro,3045,18th & San Pedro,3
+3062,3rd & San Pedro,3046,2nd & Hill,4
+3062,3rd & San Pedro,3047,Pico & Flower,6
+3062,3rd & San Pedro,3048,5th & Hewitt,19
+3062,3rd & San Pedro,3049,2nd & Figueroa,7
+3062,3rd & San Pedro,3051,7th & Broadway,3
+3062,3rd & San Pedro,3052,7th & Bixel,3
+3062,3rd & San Pedro,3054,Factory Place & Alameda,13
+3062,3rd & San Pedro,3055,7th & Main,13
+3062,3rd & San Pedro,3056,Grand & 14th,3
+3062,3rd & San Pedro,3058,Industrial St & Mateo St,9
+3062,3rd & San Pedro,3059,11th & Santee,15
+3062,3rd & San Pedro,3060,Pico & Maple,1
+3062,3rd & San Pedro,3062,3rd & San Pedro,84
+3062,3rd & San Pedro,3063,Olive & 5th,26
+3062,3rd & San Pedro,3064,Grand & 7th,23
+3062,3rd & San Pedro,3065,New High & Ord,3
+3062,3rd & San Pedro,3066,Spring & College,9
+3062,3rd & San Pedro,3067,Main & 6th,12
+3062,3rd & San Pedro,3068,Grand & 3rd,2
+3062,3rd & San Pedro,3069,Broadway & 3rd,45
+3062,3rd & San Pedro,3074,Hope & Olympic,3
+3062,3rd & San Pedro,3075,Broadway & 9th,16
+3062,3rd & San Pedro,3076,9th & Los Angeles,5
+3062,3rd & San Pedro,3077,8th & Wall,3
+3062,3rd & San Pedro,3078,Hill & College,1
+3062,3rd & San Pedro,3079,Temple & Vignes,4
+3062,3rd & San Pedro,3080,San Julian & 12th,2
+3062,3rd & San Pedro,3081,Stanford & 12th,4
+3062,3rd & San Pedro,3082,Traction & Rose,3
+3063,Olive & 5th,3005,Flower & 7th,48
+3063,Olive & 5th,3006,Olive & 8th,52
+3063,Olive & 5th,3007,5th & Grand,10
+3063,Olive & 5th,3008,Figueroa & 9th,50
+3063,Olive & 5th,3010,11th & Maple,9
+3063,Olive & 5th,3011,Figueroa & Pico,20
+3063,Olive & 5th,3014,Union Station West Portal,30
+3063,Olive & 5th,3016,Los Angeles & Temple,7
+3063,Olive & 5th,3018,Grand & Olympic,17
+3063,Olive & 5th,3019,12th & Hill,30
+3063,Olive & 5th,3020,Hill & Washington,6
+3063,Olive & 5th,3021,,18
+3063,Olive & 5th,3022,3rd & Santa Fe,28
+3063,Olive & 5th,3023,1st & Judge John Aiso,24
+3063,Olive & 5th,3024,Hope & 1st,5
+3063,Olive & 5th,3025,Grand & Washington,7
+3063,Olive & 5th,3026,Figueroa & Cesar Chavez,25
+3063,Olive & 5th,3027,Spring & 3rd,26
+3063,Olive & 5th,3029,Main & 4th,9
+3063,Olive & 5th,3030,Main & 1st,31
+3063,Olive & 5th,3031,7th & Spring,30
+3063,Olive & 5th,3032,Hope & 6th,12
+3063,Olive & 5th,3033,Main & 9th,6
+3063,Olive & 5th,3034,Hope & 11th,20
+3063,Olive & 5th,3035,Figueroa & 8th,35
+3063,Olive & 5th,3036,Willow St & Mateo St,9
+3063,Olive & 5th,3037,Imperial & 7th,3
+3063,Olive & 5th,3038,Main & 5th,18
+3063,Olive & 5th,3040,Wilshire & Witmer,20
+3063,Olive & 5th,3042,1st & Central,24
+3063,Olive & 5th,3045,18th & San Pedro,4
+3063,Olive & 5th,3046,2nd & Hill,8
+3063,Olive & 5th,3047,Pico & Flower,6
+3063,Olive & 5th,3048,5th & Hewitt,12
+3063,Olive & 5th,3049,2nd & Figueroa,25
+3063,Olive & 5th,3051,7th & Broadway,11
+3063,Olive & 5th,3052,7th & Bixel,5
+3063,Olive & 5th,3054,Factory Place & Alameda,7
+3063,Olive & 5th,3055,7th & Main,20
+3063,Olive & 5th,3056,Grand & 14th,3
+3063,Olive & 5th,3057,18th & Figueroa,2
+3063,Olive & 5th,3058,Industrial St & Mateo St,11
+3063,Olive & 5th,3059,11th & Santee,19
+3063,Olive & 5th,3060,Pico & Maple,1
+3063,Olive & 5th,3062,3rd & San Pedro,15
+3063,Olive & 5th,3063,Olive & 5th,114
+3063,Olive & 5th,3064,Grand & 7th,53
+3063,Olive & 5th,3065,New High & Ord,28
+3063,Olive & 5th,3066,Spring & College,17
+3063,Olive & 5th,3067,Main & 6th,17
+3063,Olive & 5th,3068,Grand & 3rd,4
+3063,Olive & 5th,3069,Broadway & 3rd,44
+3063,Olive & 5th,3074,Hope & Olympic,28
+3063,Olive & 5th,3075,Broadway & 9th,23
+3063,Olive & 5th,3076,9th & Los Angeles,17
+3063,Olive & 5th,3077,8th & Wall,6
+3063,Olive & 5th,3078,Hill & College,10
+3063,Olive & 5th,3079,Temple & Vignes,7
+3063,Olive & 5th,3080,San Julian & 12th,1
+3063,Olive & 5th,3082,Traction & Rose,9
+3064,Grand & 7th,3005,Flower & 7th,35
+3064,Grand & 7th,3006,Olive & 8th,16
+3064,Grand & 7th,3007,5th & Grand,10
+3064,Grand & 7th,3008,Figueroa & 9th,20
+3064,Grand & 7th,3010,11th & Maple,4
+3064,Grand & 7th,3011,Figueroa & Pico,7
+3064,Grand & 7th,3014,Union Station West Portal,27
+3064,Grand & 7th,3016,Los Angeles & Temple,5
+3064,Grand & 7th,3018,Grand & Olympic,38
+3064,Grand & 7th,3019,12th & Hill,22
+3064,Grand & 7th,3020,Hill & Washington,8
+3064,Grand & 7th,3021,,34
+3064,Grand & 7th,3022,3rd & Santa Fe,28
+3064,Grand & 7th,3023,1st & Judge John Aiso,12
+3064,Grand & 7th,3024,Hope & 1st,16
+3064,Grand & 7th,3025,Grand & Washington,16
+3064,Grand & 7th,3026,Figueroa & Cesar Chavez,8
+3064,Grand & 7th,3027,Spring & 3rd,12
+3064,Grand & 7th,3028,Grand & Temple,6
+3064,Grand & 7th,3029,Main & 4th,11
+3064,Grand & 7th,3030,Main & 1st,49
+3064,Grand & 7th,3031,7th & Spring,106
+3064,Grand & 7th,3032,Hope & 6th,70
+3064,Grand & 7th,3033,Main & 9th,15
+3064,Grand & 7th,3034,Hope & 11th,154
+3064,Grand & 7th,3035,Figueroa & 8th,51
+3064,Grand & 7th,3036,Willow St & Mateo St,14
+3064,Grand & 7th,3037,Imperial & 7th,12
+3064,Grand & 7th,3038,Main & 5th,85
+3064,Grand & 7th,3040,Wilshire & Witmer,9
+3064,Grand & 7th,3042,1st & Central,65
+3064,Grand & 7th,3045,18th & San Pedro,1
+3064,Grand & 7th,3046,2nd & Hill,7
+3064,Grand & 7th,3047,Pico & Flower,69
+3064,Grand & 7th,3048,5th & Hewitt,19
+3064,Grand & 7th,3049,2nd & Figueroa,36
+3064,Grand & 7th,3051,7th & Broadway,36
+3064,Grand & 7th,3052,7th & Bixel,38
+3064,Grand & 7th,3055,7th & Main,51
+3064,Grand & 7th,3056,Grand & 14th,25
+3064,Grand & 7th,3057,18th & Figueroa,2
+3064,Grand & 7th,3058,Industrial St & Mateo St,18
+3064,Grand & 7th,3059,11th & Santee,7
+3064,Grand & 7th,3062,3rd & San Pedro,34
+3064,Grand & 7th,3063,Olive & 5th,63
+3064,Grand & 7th,3064,Grand & 7th,111
+3064,Grand & 7th,3065,New High & Ord,1
+3064,Grand & 7th,3066,Spring & College,9
+3064,Grand & 7th,3067,Main & 6th,74
+3064,Grand & 7th,3068,Grand & 3rd,8
+3064,Grand & 7th,3069,Broadway & 3rd,108
+3064,Grand & 7th,3074,Hope & Olympic,20
+3064,Grand & 7th,3075,Broadway & 9th,26
+3064,Grand & 7th,3076,9th & Los Angeles,82
+3064,Grand & 7th,3077,8th & Wall,9
+3064,Grand & 7th,3078,Hill & College,1
+3064,Grand & 7th,3079,Temple & Vignes,3
+3064,Grand & 7th,3080,San Julian & 12th,1
+3064,Grand & 7th,3081,Stanford & 12th,1
+3064,Grand & 7th,3082,Traction & Rose,30
+3065,New High & Ord,3005,Flower & 7th,10
+3065,New High & Ord,3006,Olive & 8th,1
+3065,New High & Ord,3007,5th & Grand,4
+3065,New High & Ord,3008,Figueroa & 9th,1
+3065,New High & Ord,3014,Union Station West Portal,16
+3065,New High & Ord,3016,Los Angeles & Temple,10
+3065,New High & Ord,3019,12th & Hill,2
+3065,New High & Ord,3020,Hill & Washington,1
+3065,New High & Ord,3021,,2
+3065,New High & Ord,3022,3rd & Santa Fe,3
+3065,New High & Ord,3023,1st & Judge John Aiso,4
+3065,New High & Ord,3024,Hope & 1st,1
+3065,New High & Ord,3026,Figueroa & Cesar Chavez,6
+3065,New High & Ord,3027,Spring & 3rd,16
+3065,New High & Ord,3028,Grand & Temple,5
+3065,New High & Ord,3029,Main & 4th,3
+3065,New High & Ord,3030,Main & 1st,27
+3065,New High & Ord,3031,7th & Spring,16
+3065,New High & Ord,3034,Hope & 11th,6
+3065,New High & Ord,3036,Willow St & Mateo St,6
+3065,New High & Ord,3037,Imperial & 7th,1
+3065,New High & Ord,3038,Main & 5th,91
+3065,New High & Ord,3040,Wilshire & Witmer,1
+3065,New High & Ord,3042,1st & Central,11
+3065,New High & Ord,3046,2nd & Hill,5
+3065,New High & Ord,3047,Pico & Flower,1
+3065,New High & Ord,3048,5th & Hewitt,1
+3065,New High & Ord,3049,2nd & Figueroa,4
+3065,New High & Ord,3051,7th & Broadway,5
+3065,New High & Ord,3052,7th & Bixel,1
+3065,New High & Ord,3054,Factory Place & Alameda,1
+3065,New High & Ord,3055,7th & Main,1
+3065,New High & Ord,3058,Industrial St & Mateo St,1
+3065,New High & Ord,3062,3rd & San Pedro,12
+3065,New High & Ord,3063,Olive & 5th,20
+3065,New High & Ord,3064,Grand & 7th,8
+3065,New High & Ord,3065,New High & Ord,54
+3065,New High & Ord,3066,Spring & College,16
+3065,New High & Ord,3067,Main & 6th,13
+3065,New High & Ord,3068,Grand & 3rd,4
+3065,New High & Ord,3069,Broadway & 3rd,18
+3065,New High & Ord,3074,Hope & Olympic,7
+3065,New High & Ord,3075,Broadway & 9th,3
+3065,New High & Ord,3078,Hill & College,9
+3065,New High & Ord,3079,Temple & Vignes,1
+3065,New High & Ord,3082,Traction & Rose,3
+3066,Spring & College,3005,Flower & 7th,11
+3066,Spring & College,3006,Olive & 8th,8
+3066,Spring & College,3007,5th & Grand,8
+3066,Spring & College,3008,Figueroa & 9th,2
+3066,Spring & College,3014,Union Station West Portal,71
+3066,Spring & College,3016,Los Angeles & Temple,16
+3066,Spring & College,3018,Grand & Olympic,2
+3066,Spring & College,3019,12th & Hill,36
+3066,Spring & College,3021,,6
+3066,Spring & College,3022,3rd & Santa Fe,3
+3066,Spring & College,3023,1st & Judge John Aiso,4
+3066,Spring & College,3024,Hope & 1st,21
+3066,Spring & College,3025,Grand & Washington,1
+3066,Spring & College,3026,Figueroa & Cesar Chavez,3
+3066,Spring & College,3027,Spring & 3rd,46
+3066,Spring & College,3028,Grand & Temple,1
+3066,Spring & College,3029,Main & 4th,2
+3066,Spring & College,3030,Main & 1st,15
+3066,Spring & College,3031,7th & Spring,12
+3066,Spring & College,3032,Hope & 6th,2
+3066,Spring & College,3034,Hope & 11th,3
+3066,Spring & College,3035,Figueroa & 8th,53
+3066,Spring & College,3037,Imperial & 7th,8
+3066,Spring & College,3038,Main & 5th,6
+3066,Spring & College,3040,Wilshire & Witmer,1
+3066,Spring & College,3042,1st & Central,27
+3066,Spring & College,3046,2nd & Hill,8
+3066,Spring & College,3047,Pico & Flower,1
+3066,Spring & College,3048,5th & Hewitt,6
+3066,Spring & College,3049,2nd & Figueroa,5
+3066,Spring & College,3051,7th & Broadway,6
+3066,Spring & College,3055,7th & Main,4
+3066,Spring & College,3056,Grand & 14th,4
+3066,Spring & College,3057,18th & Figueroa,1
+3066,Spring & College,3058,Industrial St & Mateo St,11
+3066,Spring & College,3062,3rd & San Pedro,2
+3066,Spring & College,3063,Olive & 5th,27
+3066,Spring & College,3064,Grand & 7th,5
+3066,Spring & College,3065,New High & Ord,8
+3066,Spring & College,3066,Spring & College,80
+3066,Spring & College,3067,Main & 6th,16
+3066,Spring & College,3068,Grand & 3rd,3
+3066,Spring & College,3069,Broadway & 3rd,30
+3066,Spring & College,3074,Hope & Olympic,1
+3066,Spring & College,3075,Broadway & 9th,10
+3066,Spring & College,3078,Hill & College,9
+3066,Spring & College,3080,San Julian & 12th,1
+3066,Spring & College,3082,Traction & Rose,3
+3067,Main & 6th,3005,Flower & 7th,79
+3067,Main & 6th,3006,Olive & 8th,65
+3067,Main & 6th,3007,5th & Grand,61
+3067,Main & 6th,3008,Figueroa & 9th,24
+3067,Main & 6th,3010,11th & Maple,2
+3067,Main & 6th,3011,Figueroa & Pico,8
+3067,Main & 6th,3014,Union Station West Portal,53
+3067,Main & 6th,3016,Los Angeles & Temple,11
+3067,Main & 6th,3018,Grand & Olympic,6
+3067,Main & 6th,3019,12th & Hill,3
+3067,Main & 6th,3020,Hill & Washington,47
+3067,Main & 6th,3021,,49
+3067,Main & 6th,3022,3rd & Santa Fe,48
+3067,Main & 6th,3023,1st & Judge John Aiso,25
+3067,Main & 6th,3024,Hope & 1st,3
+3067,Main & 6th,3025,Grand & Washington,1
+3067,Main & 6th,3026,Figueroa & Cesar Chavez,9
+3067,Main & 6th,3027,Spring & 3rd,28
+3067,Main & 6th,3028,Grand & Temple,4
+3067,Main & 6th,3029,Main & 4th,19
+3067,Main & 6th,3030,Main & 1st,46
+3067,Main & 6th,3031,7th & Spring,31
+3067,Main & 6th,3032,Hope & 6th,69
+3067,Main & 6th,3033,Main & 9th,25
+3067,Main & 6th,3034,Hope & 11th,16
+3067,Main & 6th,3035,Figueroa & 8th,59
+3067,Main & 6th,3036,Willow St & Mateo St,11
+3067,Main & 6th,3037,Imperial & 7th,24
+3067,Main & 6th,3038,Main & 5th,27
+3067,Main & 6th,3040,Wilshire & Witmer,6
+3067,Main & 6th,3042,1st & Central,78
+3067,Main & 6th,3046,2nd & Hill,13
+3067,Main & 6th,3047,Pico & Flower,8
+3067,Main & 6th,3048,5th & Hewitt,13
+3067,Main & 6th,3049,2nd & Figueroa,68
+3067,Main & 6th,3051,7th & Broadway,14
+3067,Main & 6th,3052,7th & Bixel,7
+3067,Main & 6th,3053,12th & Grand,1
+3067,Main & 6th,3054,Factory Place & Alameda,25
+3067,Main & 6th,3055,7th & Main,13
+3067,Main & 6th,3056,Grand & 14th,2
+3067,Main & 6th,3057,18th & Figueroa,3
+3067,Main & 6th,3058,Industrial St & Mateo St,17
+3067,Main & 6th,3059,11th & Santee,4
+3067,Main & 6th,3060,Pico & Maple,4
+3067,Main & 6th,3062,3rd & San Pedro,15
+3067,Main & 6th,3063,Olive & 5th,26
+3067,Main & 6th,3064,Grand & 7th,88
+3067,Main & 6th,3065,New High & Ord,12
+3067,Main & 6th,3066,Spring & College,17
+3067,Main & 6th,3067,Main & 6th,142
+3067,Main & 6th,3068,Grand & 3rd,9
+3067,Main & 6th,3069,Broadway & 3rd,39
+3067,Main & 6th,3074,Hope & Olympic,51
+3067,Main & 6th,3075,Broadway & 9th,25
+3067,Main & 6th,3076,9th & Los Angeles,26
+3067,Main & 6th,3077,8th & Wall,11
+3067,Main & 6th,3078,Hill & College,10
+3067,Main & 6th,3079,Temple & Vignes,5
+3067,Main & 6th,3081,Stanford & 12th,2
+3067,Main & 6th,3082,Traction & Rose,31
+3068,Grand & 3rd,3005,Flower & 7th,44
+3068,Grand & 3rd,3006,Olive & 8th,21
+3068,Grand & 3rd,3007,5th & Grand,30
+3068,Grand & 3rd,3008,Figueroa & 9th,12
+3068,Grand & 3rd,3011,Figueroa & Pico,8
+3068,Grand & 3rd,3014,Union Station West Portal,66
+3068,Grand & 3rd,3016,Los Angeles & Temple,7
+3068,Grand & 3rd,3018,Grand & Olympic,21
+3068,Grand & 3rd,3019,12th & Hill,3
+3068,Grand & 3rd,3021,,68
+3068,Grand & 3rd,3022,3rd & Santa Fe,11
+3068,Grand & 3rd,3023,1st & Judge John Aiso,20
+3068,Grand & 3rd,3024,Hope & 1st,28
+3068,Grand & 3rd,3025,Grand & Washington,4
+3068,Grand & 3rd,3026,Figueroa & Cesar Chavez,19
+3068,Grand & 3rd,3027,Spring & 3rd,8
+3068,Grand & 3rd,3028,Grand & Temple,23
+3068,Grand & 3rd,3029,Main & 4th,6
+3068,Grand & 3rd,3030,Main & 1st,24
+3068,Grand & 3rd,3031,7th & Spring,39
+3068,Grand & 3rd,3032,Hope & 6th,18
+3068,Grand & 3rd,3033,Main & 9th,7
+3068,Grand & 3rd,3034,Hope & 11th,21
+3068,Grand & 3rd,3035,Figueroa & 8th,30
+3068,Grand & 3rd,3036,Willow St & Mateo St,13
+3068,Grand & 3rd,3037,Imperial & 7th,7
+3068,Grand & 3rd,3038,Main & 5th,17
+3068,Grand & 3rd,3040,Wilshire & Witmer,3
+3068,Grand & 3rd,3042,1st & Central,88
+3068,Grand & 3rd,3046,2nd & Hill,6
+3068,Grand & 3rd,3047,Pico & Flower,4
+3068,Grand & 3rd,3048,5th & Hewitt,19
+3068,Grand & 3rd,3049,2nd & Figueroa,11
+3068,Grand & 3rd,3051,7th & Broadway,13
+3068,Grand & 3rd,3052,7th & Bixel,5
+3068,Grand & 3rd,3055,7th & Main,34
+3068,Grand & 3rd,3056,Grand & 14th,5
+3068,Grand & 3rd,3057,18th & Figueroa,2
+3068,Grand & 3rd,3058,Industrial St & Mateo St,4
+3068,Grand & 3rd,3059,11th & Santee,3
+3068,Grand & 3rd,3060,Pico & Maple,2
+3068,Grand & 3rd,3062,3rd & San Pedro,29
+3068,Grand & 3rd,3063,Olive & 5th,40
+3068,Grand & 3rd,3064,Grand & 7th,68
+3068,Grand & 3rd,3065,New High & Ord,4
+3068,Grand & 3rd,3066,Spring & College,8
+3068,Grand & 3rd,3067,Main & 6th,15
+3068,Grand & 3rd,3068,Grand & 3rd,62
+3068,Grand & 3rd,3069,Broadway & 3rd,39
+3068,Grand & 3rd,3074,Hope & Olympic,27
+3068,Grand & 3rd,3075,Broadway & 9th,16
+3068,Grand & 3rd,3076,9th & Los Angeles,13
+3068,Grand & 3rd,3077,8th & Wall,9
+3068,Grand & 3rd,3078,Hill & College,11
+3068,Grand & 3rd,3079,Temple & Vignes,3
+3068,Grand & 3rd,3080,San Julian & 12th,2
+3068,Grand & 3rd,3082,Traction & Rose,35
+3069,Broadway & 3rd,3005,Flower & 7th,59
+3069,Broadway & 3rd,3006,Olive & 8th,43
+3069,Broadway & 3rd,3007,5th & Grand,55
+3069,Broadway & 3rd,3008,Figueroa & 9th,33
+3069,Broadway & 3rd,3010,11th & Maple,2
+3069,Broadway & 3rd,3011,Figueroa & Pico,6
+3069,Broadway & 3rd,3014,Union Station West Portal,74
+3069,Broadway & 3rd,3016,Los Angeles & Temple,21
+3069,Broadway & 3rd,3018,Grand & Olympic,13
+3069,Broadway & 3rd,3019,12th & Hill,23
+3069,Broadway & 3rd,3020,Hill & Washington,6
+3069,Broadway & 3rd,3021,,71
+3069,Broadway & 3rd,3022,3rd & Santa Fe,104
+3069,Broadway & 3rd,3023,1st & Judge John Aiso,38
+3069,Broadway & 3rd,3024,Hope & 1st,16
+3069,Broadway & 3rd,3025,Grand & Washington,2
+3069,Broadway & 3rd,3026,Figueroa & Cesar Chavez,20
+3069,Broadway & 3rd,3027,Spring & 3rd,13
+3069,Broadway & 3rd,3028,Grand & Temple,9
+3069,Broadway & 3rd,3029,Main & 4th,8
+3069,Broadway & 3rd,3030,Main & 1st,89
+3069,Broadway & 3rd,3031,7th & Spring,41
+3069,Broadway & 3rd,3032,Hope & 6th,17
+3069,Broadway & 3rd,3033,Main & 9th,25
+3069,Broadway & 3rd,3034,Hope & 11th,43
+3069,Broadway & 3rd,3035,Figueroa & 8th,20
+3069,Broadway & 3rd,3036,Willow St & Mateo St,37
+3069,Broadway & 3rd,3037,Imperial & 7th,16
+3069,Broadway & 3rd,3038,Main & 5th,23
+3069,Broadway & 3rd,3040,Wilshire & Witmer,6
+3069,Broadway & 3rd,3042,1st & Central,96
+3069,Broadway & 3rd,3046,2nd & Hill,11
+3069,Broadway & 3rd,3047,Pico & Flower,8
+3069,Broadway & 3rd,3048,5th & Hewitt,64
+3069,Broadway & 3rd,3049,2nd & Figueroa,87
+3069,Broadway & 3rd,3051,7th & Broadway,16
+3069,Broadway & 3rd,3052,7th & Bixel,14
+3069,Broadway & 3rd,3054,Factory Place & Alameda,11
+3069,Broadway & 3rd,3055,7th & Main,23
+3069,Broadway & 3rd,3056,Grand & 14th,2
+3069,Broadway & 3rd,3057,18th & Figueroa,1
+3069,Broadway & 3rd,3058,Industrial St & Mateo St,34
+3069,Broadway & 3rd,3059,11th & Santee,4
+3069,Broadway & 3rd,3060,Pico & Maple,12
+3069,Broadway & 3rd,3062,3rd & San Pedro,50
+3069,Broadway & 3rd,3063,Olive & 5th,38
+3069,Broadway & 3rd,3064,Grand & 7th,127
+3069,Broadway & 3rd,3065,New High & Ord,17
+3069,Broadway & 3rd,3066,Spring & College,27
+3069,Broadway & 3rd,3067,Main & 6th,45
+3069,Broadway & 3rd,3068,Grand & 3rd,26
+3069,Broadway & 3rd,3069,Broadway & 3rd,185
+3069,Broadway & 3rd,3074,Hope & Olympic,36
+3069,Broadway & 3rd,3075,Broadway & 9th,98
+3069,Broadway & 3rd,3076,9th & Los Angeles,37
+3069,Broadway & 3rd,3077,8th & Wall,16
+3069,Broadway & 3rd,3078,Hill & College,12
+3069,Broadway & 3rd,3080,San Julian & 12th,2
+3069,Broadway & 3rd,3081,Stanford & 12th,2
+3069,Broadway & 3rd,3082,Traction & Rose,90
+3074,Hope & Olympic,3005,Flower & 7th,28
+3074,Hope & Olympic,3006,Olive & 8th,21
+3074,Hope & Olympic,3007,5th & Grand,8
+3074,Hope & Olympic,3008,Figueroa & 9th,3
+3074,Hope & Olympic,3010,11th & Maple,2
+3074,Hope & Olympic,3011,Figueroa & Pico,6
+3074,Hope & Olympic,3014,Union Station West Portal,4
+3074,Hope & Olympic,3018,Grand & Olympic,27
+3074,Hope & Olympic,3019,12th & Hill,27
+3074,Hope & Olympic,3020,Hill & Washington,8
+3074,Hope & Olympic,3021,,32
+3074,Hope & Olympic,3022,3rd & Santa Fe,9
+3074,Hope & Olympic,3023,1st & Judge John Aiso,9
+3074,Hope & Olympic,3024,Hope & 1st,3
+3074,Hope & Olympic,3025,Grand & Washington,3
+3074,Hope & Olympic,3026,Figueroa & Cesar Chavez,3
+3074,Hope & Olympic,3027,Spring & 3rd,4
+3074,Hope & Olympic,3028,Grand & Temple,6
+3074,Hope & Olympic,3029,Main & 4th,5
+3074,Hope & Olympic,3030,Main & 1st,7
+3074,Hope & Olympic,3031,7th & Spring,53
+3074,Hope & Olympic,3032,Hope & 6th,64
+3074,Hope & Olympic,3033,Main & 9th,5
+3074,Hope & Olympic,3034,Hope & 11th,41
+3074,Hope & Olympic,3035,Figueroa & 8th,44
+3074,Hope & Olympic,3036,Willow St & Mateo St,2
+3074,Hope & Olympic,3037,Imperial & 7th,2
+3074,Hope & Olympic,3038,Main & 5th,53
+3074,Hope & Olympic,3040,Wilshire & Witmer,10
+3074,Hope & Olympic,3042,1st & Central,14
+3074,Hope & Olympic,3045,18th & San Pedro,3
+3074,Hope & Olympic,3046,2nd & Hill,8
+3074,Hope & Olympic,3047,Pico & Flower,32
+3074,Hope & Olympic,3048,5th & Hewitt,6
+3074,Hope & Olympic,3049,2nd & Figueroa,9
+3074,Hope & Olympic,3051,7th & Broadway,13
+3074,Hope & Olympic,3052,7th & Bixel,12
+3074,Hope & Olympic,3054,Factory Place & Alameda,4
+3074,Hope & Olympic,3055,7th & Main,44
+3074,Hope & Olympic,3056,Grand & 14th,16
+3074,Hope & Olympic,3057,18th & Figueroa,10
+3074,Hope & Olympic,3058,Industrial St & Mateo St,5
+3074,Hope & Olympic,3059,11th & Santee,12
+3074,Hope & Olympic,3060,Pico & Maple,1
+3074,Hope & Olympic,3062,3rd & San Pedro,11
+3074,Hope & Olympic,3063,Olive & 5th,26
+3074,Hope & Olympic,3064,Grand & 7th,10
+3074,Hope & Olympic,3065,New High & Ord,7
+3074,Hope & Olympic,3067,Main & 6th,66
+3074,Hope & Olympic,3068,Grand & 3rd,4
+3074,Hope & Olympic,3069,Broadway & 3rd,16
+3074,Hope & Olympic,3074,Hope & Olympic,107
+3074,Hope & Olympic,3075,Broadway & 9th,55
+3074,Hope & Olympic,3076,9th & Los Angeles,22
+3074,Hope & Olympic,3077,8th & Wall,1
+3074,Hope & Olympic,3078,Hill & College,1
+3074,Hope & Olympic,3080,San Julian & 12th,17
+3074,Hope & Olympic,3081,Stanford & 12th,2
+3074,Hope & Olympic,3082,Traction & Rose,5
+3075,Broadway & 9th,3005,Flower & 7th,46
+3075,Broadway & 9th,3006,Olive & 8th,23
+3075,Broadway & 9th,3007,5th & Grand,11
+3075,Broadway & 9th,3008,Figueroa & 9th,16
+3075,Broadway & 9th,3010,11th & Maple,1
+3075,Broadway & 9th,3011,Figueroa & Pico,7
+3075,Broadway & 9th,3014,Union Station West Portal,21
+3075,Broadway & 9th,3016,Los Angeles & Temple,3
+3075,Broadway & 9th,3018,Grand & Olympic,10
+3075,Broadway & 9th,3019,12th & Hill,4
+3075,Broadway & 9th,3020,Hill & Washington,5
+3075,Broadway & 9th,3021,,8
+3075,Broadway & 9th,3022,3rd & Santa Fe,22
+3075,Broadway & 9th,3023,1st & Judge John Aiso,5
+3075,Broadway & 9th,3024,Hope & 1st,1
+3075,Broadway & 9th,3025,Grand & Washington,11
+3075,Broadway & 9th,3026,Figueroa & Cesar Chavez,1
+3075,Broadway & 9th,3027,Spring & 3rd,9
+3075,Broadway & 9th,3028,Grand & Temple,5
+3075,Broadway & 9th,3029,Main & 4th,3
+3075,Broadway & 9th,3030,Main & 1st,20
+3075,Broadway & 9th,3031,7th & Spring,47
+3075,Broadway & 9th,3032,Hope & 6th,32
+3075,Broadway & 9th,3034,Hope & 11th,32
+3075,Broadway & 9th,3035,Figueroa & 8th,28
+3075,Broadway & 9th,3036,Willow St & Mateo St,5
+3075,Broadway & 9th,3037,Imperial & 7th,6
+3075,Broadway & 9th,3038,Main & 5th,30
+3075,Broadway & 9th,3040,Wilshire & Witmer,2
+3075,Broadway & 9th,3042,1st & Central,12
+3075,Broadway & 9th,3046,2nd & Hill,2
+3075,Broadway & 9th,3047,Pico & Flower,15
+3075,Broadway & 9th,3048,5th & Hewitt,23
+3075,Broadway & 9th,3049,2nd & Figueroa,18
+3075,Broadway & 9th,3051,7th & Broadway,16
+3075,Broadway & 9th,3052,7th & Bixel,3
+3075,Broadway & 9th,3054,Factory Place & Alameda,1
+3075,Broadway & 9th,3055,7th & Main,28
+3075,Broadway & 9th,3056,Grand & 14th,3
+3075,Broadway & 9th,3057,18th & Figueroa,3
+3075,Broadway & 9th,3058,Industrial St & Mateo St,18
+3075,Broadway & 9th,3059,11th & Santee,4
+3075,Broadway & 9th,3060,Pico & Maple,1
+3075,Broadway & 9th,3062,3rd & San Pedro,5
+3075,Broadway & 9th,3063,Olive & 5th,24
+3075,Broadway & 9th,3064,Grand & 7th,30
+3075,Broadway & 9th,3065,New High & Ord,2
+3075,Broadway & 9th,3066,Spring & College,2
+3075,Broadway & 9th,3067,Main & 6th,26
+3075,Broadway & 9th,3068,Grand & 3rd,2
+3075,Broadway & 9th,3069,Broadway & 3rd,75
+3075,Broadway & 9th,3074,Hope & Olympic,54
+3075,Broadway & 9th,3075,Broadway & 9th,90
+3075,Broadway & 9th,3076,9th & Los Angeles,8
+3075,Broadway & 9th,3077,8th & Wall,8
+3075,Broadway & 9th,3078,Hill & College,6
+3075,Broadway & 9th,3081,Stanford & 12th,6
+3075,Broadway & 9th,3082,Traction & Rose,10
+3076,9th & Los Angeles,3005,Flower & 7th,25
+3076,9th & Los Angeles,3006,Olive & 8th,90
+3076,9th & Los Angeles,3007,5th & Grand,10
+3076,9th & Los Angeles,3008,Figueroa & 9th,14
+3076,9th & Los Angeles,3010,11th & Maple,3
+3076,9th & Los Angeles,3011,Figueroa & Pico,5
+3076,9th & Los Angeles,3014,Union Station West Portal,22
+3076,9th & Los Angeles,3016,Los Angeles & Temple,4
+3076,9th & Los Angeles,3018,Grand & Olympic,33
+3076,9th & Los Angeles,3019,12th & Hill,11
+3076,9th & Los Angeles,3020,Hill & Washington,2
+3076,9th & Los Angeles,3021,,11
+3076,9th & Los Angeles,3022,3rd & Santa Fe,16
+3076,9th & Los Angeles,3023,1st & Judge John Aiso,5
+3076,9th & Los Angeles,3024,Hope & 1st,2
+3076,9th & Los Angeles,3025,Grand & Washington,1
+3076,9th & Los Angeles,3027,Spring & 3rd,6
+3076,9th & Los Angeles,3029,Main & 4th,11
+3076,9th & Los Angeles,3030,Main & 1st,11
+3076,9th & Los Angeles,3031,7th & Spring,12
+3076,9th & Los Angeles,3032,Hope & 6th,23
+3076,9th & Los Angeles,3033,Main & 9th,5
+3076,9th & Los Angeles,3034,Hope & 11th,16
+3076,9th & Los Angeles,3035,Figueroa & 8th,27
+3076,9th & Los Angeles,3036,Willow St & Mateo St,1
+3076,9th & Los Angeles,3037,Imperial & 7th,5
+3076,9th & Los Angeles,3038,Main & 5th,38
+3076,9th & Los Angeles,3042,1st & Central,26
+3076,9th & Los Angeles,3046,2nd & Hill,4
+3076,9th & Los Angeles,3047,Pico & Flower,17
+3076,9th & Los Angeles,3048,5th & Hewitt,20
+3076,9th & Los Angeles,3049,2nd & Figueroa,9
+3076,9th & Los Angeles,3051,7th & Broadway,10
+3076,9th & Los Angeles,3052,7th & Bixel,2
+3076,9th & Los Angeles,3054,Factory Place & Alameda,8
+3076,9th & Los Angeles,3055,7th & Main,10
+3076,9th & Los Angeles,3056,Grand & 14th,6
+3076,9th & Los Angeles,3057,18th & Figueroa,1
+3076,9th & Los Angeles,3058,Industrial St & Mateo St,2
+3076,9th & Los Angeles,3059,11th & Santee,2
+3076,9th & Los Angeles,3060,Pico & Maple,1
+3076,9th & Los Angeles,3062,3rd & San Pedro,12
+3076,9th & Los Angeles,3063,Olive & 5th,12
+3076,9th & Los Angeles,3064,Grand & 7th,30
+3076,9th & Los Angeles,3065,New High & Ord,4
+3076,9th & Los Angeles,3067,Main & 6th,31
+3076,9th & Los Angeles,3068,Grand & 3rd,3
+3076,9th & Los Angeles,3069,Broadway & 3rd,52
+3076,9th & Los Angeles,3074,Hope & Olympic,9
+3076,9th & Los Angeles,3075,Broadway & 9th,6
+3076,9th & Los Angeles,3076,9th & Los Angeles,106
+3076,9th & Los Angeles,3077,8th & Wall,7
+3076,9th & Los Angeles,3080,San Julian & 12th,4
+3076,9th & Los Angeles,3081,Stanford & 12th,5
+3076,9th & Los Angeles,3082,Traction & Rose,7
+3077,8th & Wall,3005,Flower & 7th,14
+3077,8th & Wall,3006,Olive & 8th,15
+3077,8th & Wall,3007,5th & Grand,13
+3077,8th & Wall,3008,Figueroa & 9th,3
+3077,8th & Wall,3010,11th & Maple,1
+3077,8th & Wall,3014,Union Station West Portal,11
+3077,8th & Wall,3018,Grand & Olympic,18
+3077,8th & Wall,3020,Hill & Washington,3
+3077,8th & Wall,3021,,7
+3077,8th & Wall,3022,3rd & Santa Fe,13
+3077,8th & Wall,3023,1st & Judge John Aiso,5
+3077,8th & Wall,3025,Grand & Washington,2
+3077,8th & Wall,3029,Main & 4th,1
+3077,8th & Wall,3030,Main & 1st,4
+3077,8th & Wall,3031,7th & Spring,22
+3077,8th & Wall,3032,Hope & 6th,6
+3077,8th & Wall,3033,Main & 9th,1
+3077,8th & Wall,3034,Hope & 11th,5
+3077,8th & Wall,3035,Figueroa & 8th,1
+3077,8th & Wall,3036,Willow St & Mateo St,2
+3077,8th & Wall,3037,Imperial & 7th,7
+3077,8th & Wall,3038,Main & 5th,5
+3077,8th & Wall,3040,Wilshire & Witmer,4
+3077,8th & Wall,3042,1st & Central,6
+3077,8th & Wall,3047,Pico & Flower,1
+3077,8th & Wall,3048,5th & Hewitt,4
+3077,8th & Wall,3049,2nd & Figueroa,2
+3077,8th & Wall,3051,7th & Broadway,1
+3077,8th & Wall,3052,7th & Bixel,1
+3077,8th & Wall,3054,Factory Place & Alameda,1
+3077,8th & Wall,3055,7th & Main,22
+3077,8th & Wall,3058,Industrial St & Mateo St,8
+3077,8th & Wall,3059,11th & Santee,1
+3077,8th & Wall,3062,3rd & San Pedro,2
+3077,8th & Wall,3063,Olive & 5th,7
+3077,8th & Wall,3064,Grand & 7th,10
+3077,8th & Wall,3066,Spring & College,1
+3077,8th & Wall,3067,Main & 6th,20
+3077,8th & Wall,3068,Grand & 3rd,3
+3077,8th & Wall,3069,Broadway & 3rd,20
+3077,8th & Wall,3074,Hope & Olympic,7
+3077,8th & Wall,3075,Broadway & 9th,9
+3077,8th & Wall,3076,9th & Los Angeles,5
+3077,8th & Wall,3077,8th & Wall,26
+3077,8th & Wall,3080,San Julian & 12th,2
+3077,8th & Wall,3081,Stanford & 12th,2
+3077,8th & Wall,3082,Traction & Rose,1
+3078,Hill & College,3005,Flower & 7th,5
+3078,Hill & College,3006,Olive & 8th,1
+3078,Hill & College,3008,Figueroa & 9th,1
+3078,Hill & College,3014,Union Station West Portal,25
+3078,Hill & College,3016,Los Angeles & Temple,2
+3078,Hill & College,3018,Grand & Olympic,6
+3078,Hill & College,3020,Hill & Washington,1
+3078,Hill & College,3021,,5
+3078,Hill & College,3022,3rd & Santa Fe,6
+3078,Hill & College,3023,1st & Judge John Aiso,11
+3078,Hill & College,3024,Hope & 1st,3
+3078,Hill & College,3025,Grand & Washington,2
+3078,Hill & College,3026,Figueroa & Cesar Chavez,5
+3078,Hill & College,3027,Spring & 3rd,6
+3078,Hill & College,3028,Grand & Temple,4
+3078,Hill & College,3029,Main & 4th,2
+3078,Hill & College,3030,Main & 1st,2
+3078,Hill & College,3031,7th & Spring,12
+3078,Hill & College,3032,Hope & 6th,3
+3078,Hill & College,3033,Main & 9th,1
+3078,Hill & College,3034,Hope & 11th,3
+3078,Hill & College,3035,Figueroa & 8th,2
+3078,Hill & College,3038,Main & 5th,3
+3078,Hill & College,3040,Wilshire & Witmer,2
+3078,Hill & College,3042,1st & Central,31
+3078,Hill & College,3046,2nd & Hill,5
+3078,Hill & College,3047,Pico & Flower,3
+3078,Hill & College,3048,5th & Hewitt,4
+3078,Hill & College,3049,2nd & Figueroa,2
+3078,Hill & College,3051,7th & Broadway,10
+3078,Hill & College,3053,12th & Grand,1
+3078,Hill & College,3055,7th & Main,3
+3078,Hill & College,3056,Grand & 14th,1
+3078,Hill & College,3058,Industrial St & Mateo St,5
+3078,Hill & College,3059,11th & Santee,1
+3078,Hill & College,3063,Olive & 5th,5
+3078,Hill & College,3064,Grand & 7th,6
+3078,Hill & College,3065,New High & Ord,5
+3078,Hill & College,3066,Spring & College,5
+3078,Hill & College,3067,Main & 6th,7
+3078,Hill & College,3068,Grand & 3rd,6
+3078,Hill & College,3069,Broadway & 3rd,6
+3078,Hill & College,3075,Broadway & 9th,2
+3078,Hill & College,3078,Hill & College,69
+3078,Hill & College,3079,Temple & Vignes,3
+3078,Hill & College,3082,Traction & Rose,2
+3079,Temple & Vignes,3005,Flower & 7th,4
+3079,Temple & Vignes,3007,5th & Grand,2
+3079,Temple & Vignes,3008,Figueroa & 9th,1
+3079,Temple & Vignes,3014,Union Station West Portal,26
+3079,Temple & Vignes,3016,Los Angeles & Temple,49
+3079,Temple & Vignes,3019,12th & Hill,2
+3079,Temple & Vignes,3021,,5
+3079,Temple & Vignes,3022,3rd & Santa Fe,16
+3079,Temple & Vignes,3023,1st & Judge John Aiso,3
+3079,Temple & Vignes,3024,Hope & 1st,3
+3079,Temple & Vignes,3026,Figueroa & Cesar Chavez,2
+3079,Temple & Vignes,3027,Spring & 3rd,1
+3079,Temple & Vignes,3028,Grand & Temple,1
+3079,Temple & Vignes,3029,Main & 4th,1
+3079,Temple & Vignes,3030,Main & 1st,19
+3079,Temple & Vignes,3031,7th & Spring,26
+3079,Temple & Vignes,3032,Hope & 6th,14
+3079,Temple & Vignes,3035,Figueroa & 8th,1
+3079,Temple & Vignes,3036,Willow St & Mateo St,8
+3079,Temple & Vignes,3037,Imperial & 7th,1
+3079,Temple & Vignes,3038,Main & 5th,11
+3079,Temple & Vignes,3042,1st & Central,25
+3079,Temple & Vignes,3048,5th & Hewitt,5
+3079,Temple & Vignes,3051,7th & Broadway,1
+3079,Temple & Vignes,3054,Factory Place & Alameda,1
+3079,Temple & Vignes,3055,7th & Main,3
+3079,Temple & Vignes,3062,3rd & San Pedro,3
+3079,Temple & Vignes,3063,Olive & 5th,9
+3079,Temple & Vignes,3064,Grand & 7th,2
+3079,Temple & Vignes,3065,New High & Ord,1
+3079,Temple & Vignes,3067,Main & 6th,2
+3079,Temple & Vignes,3074,Hope & Olympic,1
+3079,Temple & Vignes,3078,Hill & College,3
+3079,Temple & Vignes,3079,Temple & Vignes,44
+3079,Temple & Vignes,3082,Traction & Rose,7
+3080,San Julian & 12th,3010,11th & Maple,6
+3080,San Julian & 12th,3014,Union Station West Portal,1
+3080,San Julian & 12th,3018,Grand & Olympic,7
+3080,San Julian & 12th,3019,12th & Hill,6
+3080,San Julian & 12th,3020,Hill & Washington,1
+3080,San Julian & 12th,3025,Grand & Washington,1
+3080,San Julian & 12th,3031,7th & Spring,1
+3080,San Julian & 12th,3035,Figueroa & 8th,2
+3080,San Julian & 12th,3042,1st & Central,1
+3080,San Julian & 12th,3045,18th & San Pedro,17
+3080,San Julian & 12th,3047,Pico & Flower,2
+3080,San Julian & 12th,3048,5th & Hewitt,1
+3080,San Julian & 12th,3051,7th & Broadway,1
+3080,San Julian & 12th,3059,11th & Santee,2
+3080,San Julian & 12th,3060,Pico & Maple,7
+3080,San Julian & 12th,3062,3rd & San Pedro,3
+3080,San Julian & 12th,3063,Olive & 5th,1
+3080,San Julian & 12th,3064,Grand & 7th,1
+3080,San Julian & 12th,3074,Hope & Olympic,5
+3080,San Julian & 12th,3076,9th & Los Angeles,4
+3080,San Julian & 12th,3077,8th & Wall,2
+3080,San Julian & 12th,3080,San Julian & 12th,4
+3080,San Julian & 12th,3081,Stanford & 12th,2
+3080,San Julian & 12th,3082,Traction & Rose,1
+3081,Stanford & 12th,3005,Flower & 7th,2
+3081,Stanford & 12th,3006,Olive & 8th,6
+3081,Stanford & 12th,3010,11th & Maple,3
+3081,Stanford & 12th,3014,Union Station West Portal,8
+3081,Stanford & 12th,3016,Los Angeles & Temple,13
+3081,Stanford & 12th,3020,Hill & Washington,1
+3081,Stanford & 12th,3022,3rd & Santa Fe,4
+3081,Stanford & 12th,3029,Main & 4th,1
+3081,Stanford & 12th,3030,Main & 1st,35
+3081,Stanford & 12th,3031,7th & Spring,1
+3081,Stanford & 12th,3033,Main & 9th,1
+3081,Stanford & 12th,3037,Imperial & 7th,17
+3081,Stanford & 12th,3038,Main & 5th,3
+3081,Stanford & 12th,3042,1st & Central,1
+3081,Stanford & 12th,3045,18th & San Pedro,4
+3081,Stanford & 12th,3047,Pico & Flower,3
+3081,Stanford & 12th,3049,2nd & Figueroa,3
+3081,Stanford & 12th,3054,Factory Place & Alameda,5
+3081,Stanford & 12th,3055,7th & Main,6
+3081,Stanford & 12th,3056,Grand & 14th,1
+3081,Stanford & 12th,3058,Industrial St & Mateo St,6
+3081,Stanford & 12th,3060,Pico & Maple,1
+3081,Stanford & 12th,3062,3rd & San Pedro,1
+3081,Stanford & 12th,3064,Grand & 7th,1
+3081,Stanford & 12th,3067,Main & 6th,1
+3081,Stanford & 12th,3069,Broadway & 3rd,2
+3081,Stanford & 12th,3075,Broadway & 9th,2
+3081,Stanford & 12th,3076,9th & Los Angeles,4
+3081,Stanford & 12th,3080,San Julian & 12th,4
+3081,Stanford & 12th,3081,Stanford & 12th,12
+3081,Stanford & 12th,3082,Traction & Rose,2
+3082,Traction & Rose,3005,Flower & 7th,53
+3082,Traction & Rose,3006,Olive & 8th,30
+3082,Traction & Rose,3007,5th & Grand,4
+3082,Traction & Rose,3008,Figueroa & 9th,4
+3082,Traction & Rose,3011,Figueroa & Pico,3
+3082,Traction & Rose,3014,Union Station West Portal,22
+3082,Traction & Rose,3016,Los Angeles & Temple,8
+3082,Traction & Rose,3018,Grand & Olympic,2
+3082,Traction & Rose,3019,12th & Hill,2
+3082,Traction & Rose,3020,Hill & Washington,1
+3082,Traction & Rose,3022,3rd & Santa Fe,30
+3082,Traction & Rose,3023,1st & Judge John Aiso,10
+3082,Traction & Rose,3024,Hope & 1st,8
+3082,Traction & Rose,3025,Grand & Washington,1
+3082,Traction & Rose,3026,Figueroa & Cesar Chavez,5
+3082,Traction & Rose,3027,Spring & 3rd,17
+3082,Traction & Rose,3029,Main & 4th,6
+3082,Traction & Rose,3030,Main & 1st,27
+3082,Traction & Rose,3031,7th & Spring,49
+3082,Traction & Rose,3032,Hope & 6th,3
+3082,Traction & Rose,3033,Main & 9th,7
+3082,Traction & Rose,3034,Hope & 11th,3
+3082,Traction & Rose,3035,Figueroa & 8th,10
+3082,Traction & Rose,3036,Willow St & Mateo St,26
+3082,Traction & Rose,3037,Imperial & 7th,17
+3082,Traction & Rose,3038,Main & 5th,21
+3082,Traction & Rose,3042,1st & Central,26
+3082,Traction & Rose,3046,2nd & Hill,14
+3082,Traction & Rose,3047,Pico & Flower,1
+3082,Traction & Rose,3048,5th & Hewitt,12
+3082,Traction & Rose,3049,2nd & Figueroa,11
+3082,Traction & Rose,3051,7th & Broadway,13
+3082,Traction & Rose,3052,7th & Bixel,6
+3082,Traction & Rose,3054,Factory Place & Alameda,22
+3082,Traction & Rose,3055,7th & Main,22
+3082,Traction & Rose,3056,Grand & 14th,3
+3082,Traction & Rose,3057,18th & Figueroa,2
+3082,Traction & Rose,3058,Industrial St & Mateo St,33
+3082,Traction & Rose,3062,3rd & San Pedro,8
+3082,Traction & Rose,3063,Olive & 5th,13
+3082,Traction & Rose,3064,Grand & 7th,16
+3082,Traction & Rose,3065,New High & Ord,14
+3082,Traction & Rose,3066,Spring & College,4
+3082,Traction & Rose,3067,Main & 6th,16
+3082,Traction & Rose,3068,Grand & 3rd,8
+3082,Traction & Rose,3069,Broadway & 3rd,61
+3082,Traction & Rose,3074,Hope & Olympic,1
+3082,Traction & Rose,3075,Broadway & 9th,22
+3082,Traction & Rose,3076,9th & Los Angeles,8
+3082,Traction & Rose,3078,Hill & College,2
+3082,Traction & Rose,3079,Temple & Vignes,3
+3082,Traction & Rose,3081,Stanford & 12th,1
+3082,Traction & Rose,3082,Traction & Rose,89

@@ -1,0 +1,61 @@
+<html>
+<head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', {'packages':['sankey']});
+        google.charts.setOnLoadCallback(drawChart);
+        var sankeyData;
+
+        d3.csv("data/sankey_data.csv",function(data){
+            sankeyData = data;
+        });
+        function drawChart() {
+            var data = [[
+                {label:'Start',type:'string'},
+                {label:'End',type:'string'},
+                {label:'number_of_rides',type:'number'}
+            ]];
+            sankeyData.forEach(function(d){
+                data.push([d['start_station_id'] + ":" + d['start_station_name'],d['end_station_id'] + ":" + d['end_station_name']+ ' ',d['counts']]);
+            });
+            data = new google.visualization.arrayToDataTable(data);
+            /*var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Start');
+            data.addColumn('string', 'End');
+            data.addColumn('number', 'number_of_rides');
+            data.addRows([
+                [ 'A', 'A ', 0 ],
+                [ 'B', 'B ', 0 ],
+                [ 'C', 'D ', 0 ],
+                [ 'D','C ',0],
+                [ 'A', 'A ', 5],
+                [ 'A','D ', 3],
+                [ 'A', 'B ', 7 ],
+                [ 'C', 'C ', 6 ],
+                [ 'B', 'A ', 2 ],
+                [ 'B', 'B ', 9 ],
+                [ 'C', 'A ', 4 ]
+            ]);*/
+            // Sets chart options.
+            var options = {
+                width: 1200,
+                height:1400,
+                sankey: {
+                    link: {
+                        colorMode: 'gradient',
+                    },
+                    iterations: 0
+                }
+            };
+
+            // Instantiates and draws our chart, passing in some options.
+            var chart = new google.visualization.Sankey(document.getElementById('sankey_basic'));
+            chart.draw(data, options);
+        }
+    </script>
+</head>
+<body>
+<div id="sankey_basic" style="width: 900px; height: 300px;"></div>
+</body>
+</html>
