@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>LA Metro Bike Share</title>
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 		<style>
@@ -14,10 +15,6 @@
 				padding: 50px 25px;
 				margin-bottom: 0px;
 			}
-			.bg-grey {
-				background-color: #f6f6f6;
-				padding: 60px 50px;
-			}
 			.navbar {
 				margin-bottom: 0;
 				background-color: #f4511e;
@@ -28,21 +25,18 @@
 				letter-spacing: 4px;
 				border-radius: 0;
 			}
-
 			.navbar li a, .navbar .navbar-brand {
 				color: #fff !important;
 			}
-
 			.navbar-nav li a:hover, .navbar-nav li.active a {
 				color: #f4511e !important;
 				background-color: #fff !important;
 			}
-
-			.navbar-default .navbar-toggle {
+			.navbar-default {
 				border-color: transparent;
 				color: #fff !important;
 			}
-			#about{
+			#about,#day_of_week{
 				padding-top: 50px;
 			}
 			.txt_content h4{
@@ -52,22 +46,14 @@
 	</head>
 	<body data-spy="scroll" data-target=".navbar" data-offset="60">
 	<nav class="navbar navbar-default navbar-fixed-top">
-		<div class="container">
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-			</div>
-			<div class="collapse navbar-collapse" id="myNavbar">
-				<ul class="nav navbar-nav navbar-right">
-					<li><a href="#about">ABOUT</a></li>
-					<li><a href="#services">SERVICES</a></li>
-					<li><a href="#portfolio">PORTFOLIO</a></li>
-					<li><a href="#pricing">PRICING</a></li>
-					<li><a href="#contact">CONTACT</a></li>
-				</ul>
+		<div class="container-fluid">
+			<div>
+				<div class="collapse navbar-collapse" id="myNavbar">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="#about">ABOUT</a></li>
+						<li><a href="#day_of_week">DAY OF WEEK</a></li>
+					</ul>
+				</div>
 			</div>
 		</div>
 	</nav>
@@ -75,21 +61,28 @@
 		<h1>LA Metro Bike Share</h1>
 		<p>Analysis & Visualization</p>
 	</div>
-	<div class="container-fluid">
-		<div id="about" class="row">
+	<div id="about" class="container-fluid">
+		<div class="row">
 			<div class="col-sm-6 txt_content">
-				<h2><b>ABOUT</b></h2>
+				<h2><b>About</b></h2>
 				<h4>Los Angeles just launched its Metro Bike Share system at the beginning of Q3, 2016. The system consisted of over 60 stations and 1,000 bicycles( find more information from <a href="https://bikeshare.metro.net/">the original website</a>). There are currently 3 pricing options for the service; Monthly Pass, Flex Pass, and Walk-up. It also released the <a href="https://bikeshare.metro.net/about/data/">system usage dataset</a> for the recent quarter(Jul - Sep, 2016). We are interested in exploring the usage statistics and the overall trend.</h4>
 			</div>
 			<div class="col-sm-6 txt_content">
 				<img src="img/pricing_options.png" width="99%">
 			</div>
 		</div>
+	</div>
+	<div id="day_of_week" class="container-fluid">
 		<div class="row">
-			<div class="col-sm-4">
-				<h2>About Company Page</h2>
-				<h4>Lorem ipsum..</h4>
-				<p>Lorem ipsum..</p>
+			<div class="col-sm-4 txt_content">
+				<h2><b>Number of Users by Day of Week</b></h2>
+				<h4>The average number of users who check-out and check-in at each station across the whole period are shown in the right map. Readers can switch between the three Passholder Types or select the option (All), in which the result from all rider types are aggregated. Adjust 'Day of Week' to observe a trend across the whole week. Overall, riders tend to cluster around the center of the downtown LA. Station "Union Station West Portal" at the north of the downtown is also quite popular as well. We also observe that there is a large gap of area between stations in the downtown and in the east area.</h4>
+				<h4><center>
+					<figure>
+						<img src="img/union_station.png">
+						<figcaption>Union Station West Portal</figcaption>
+					</figure>
+				</center></h4>
 			</div>
 			<div class="col-sm-8">
 				<div class='tableauPlaceholder' id='viz1482885850183' style='position: relative'><noscript><a href='#'><img alt='DB_Map_by_weekday ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;43&#47;436BS3K3J&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='path' value='shared&#47;436BS3K3J' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;43&#47;436BS3K3J&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1482885850183');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='804px';vizElement.style.height='869px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
@@ -99,10 +92,9 @@
 			<div class="col-sm-8">
 				<div class='tableauPlaceholder' id='viz1482886080652' style='position: relative'><noscript><a href='#'><img alt='DB_Summary_number_of_users_by_weekday ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Summary_number_of_users_by_weekday&#47;DB_Summary_number_of_users_by_weekday&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='LAMetroBikeSharek_DB_Summary_number_of_users_by_weekday&#47;DB_Summary_number_of_users_by_weekday' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Summary_number_of_users_by_weekday&#47;DB_Summary_number_of_users_by_weekday&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1482886080652');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='804px';vizElement.style.height='869px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 			</div>
-			<div class="col-sm-4">
-				<h2>About Company Page</h2>
-				<h4>Lorem ipsum..</h4>
-				<p>Lorem ipsum..</p>
+			<div class="col-sm-4 txt_content">
+				<h2>Number of Users by Day of Week(Summary)</h2>
+				<h4>We combine the number of average users across all stations and display them on the line chart. There is a small number of Flex Pass riders and their number is relatively flat across the whole week. Conversely, we see a clear distinct pattern between Monthly Pass and Walk-up riders. The number of Monthly Pass riders tends to increase during the weekdays and subside during the weekends, and vice versa for Walk-up riders. Of course, from the pricing schema, we expected that the Monthly Pass option is targeted at local residents who commute to work regularly. Walk-up option is aimed at tourists who decide to take a ride for fun, etc.</h4>
 			</div>
 		</div>
 	</div>
