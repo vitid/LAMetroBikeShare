@@ -20,26 +20,10 @@
                 data.push([d['start_station_id'] + ":" + d['start_station_name'],d['end_station_id'] + ":" + d['end_station_name']+ ' ',d['counts']]);
             });
             data = new google.visualization.arrayToDataTable(data);
-            /*var data = new google.visualization.DataTable();
-            data.addColumn('string', 'Start');
-            data.addColumn('string', 'End');
-            data.addColumn('number', 'number_of_rides');
-            data.addRows([
-                [ 'A', 'A ', 0 ],
-                [ 'B', 'B ', 0 ],
-                [ 'C', 'D ', 0 ],
-                [ 'D','C ',0],
-                [ 'A', 'A ', 5],
-                [ 'A','D ', 3],
-                [ 'A', 'B ', 7 ],
-                [ 'C', 'C ', 6 ],
-                [ 'B', 'A ', 2 ],
-                [ 'B', 'B ', 9 ],
-                [ 'C', 'A ', 4 ]
-            ]);*/
+
             // Sets chart options.
             var options = {
-                width: 1200,
+                width: 950,
                 height:1400,
                 sankey: {
                     link: {
