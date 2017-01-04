@@ -36,11 +36,18 @@
 				border-color: transparent;
 				color: #fff !important;
 			}
-			#about,#day_of_week{
+			#about,#day_of_week,#hour_of_day,#q3_trend,#duration_taken,#revenue,#from_and_to{
 				padding-top: 50px;
 			}
 			.txt_content h4{
 				line-height: 2.0;
+			}
+			.container {
+				width: 1300px;
+			}
+			.vertical_center {
+				display: flex;
+				align-items: center;
 			}
 		</style>
 	</head>
@@ -51,7 +58,12 @@
 				<div class="collapse navbar-collapse" id="myNavbar">
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="#about">ABOUT</a></li>
-						<li><a href="#day_of_week">DAY OF WEEK</a></li>
+						<li><a href="#day_of_week">BY DAY</a></li>
+						<li><a href="#hour_of_day">BY HOUR</a></li>
+						<li><a href="#q3_trend">Q3 TREND</a></li>
+						<li><a href="#duration_taken">DURATION</a></li>
+                        <li><a href="#revenue">REVENUE</a></li>
+						<li><a href="#from_and_to">FROM & TO</a></li>
 					</ul>
 				</div>
 			</div>
@@ -61,22 +73,22 @@
 		<h1>LA Metro Bike Share</h1>
 		<p>Analysis & Visualization</p>
 	</div>
-	<div id="about" class="container-fluid">
-		<div class="row">
+	<div id="about" class="container">
+		<div class="row vertical_center">
 			<div class="col-sm-6 txt_content">
 				<h2><b>About</b></h2>
 				<h4>Los Angeles just launched its Metro Bike Share system at the beginning of Q3, 2016. The system consisted of over 60 stations and 1,000 bicycles( find more information from <a href="https://bikeshare.metro.net/">the original website</a>). There are currently 3 pricing options for the service; Monthly Pass, Flex Pass, and Walk-up. It also released the <a href="https://bikeshare.metro.net/about/data/">system usage dataset</a> for the recent quarter(Jul - Sep, 2016). We are interested in exploring the usage statistics and the overall trend.</h4>
 			</div>
 			<div class="col-sm-6 txt_content">
-				<img src="img/pricing_options.png" width="99%">
+				<img src="img/pricing_options.png" width="900">
 			</div>
 		</div>
 	</div>
-	<div id="day_of_week" class="container-fluid">
+	<div id="day_of_week" class="container">
 		<div class="row">
 			<div class="col-sm-4 txt_content">
 				<h2><b>Number of Users by Day of Week</b></h2>
-				<h4>The average number of users who check-out and check-in at each station across the whole period are shown in the right map. Readers can switch between the three Passholder Types or select the option (All), in which the result from all rider types are aggregated. Adjust 'Day of Week' to observe a trend across the whole week. Overall, riders tend to cluster around the center of the downtown LA. Station "Union Station West Portal" at the north of the downtown is also quite popular as well. We also observe that there is a large gap of area between stations in the downtown and in the east area.</h4>
+				<h4>The average number of users who check-out and check-in at each station across the whole period are shown in the map. Readers can switch between the three Passholder Types or select the option (All), in which the result from all rider types are aggregated. Adjust 'Day of Week' to observe a trend across the whole week. Overall, riders tend to cluster around the center of the downtown LA. Station "Union Station West Portal" at the north of the downtown is also quite popular as well. We also observe that there is a large gap of area between stations in the downtown and in the east area. The stations on the east are also quite crowded while we see there is a relatively lower number of usages for stations on the south.</h4>
 				<h4><center>
 					<figure>
 						<img src="img/union_station.png">
@@ -85,7 +97,7 @@
 				</center></h4>
 			</div>
 			<div class="col-sm-8">
-				<div class='tableauPlaceholder' id='viz1482885850183' style='position: relative'><noscript><a href='#'><img alt='DB_Map_by_weekday ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;43&#47;436BS3K3J&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='path' value='shared&#47;436BS3K3J' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;43&#47;436BS3K3J&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1482885850183');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='804px';vizElement.style.height='869px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+				<div class='tableauPlaceholder' id='viz1483468355529' style='position: relative'><noscript><a href='#'><img alt='DB_Map_by_weekday ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Map_by_weekday&#47;DB_Map_by_weekday&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='LAMetroBikeSharek_DB_Map_by_weekday&#47;DB_Map_by_weekday' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Map_by_weekday&#47;DB_Map_by_weekday&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1483468355529');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='804px';vizElement.style.height='869px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 			</div>
 		</div>
 		<div class="row">
@@ -95,6 +107,110 @@
 			<div class="col-sm-4 txt_content">
 				<h2>Number of Users by Day of Week(Summary)</h2>
 				<h4>We combine the number of average users across all stations and display them on the line chart. There is a small number of Flex Pass riders and their number is relatively flat across the whole week. Conversely, we see a clear distinct pattern between Monthly Pass and Walk-up riders. The number of Monthly Pass riders tends to increase during the weekdays and subside during the weekends, and vice versa for Walk-up riders. Of course, from the pricing schema, we expected that the Monthly Pass option is targeted at local residents who commute to work regularly. Walk-up option is aimed at tourists who decide to take a ride for fun, etc.</h4>
+			</div>
+		</div>
+	</div>
+	<div id="hour_of_day" class="container">
+		<div class="row">
+			<div class="col-sm-4 txt_content">
+				<h2><b>Number of Users by Hour of Day</b></h2>
+				<h4>We also explore the average number of users by hour of day in a similar manner. It is quite surprise for us to know that even in the busiest hours, the average number of bike check-ins & check-outs is still around 2 - 3. The Metro Bike system is still in its incipient state and we expect that it should accumulate more number of riders over time. For the Monthly Pass riders, we see the incoming traffic from outward areas as early as 6 AM.</h4>
+				<h4><center>
+					<figure>
+						<img src="img/start_6am_monthly_pass.png" width="60%">
+						<figcaption>Monthly Pass@6 AM (Check-out)</figcaption>
+					</figure>
+					<figure>
+						<img src="img/end_6am_monthly_pass.png" width="60%">
+						<figcaption>Monthly Pass@6 AM (Check-in)</figcaption>
+					</figure>
+				</center></h4>
+			</div>
+			<div class="col-sm-8">
+				<div class='tableauPlaceholder' id='viz1482995429488' style='position: relative'><noscript><a href='#'><img alt='DB_Map_by_hour ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Map_by_hour&#47;DB_Map_by_hour&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='LAMetroBikeSharek_DB_Map_by_hour&#47;DB_Map_by_hour' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Map_by_hour&#47;DB_Map_by_hour&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1482995429488');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='804px';vizElement.style.height='869px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-8">
+				<div class='tableauPlaceholder' id='viz1482995458556' style='position: relative'><noscript><a href='#'><img alt='DB_Summary_number_of_users_by_hour ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Summary_number_of_users_by_hour&#47;DB_Summary_number_of_users_by_hour&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='LAMetroBikeSharek_DB_Summary_number_of_users_by_hour&#47;DB_Summary_number_of_users_by_hour' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Summary_number_of_users_by_hour&#47;DB_Summary_number_of_users_by_hour&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1482995458556');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='804px';vizElement.style.height='869px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+			</div>
+			<div class="col-sm-4 txt_content">
+				<h2>Number of Users by Hour of Day(Summary)</h2>
+				<h4>
+					We combine the figures from all station to investigate the overall trends. As we observed earlier, Monthly Pass riders start their commute as early as 6 AM. We also see a Multimodeal (three peaks) distribution in case of Monthly Pass riders; the number of usages peaked out around 8 AM, noon, and 6 PM. Check-out and Check-in statistics also follow closely. Conversely, the numbers of Flex Pass and Walk-up riders pick up at the later time of the day. We also see more activities come from Walk-up riders at, and around midnight.
+				</h4>
+			</div>
+		</div>
+	</div>
+	<div id="q3_trend" class="container">
+		<div class="row text-center">
+			<div class="col-sm-12 txt_content">
+				<h2>Q3 Trend</h2>
+				<h4>Do the system attract more users over the entire Q3 period? We look at the total number of bike check-outs as time go by. We see that the inclusion of Monthly Pass option at the beginning of August drove the total number of users up significantly, as shown by the grey area. Monthly Pass's pattern clearly juxtaposes with Walk-up's. The number peaked out around the mid of August and then there is a small decline in the number of riders. Possibility they can't stand the heat?</h4>
+			</div>
+			<div class="col-sm-12">
+				<center>
+				<div class='tableauPlaceholder' id='viz1482995694573' style='position: relative'><noscript><a href='#'><img alt='DB_Overall_trend ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Overall_trend&#47;DB_Overall_trend&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='LAMetroBikeSharek_DB_Overall_trend&#47;DB_Overall_trend' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Overall_trend&#47;DB_Overall_trend&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1482995694573');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1204px';vizElement.style.height='869px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+				</center>
+			</div>
+		</div>
+	</div>
+	<div id="duration_taken" class="container" style="width: 1600px;">
+		<div class="row">
+			<div class="col-sm-4 txt_content">
+				<h2>Duration Taken</h2>
+				<h4>How about the riding duration patterns for each option? The distributions are heavily right-skew. Flex Pass and Monthly Pass riders generally finish their trip within the first 30 minutes while Walk-up riders are more relax and take a longer time. We initially remove the extreme duration by considering only users who completed their trips within the first hour but readers can adjust the range of duration manually(click on the slider or hover on the number).</h4>
+                <center>
+                    <figure>
+                        <img src="img/flexpass_30_min_threshold.png" width="400">
+                        <figcaption>Flex Pass riders maybe more sensitive to the additional fee incurred after the first 30 minutes. We see a larger drop in the percentage of number of users(adjust Duration to 25-35 to get a clearer view).</figcaption>
+                    </figure>
+                </center>
+                <center>
+                    <figure>
+                        <img src="img/walk_up_spike.png" width="400">
+                        <figcaption>The number of Walk-up riders spike up at the 1440 mins(24 hours). As stated in the data source, it may represent some bikes that are not returned properly, exceed 24 hours, etc. It may also indicate a nicher group of riders.</figcaption>
+                    </figure>
+                </center>
+			</div>
+			<div class="col-sm-8">
+				<div class='tableauPlaceholder' id='viz1483172126506' style='position: relative'><noscript><a href='#'><img alt='DB_Duration_taken ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Duration_taken&#47;DB_Duration_taken&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='LAMetroBikeSharek_DB_Duration_taken&#47;DB_Duration_taken' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Duration_taken&#47;DB_Duration_taken&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1483172126506');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='804px';vizElement.style.height='669px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+			</div>
+		</div>
+		</div>
+        <div class="row">
+            <div class="col-sm-8">
+                <center>
+                <div class='tableauPlaceholder' id='viz1483424948767' style='position: relative'><noscript><a href='#'><img alt='DB_ActualDurationVsEstimatedDuration ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_ActualDurationVsEstimatedDuration&#47;DB_ActualDurationVsEstimatedDuration&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='LAMetroBikeSharek_DB_ActualDurationVsEstimatedDuration&#47;DB_ActualDurationVsEstimatedDuration' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_ActualDurationVsEstimatedDuration&#47;DB_ActualDurationVsEstimatedDuration&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1483424948767');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='704px';vizElement.style.height='569px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+                    </center>
+            </div>
+            <div class="col-sm-4 txt_content">
+                <h4>For each pair of starting station and ending station, we retrieve the estimated duration that riders should take(as calculated from GoogleMaps' API, which take infrastructure layout into account). We calculate the average duration for those that fall within a particular estimated time frame(estimated minute is round-downed to fit in each bin segment). The round-trip data are ignored. Unsurprisingly, on average, riders take longer time than estimated. Walk-up riders deviate the most. For the first few minutes(0 - 3), the average duration taken is unexpectedly quite high. It is possible that some riders did not ride to the end station directly. I.e., they drove around the city and park back close to the check-out station.</h4>
+            </div>
+            </div>
+        </div>
+    </div>
+    <div id="revenue" class="container">
+        <div class="row text-center">
+            <div class="col-sm-12 txt_content">
+                <h2>Revenue</h2>
+                <h4>A sizable revenue is generated thorough out the quarter(noted: this does not include the initial fee for Monthly Pass and Flex Pass). Readers can click on a portion of the Pie chart to get a closer view on a particular pricing option. We use 2 Treemaps to represent 1) the number of times collected, and (2) the total revenue collected(times x fee). Treemaps are segmented by the final fee amount. As can be seen from the duration distribution, most fees the system collected are within the first hour. We also see a large portion of revenue gained from those within a long-tail(i.e., in the case of Walk-up, nearly 11% of revenue comes from 24-hours trips(priced at $168 fee), but this figure may not be entirely correct, though).</h4>
+            </div>
+            <div class="col-sm-12">
+                <center>
+                    <div class='tableauPlaceholder' id='viz1483427300936' style='position: relative'><noscript><a href='#'><img alt='DB_Revenue_Gain ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Revenue_Gain&#47;DB_Revenue_Gain&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='LAMetroBikeSharek_DB_Revenue_Gain&#47;DB_Revenue_Gain' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LA&#47;LAMetroBikeSharek_DB_Revenue_Gain&#47;DB_Revenue_Gain&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1483427300936');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1004px';vizElement.style.height='969px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+                </center>
+            </div>
+        </div>
+    </div>
+	<div id="from_and_to" class="container">
+		<div class="row">
+			<div class="col-sm-9">
+				<iframe src="sankey.html" frameborder="0" width="960" height="1420"></iframe>
+			</div>
+			<div class="col-sm-3 txt_content">
+				<h2>From & To</h2>
+				<h4>Our last visualization is a proportion of trips that come from, and go to each station. The station names is ordered by the number of check-outs(descending). Happy exploring :)</h4>
 			</div>
 		</div>
 	</div>
